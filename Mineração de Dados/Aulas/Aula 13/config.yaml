@@ -1,0 +1,4 @@
+username: '12160529882'
+client_id: 2ad844e7d7c04fab8eb2eefd3c3aefac
+client_secret: c35cc5dadcb24bc3ac216affcb350d98
+redirect_uri: http://localhost:8888/callback

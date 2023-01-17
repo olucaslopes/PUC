@@ -1,0 +1,887 @@
+name,artist,track_URI,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,playlist
+Ex's & Oh's,Elle King,spotify:track:70eDxAyAraNTiD6lx2ZEnH,0.0183,0.612,0.921,0.0,0.0576,-2.882,0.085,139.988,0.446,Nova playlist 2
+Yesterday - Remastered 2015,The Beatles,spotify:track:63uskN0xLezVg4281wzeQn,0.871,0.401,0.189,0.0,0.0968,-11.189,0.0287,94.509,0.357,Nova playlist 2
+Cocaine,Eric Clapton,spotify:track:2udGjDmpK1dH9VGyw7nrei,0.0607,0.699,0.502,0.0337,0.317,-12.526,0.0278,105.267,0.676,Nova playlist 2
+Hotel California - 2013 Remaster,Eagles,spotify:track:40riOy7x9W7GXjyGp4pjAv,0.00574,0.579,0.508,0.000494,0.0575,-9.484,0.027,147.125,0.609,Nova playlist 2
+Strawberry Fields Forever - Remastered,The Beatles,spotify:track:5EuraV2jbqB15ihd3d2Hex,0.336,0.39,0.502,0.000138,0.0713,-12.277,0.178,97.871,0.289,Nova playlist 2
+Like a Rolling Stone,Bob Dylan,spotify:track:3AhXZa8sUQht0UEdBJgpGc,0.731,0.482,0.721,0.0,0.189,-6.839,0.0321,95.263,0.557,Nova playlist 2
+Like a Stone,Audioslave,spotify:track:3YuaBvuZqcwN3CEAyyoaei,0.00797,0.614,0.568,0.0,0.0997,-5.477,0.0276,107.849,0.516,Nova playlist 2
+American Idiot,Green Day,spotify:track:6nTiIhLmQ3FWhvrGafw2zj,2.64e-05,0.38,0.988,7.86e-05,0.368,-2.042,0.0639,186.113,0.769,Nova playlist 2
+Amianto,Supercombo,spotify:track:2HwIYnboW3xZDmfbEB37zk,0.164,0.65,0.51,1.55e-06,0.315,-7.057,0.0282,126.52,0.2,Nova playlist 2
+Dream On,Aerosmith,spotify:track:5MxNLUsfh7uzROypsoO5qe,0.388,0.307,0.433,9.08e-05,0.332,-10.057,0.029,160.9,0.224,Nova playlist 2
+Man in the Box,Alice In Chains,spotify:track:6gZVQvQZOFpzIy3HblJ20F,0.00045,0.355,0.791,0.0,0.0969,-7.565,0.0453,106.392,0.758,Nova playlist 2
+I Stay Away,Alice In Chains,spotify:track:6HnZsLUDrG3HTSbh8sq2u3,0.0452,0.174,0.781,0.00346,0.0822,-7.066,0.0406,81.37,0.276,Nova playlist 2
+Do I Wanna Know?,Arctic Monkeys,spotify:track:2UzMpPKPhbcC8RbsmuURAZ,0.174,0.55,0.532,0.000347,0.218,-7.591,0.032,85.032,0.41,Nova playlist 2
+One for the Road,Arctic Monkeys,spotify:track:7Hk6vSplBGJ6zK9GcGgeIa,0.24,0.414,0.664,0.0656,0.288,-6.87,0.0379,183.67,0.863,Nova playlist 2
+Fluorescent Adolescent,Arctic Monkeys,spotify:track:2HYaqJitHc9qiG68vc0JIm,0.00193,0.651,0.823,5.77e-05,0.172,-5.148,0.0282,112.148,0.817,Nova playlist 2
+Dancing With Myself,Billy Idol,spotify:track:1BY1Vd2Bt6JPOhMvsIwtVv,0.0157,0.51,0.696,0.000104,0.297,-10.83,0.0802,176.568,0.905,Nova playlist 2
+Come A Little Closer,Cage The Elephant,spotify:track:4zf0YxjawF0Ao3aiLEbCED,0.0208,0.452,0.795,1.38e-06,0.171,-1.797,0.0315,147.961,0.341,Nova playlist 2
+Cigarette Daydreams,Cage The Elephant,spotify:track:7q2vQa5a1LCqEbssxR1QXF,0.0832,0.637,0.676,0.0,0.0819,-3.427,0.0262,113.94,0.275,Nova playlist 2
+Shake Me Down,Cage The Elephant,spotify:track:3eFepXGITXNDXXHUNqouxi,0.00463,0.457,0.613,0.000406,0.0711,-5.756,0.0295,105.111,0.132,Nova playlist 2
+Blame It on Me,George Ezra,spotify:track:2Zgnaip1c876zmBhz9HifI,0.439,0.544,0.745,0.0,0.348,-3.401,0.0276,103.971,0.455,Nova playlist 2
+À Sua Maneira (De Música Ligera) - Ao Vivo,Capital Inicial,spotify:track:0y1Cn8jcLCr5fJvvO35zuN,0.00474,0.468,0.88,0.00173,0.99,-6.302,0.0505,112.987,0.395,Nova playlist 2
+O Segundo Sol - Ao Vivo,Cássia Eller,spotify:track:6nq1UXqPzEPPIG54YMSnhn,0.533,0.424,0.713,0.0,0.741,-7.406,0.049,151.281,0.461,Nova playlist 2
+Palavras Ao Vento,Cássia Eller,spotify:track:1QjC2KRzi0Nm3L4AAREwnY,0.253,0.392,0.47,0.0,0.112,-4.975,0.0305,71.803,0.119,Nova playlist 2
+Roses,The Chainsmokers,spotify:track:3vv9phIu6Y1vX3jcqaGz5Z,0.0435,0.713,0.802,0.00377,0.309,-7.055,0.0561,100.001,0.343,Nova playlist 2
+A Sky Full of Stars,Coldplay,spotify:track:0FDzzruyVECATHXKHFs9eJ,0.00617,0.545,0.675,0.00197,0.209,-6.474,0.0279,124.97,0.162,Nova playlist 2
+The Scientist,Coldplay,spotify:track:75JFxkI2RXiU7L9VXzMkle,0.731,0.557,0.442,1.46e-05,0.11,-7.224,0.0243,146.277,0.213,Nova playlist 2
+Mountain Man,Crash Kings,spotify:track:2KdzxEjfFIA3baO9grB2eo,0.0265,0.525,0.923,7.47e-05,0.454,-5.217,0.0929,155.114,0.668,Nova playlist 2
+Non Believer,Crash Kings,spotify:track:0arqYV85RIroh1c6NsavpY,0.138,0.433,0.63,7.87e-05,0.0738,-5.725,0.027,84.312,0.508,Nova playlist 2
+My Favourite Faded Fantasy,Damien Rice,spotify:track:7tDS5ATQal5W6BqH2w9uS3,0.651,0.35,0.233,0.00117,0.262,-11.832,0.0322,146.663,0.101,Nova playlist 2
+Heroes - 1999 Remaster,David Bowie,spotify:track:5j6ZZwA9BnxZi5Bk0Ng4jB,0.000265,0.478,0.774,0.585,0.191,-6.977,0.0292,112.577,0.429,Nova playlist 2
+The Man Who Sold the World - 2015 Remaster,David Bowie,spotify:track:4mWahKerLaVddUjb8d1Q4Q,0.642,0.474,0.387,0.00557,0.143,-14.416,0.0305,118.486,0.545,Nova playlist 2
+Space Oddity - 2015 Remaster,David Bowie,spotify:track:72Z17vmmeQKAg8bptWvpVG,0.0726,0.31,0.403,9.27e-05,0.139,-13.664,0.0326,134.48,0.466,Nova playlist 2
+Thinking out Loud,Ed Sheeran,spotify:track:34gCuhDGsG4bRPIf9bb02f,0.474,0.781,0.445,0.0,0.184,-6.061,0.0295,78.998,0.591,Nova playlist 2
+Mad World,Gary Jules,spotify:track:3JOVTQ5h8HGFnDdp4VT3MP,0.976,0.344,0.0585,0.000362,0.103,-17.212,0.0373,174.149,0.323,Nova playlist 2
+Listen to the Man,George Ezra,spotify:track:6zR5rIivVSMFkgzIkVp8l9,0.505,0.599,0.548,0.0,0.0898,-5.911,0.0323,121.163,0.518,Nova playlist 2
+Budapest,George Ezra,spotify:track:7GJClzimvMSghjcrKxuf1M,0.0883,0.714,0.451,0.0,0.108,-8.268,0.0276,127.787,0.406,Nova playlist 2
+Clint Eastwood,Gorillaz,spotify:track:1RKUoGiLEbcXN4GY4spQDx,0.0253,0.663,0.694,0.0,0.0698,-8.627,0.171,167.953,0.525,Nova playlist 2
+Take Me To Church,Hozier,spotify:track:2EiGECydkS2M8OCcRHQZhT,0.588,0.456,0.67,0.0,0.116,-5.212,0.0574,128.632,0.405,Nova playlist 2
+Over The Rainbow,Israel Kamakawiwo'ole,spotify:track:3bINd6fURyFLT0sQwkjbCG,0.909,0.677,0.116,2.59e-05,0.0756,-15.703,0.0412,85.1,0.68,Nova playlist 2
+Piece of My Heart,Big Brother & The Holding Company,spotify:track:1xKQbqQtQWrtQS47fUJBtl,0.263,0.443,0.727,0.000141,0.169,-7.951,0.145,160.82,0.566,Nova playlist 2
+Look What You've Done,Jet,spotify:track:0ZSmRnXnP5fdANtVlCok1g,0.414,0.398,0.547,0.00143,0.146,-6.846,0.0261,73.396,0.305,Nova playlist 2
+Bad Reputation,Joan Jett & the Blackhearts,spotify:track:5M5ySjWYS4s6hi2pEvEwb5,0.00197,0.385,0.975,0.0167,0.0602,-4.099,0.192,204.397,0.821,Nova playlist 2
+Imagine - Remastered 2010,John Lennon,spotify:track:7pKfPomDEeI4TPT6EOYjn9,0.907,0.547,0.257,0.183,0.0935,-12.358,0.0252,75.752,0.169,Nova playlist 2
+Ruby,Kaiser Chiefs,spotify:track:0N5x5UmYcbBeHFJtCCqf62,0.00673,0.451,0.939,4.85e-06,0.0774,-2.82,0.0512,93.416,0.448,Nova playlist 2
+Eduardo E Mônica,Legião Urbana,spotify:track:6Pa6VpdGS8OfiVOEnNAHHw,0.485,0.671,0.443,0.000283,0.112,-12.776,0.0389,79.275,0.589,Nova playlist 2
+Fuck You,Lily Allen,spotify:track:5st5644IlBmKiiRE73UsoZ,0.0271,0.775,0.904,0.000303,0.06,-4.08,0.0437,130.009,0.84,Nova playlist 2
+Air Balloon,Lily Allen,spotify:track:3c2bf04YLLPlIzkv0SjWPW,0.0195,0.717,0.678,0.000434,0.201,-6.167,0.0379,94.976,0.556,Nova playlist 2
+Os Muleke É Liso,MC Rodolfinho,spotify:track:6OmKF6WW3eQtZzGQ4hDSOX,0.0659,0.837,0.709,0.0,0.213,-2.88,0.0489,129.985,0.623,Nova playlist 2
+Bumbum Granada,Mc's Zaac & Jerry Smith,spotify:track:4SCH5CuivFcShLpTg8lYOf,0.314,0.965,0.811,0.000148,0.187,-1.756,0.134,130.015,0.161,Nova playlist 2
+I'm a Believer - 2006 Remaster,The Monkees,spotify:track:3G7tRC24Uh09Hmp1KZ7LQ2,0.707,0.526,0.775,2.05e-05,0.217,-6.05,0.0352,80.106,0.962,Nova playlist 2
+About A Girl - Remastered,Nirvana,spotify:track:0zeqKbySjKbfW5jyl3PMsW,8.86e-06,0.402,0.898,8.89e-05,0.279,-6.467,0.0316,132.092,0.675,Nova playlist 2
+Molly's Lips - BBC John Peel Session 1990,Nirvana,spotify:track:0GE0aIcXIKqJbFKzoiIUMc,2.29e-05,0.319,0.896,0.105,0.0944,-9.417,0.0454,167.119,0.682,Nova playlist 2
+Smells Like Teen Spirit,Nirvana,spotify:track:1f3yAtsJtY87CTmM8RLnxf,2.55e-05,0.502,0.912,0.000173,0.106,-4.556,0.0564,116.761,0.72,Nova playlist 2
+Lithium,Nirvana,spotify:track:26D1PRJjD9Jj1JGRk88KVc,0.00174,0.678,0.656,0.0,0.0631,-6.41,0.0381,123.207,0.485,Nova playlist 2
+Pescador de ilusões,O Rappa,spotify:track:2QGzg5htcf4b0NeSLbi0K6,0.0598,0.698,0.801,3.5e-05,0.205,-8.366,0.0326,93.859,0.905,Nova playlist 2
+Cheerleader (Felix Jaehn Remix) - Radio Edit,OMI,spotify:track:6fQcqEcXfnY0L6VwS0c3gT,0.184,0.827,0.576,0.029,0.0656,-7.774,0.0372,118.04,0.41,Nova playlist 2
+1901,Phoenix,spotify:track:1mvyqSb1tOvtVP1qfWEyPa,0.0588,0.607,0.835,4.71e-05,0.195,-5.427,0.0415,144.087,0.719,Nova playlist 2
+Até Quando Esperar,Plebe Rude,spotify:track:5NykfmxWT7UILu4Xd9zk8F,0.000157,0.504,0.871,0.00179,0.118,-6.669,0.0436,94.095,0.601,Nova playlist 2
+Stand By You,Rachel Platten,spotify:track:3kSXn1osC89W8JcPLozTzs,0.146,0.506,0.897,0.000451,0.0868,-4.632,0.26,188.03,0.525,Nova playlist 2
+Rock 'n' Roll High School - 2002 Remaster,Ramones,spotify:track:4FzPIalyruWIiefI91qe4B,0.0183,0.499,0.87,0.0,0.0512,-4.431,0.126,188.853,0.893,Nova playlist 2
+Blitzkrieg Bop - 2001 Remastered Version,Ramones,spotify:track:33iQW2OneB0oNh2NfrAzqW,0.0103,0.547,0.733,0.131,0.117,-6.558,0.0433,176.198,0.962,Nova playlist 2
+Metamorfose ambulante,Raul Seixas,spotify:track:1BGrHLBKZCVGslxe0dSExv,0.425,0.497,0.553,0.0,0.294,-9.201,0.0323,136.131,0.6,Nova playlist 2
+Under the Bridge,Red Hot Chili Peppers,spotify:track:3d9DChrdc6BOeFsbrZ3Is0,0.0576,0.559,0.345,0.000105,0.141,-13.496,0.0459,84.581,0.458,Nova playlist 2
+By the Way,Red Hot Chili Peppers,spotify:track:1f2V8U1BiWaC9aJWmpOARe,0.0264,0.451,0.97,0.00355,0.102,-4.938,0.107,122.444,0.198,Nova playlist 2
+The Zephyr Song,Red Hot Chili Peppers,spotify:track:1ndGB6rvxKYN9seCYO1dTF,0.013,0.725,0.803,3.66e-05,0.0891,-4.083,0.0337,117.391,0.403,Nova playlist 2
+Can't Stop,Red Hot Chili Peppers,spotify:track:3ZOEytgrvLwQaqXreDs2Jx,0.0179,0.618,0.938,0.0,0.167,-3.442,0.0456,91.455,0.875,Nova playlist 2
+Around the World,Red Hot Chili Peppers,spotify:track:0aGQHMr7bc23Y9Ts84ffop,0.00417,0.504,0.96,0.569,0.0613,-1.464,0.183,96.682,0.774,Nova playlist 2
+Scar Tissue,Red Hot Chili Peppers,spotify:track:1G391cbiT3v3Cywg8T7DM1,0.0779,0.595,0.717,0.00274,0.108,-4.803,0.0295,88.969,0.547,Nova playlist 2
+Otherside,Red Hot Chili Peppers,spotify:track:64BbK9SFKH2jk86U3dGj2P,0.00316,0.458,0.795,0.000202,0.0756,-3.265,0.0574,123.229,0.513,Nova playlist 2
+Californication,Red Hot Chili Peppers,spotify:track:48UPSzbZjgc449aqz8bxox,0.0021,0.592,0.767,0.00165,0.127,-2.788,0.027,96.483,0.328,Nova playlist 2
+Dani California,Red Hot Chili Peppers,spotify:track:10Nmj3JCNoMeBQ87uw5j8k,0.0193,0.556,0.913,8.59e-06,0.346,-2.36,0.0437,96.184,0.73,Nova playlist 2
+Snow (Hey Oh),Red Hot Chili Peppers,spotify:track:2aibwv5hGXSgw7Yru8IYTO,0.116,0.427,0.9,1.75e-05,0.119,-3.674,0.0499,104.655,0.599,Nova playlist 2
+You've Got Time,Regina Spektor,spotify:track:1vDMGBzqLJWZC5UzePDURw,0.00464,0.321,0.955,0.00897,0.269,-2.749,0.146,167.467,0.331,Nova playlist 2
+Watch Me (Whip / Nae Nae),Silentó,spotify:track:1CvhKmrutTAta5awpJcFDn,0.234,0.819,0.768,0.0,0.334,-8.522,0.134,139.982,0.964,Nova playlist 2
+All Star,Smash Mouth,spotify:track:22c2pt75xtnDddA5Zlm0yy,0.0398,0.73,0.862,0.0,0.0818,-5.876,0.0313,104.018,0.77,Nova playlist 2
+Paper Pools,Smija,spotify:track:1oJFh04MxEmecGdJd8yPhu,0.0107,0.433,0.905,0.0,0.161,-5.094,0.281,171.791,0.641,Nova playlist 2
+There Is a Light That Never Goes Out - 2011 Remaster,The Smiths,spotify:track:0WQiDwKJclirSYG9v5tayI,0.04,0.523,0.769,0.0,0.136,-5.855,0.0269,136.162,0.876,Nova playlist 2
+"Ask - Live in London, 1986",The Smiths,spotify:track:3FROBNnTiGKsCbDvhchghx,0.0142,0.356,0.926,5e-05,0.933,-7.027,0.0545,175.654,0.781,Nova playlist 2
+You Only Live Once,The Strokes,spotify:track:4fPBB44eDH71YohayI4eKV,0.0238,0.63,0.908,0.592,0.116,-2.42,0.0326,120.522,0.968,Nova playlist 2
+Someday,The Strokes,spotify:track:7hm4HTk9encxT0LYC0J6oI,0.00425,0.539,0.521,0.0,0.367,-7.46,0.0299,106.035,0.679,Nova playlist 2
+Reptilia,The Strokes,spotify:track:57Xjny5yNzAcsxnusKmAfA,0.000603,0.489,0.649,0.713,0.101,-5.11,0.0336,158.009,0.77,Nova playlist 2
+Piloto Automático,Supercombo,spotify:track:35689kbAwieHK4YNmwEisS,0.263,0.617,0.697,0.0,0.097,-4.932,0.0352,131.981,0.519,Nova playlist 2
+Hypnotize,System Of A Down,spotify:track:6oO7WMjD6kEvCITLbVj0mu,0.0303,0.274,0.92,0.000412,0.115,-4.096,0.0489,154.016,0.0397,Nova playlist 2
+Lonely Day,System Of A Down,spotify:track:1VNWaY3uNfoeWqb5U8x2QX,0.362,0.47,0.796,1.1e-06,0.133,-3.277,0.0336,113.108,0.215,Nova playlist 2
+Metro,System Of A Down,spotify:track:7HxKFbr2SUiWzWUlhe0iIz,0.0134,0.479,0.947,0.00121,0.0507,-4.187,0.202,120.932,0.593,Nova playlist 2
+Toxicity,System Of A Down,spotify:track:7MeXwzhSDGfqNfuFANgzVC,0.000254,0.407,0.876,0.00265,0.215,-4.145,0.0529,116.335,0.521,Nova playlist 2
+Epitáfio,Titãs,spotify:track:35J9vakuC3f18QTolNAQ6E,0.481,0.723,0.611,1.44e-05,0.11,-7.006,0.0303,111.813,0.261,Nova playlist 2
+Já Sei Namorar,Tribalistas,spotify:track:2GplG03rw0CN2EMLzPJZAl,0.67,0.67,0.822,0.00115,0.132,-6.687,0.057,145.56,0.833,Nova playlist 2
+Stressed Out,Twenty One Pilots,spotify:track:3CRDbSIZ4r5MsZ0YwxuEkn,0.0462,0.734,0.637,2.29e-05,0.0602,-5.677,0.141,169.977,0.648,Nova playlist 2
+Tear in My Heart,Twenty One Pilots,spotify:track:3bnVBN67NBEzedqQuWrpP4,0.0189,0.655,0.632,0.0,0.0722,-4.802,0.0489,120.113,0.447,Nova playlist 2
+Ride,Twenty One Pilots,spotify:track:2Z8WuEywRWYTKe1NybPQEW,0.00835,0.645,0.713,0.0,0.113,-5.355,0.0393,74.989,0.566,Nova playlist 2
+Eu Me Amo,Ultraje a Rigor,spotify:track:2T2qSRinGPlJdva93W1P0w,0.0755,0.595,0.939,1.53e-06,0.827,-5.802,0.0347,154.579,0.968,Nova playlist 2
+Nós Vamos Invadir Sua Praia - Ao Vivo,Ultraje a Rigor,spotify:track:1HGzLqHYc0Kz9rHMRx6J0M,0.141,0.425,0.962,0.0,0.972,-4.565,0.159,173.613,0.822,Nova playlist 2
+Riptide,Vance Joy,spotify:track:7yq4Qj7cqayVTp3FF9CWbm,0.431,0.484,0.731,0.0,0.151,-6.694,0.0379,101.654,0.51,Nova playlist 2
+See You Again (feat. Charlie Puth),Wiz Khalifa,spotify:track:7wqSzGeodspE3V6RBD5W8L,0.369,0.689,0.481,1.03e-06,0.0649,-7.503,0.0815,80.025,0.283,Nova playlist 2
+Renegades,X Ambassadors,spotify:track:46GGxd8TVRt6FjUBfCavVT,0.0127,0.514,0.858,0.0528,0.251,-5.995,0.0896,89.833,0.6,Nova playlist 2
+Bitter Sweet Symphony,The Verve,spotify:track:5yEPxDjbbzUzyauGtnmVEC,0.0415,0.389,0.889,0.0,0.463,-6.546,0.0442,171.121,0.524,Nova playlist 2
+Spirits,The Strumbellas,spotify:track:3dv9Bvpp9HikNsEvDCKHhC,0.181,0.553,0.729,0.0,0.109,-3.696,0.0266,80.503,0.776,Nova playlist 2
+Wild Ones (feat. Sia),Flo Rida,spotify:track:1NpW5kyvO4XrNJ3rnfcNy3,0.0991,0.608,0.86,0.0,0.262,-5.324,0.0554,127.075,0.437,Nova playlist 2
+Wake Me up When September Ends,Green Day,spotify:track:3ZffCQKLFLUvYM59XKLbVm,0.023,0.546,0.814,0.0,0.0972,-5.146,0.0314,104.98,0.146,Nova playlist 2
+21 Guns,Green Day,spotify:track:64yrDBpcdwEdNY9loyEGbX,0.0518,0.268,0.742,0.0,0.626,-4.939,0.0355,159.779,0.416,Nova playlist 2
+O pulso,Titãs,spotify:track:64eSvLjkLvXeazYFL5jRtw,0.028,0.784,0.305,6.27e-05,0.103,-13.245,0.0686,125.281,0.777,Nova playlist 2
+Are You Gonna Be My Girl,Jet,spotify:track:305WCRhhS10XUcH6AEwZk6,0.00148,0.613,0.953,0.000582,0.152,-3.435,0.0855,105.046,0.537,Nova playlist 2
+God Save the Queen,Sex Pistols,spotify:track:6ui6l3ZNvlrGQZArwo8195,0.00103,0.274,0.908,0.00219,0.154,-5.419,0.0691,148.246,0.483,Nova playlist 2
+Seven Nation Army,The White Stripes,spotify:track:3ctoHckjyd13eBi2IDw2Ip,0.00576,0.75,0.462,0.545,0.307,-7.664,0.0779,123.865,0.309,Nova playlist 2
+Lovefool - Radio Edit,The Cardigans,spotify:track:1eRqy8jW4ZLMJR6dl3xsgI,0.0445,0.644,0.599,0.0,0.286,-7.941,0.0291,111.829,0.948,Nova playlist 2
+I Wanna Love You,Akon,spotify:track:4xAk8Lw82G3YoVSOdVAsBx,0.0373,0.866,0.454,1.49e-06,0.275,-9.383,0.0414,99.985,0.368,Nova playlist 2
+You Gotta Be,Des'ree,spotify:track:6CU0zWIWVTEnmWpSjVHM93,0.211,0.623,0.669,3.2e-06,0.111,-9.985,0.0412,94.028,0.492,Nova playlist 2
+Kung Fu Fighting,Carl Douglas,spotify:track:6Q2xcdZZroW8Kq9vdx4DBe,0.0508,0.602,0.664,4.58e-05,0.217,-10.34,0.073,102.361,0.548,Nova playlist 2
+Somebody That I Used To Know,Gotye,spotify:track:1qDrWA6lyx8cLECdZE7TV7,0.548,0.865,0.521,0.000115,0.0989,-6.932,0.0371,129.059,0.748,Nova playlist 2
+Gangsta's Paradise (feat. L.V.),Coolio,spotify:track:3u9fHuAtjMY1RW2mZfO4Cf,0.0372,0.641,0.63,0.0,0.4,-6.393,0.0521,79.955,0.415,Nova playlist 2
+Butterfly,Crazy Town,spotify:track:4BggEwLhGfrbrl7JBhC8EC,0.00132,0.736,0.811,0.000142,0.107,-4.17,0.081,103.502,0.609,Nova playlist 2
+Don't Worry Be Happy,Bobby McFerrin,spotify:track:4v52HuhZqVV0eNpP6vzH5I,0.884,0.644,0.165,0.000197,0.0603,-22.591,0.162,67.865,0.779,Nova playlist 2
+Baby Got Back,Sir Mix-A-Lot,spotify:track:4vvOv6MDFFPpEb1gwwb2ZD,0.00533,0.937,0.654,1.26e-06,0.0542,-11.187,0.322,128.462,0.607,Nova playlist 2
+I Love It (feat. Charli XCX),Icona Pop,spotify:track:3VZQshi4COChhXaz7cLP02,0.00855,0.714,0.905,2.55e-05,0.146,-2.663,0.0289,125.927,0.838,Nova playlist 2
+Locked out of Heaven,Bruno Mars,spotify:track:3w3y8KPTfNeOKPiqUTakBh,0.049,0.726,0.698,0.0,0.309,-4.165,0.0431,143.994,0.867,Nova playlist 2
+(What A) Wonderful World,Sam Cooke,spotify:track:2g2GkH3vZHk4lWzBjgQ6nY,0.627,0.691,0.507,0.0,0.457,-10.23,0.0343,128.518,0.885,Nova playlist 2
+On Top Of The World,Imagine Dragons,spotify:track:213x4gsFDm04hSqIUkg88w,0.0841,0.631,0.924,3.59e-06,0.084,-5.589,0.146,100.045,0.755,Nova playlist 2
+Happy Together,The Turtles,spotify:track:1JO1xLtVc8mWhIoE3YaCL0,0.55,0.584,0.367,1.38e-05,0.0818,-9.638,0.0328,120.175,0.588,Nova playlist 2
+Take Me Out,Franz Ferdinand,spotify:track:6ooluO7DiEhI1zmK94nRCM,0.000423,0.278,0.676,0.000899,0.136,-8.821,0.0371,104.545,0.494,Nova playlist 2
+Every Breath You Take - Remastered 2003,The Police,spotify:track:5C0LFQARavkPpn7JgA4sLk,0.543,0.82,0.452,0.00294,0.0701,-9.796,0.0348,117.401,0.74,Nova playlist 2
+Hymn for the Weekend - Seeb Remix,Coldplay,spotify:track:6s3GEN8wK0OMzzzZbXj0fu,0.00868,0.565,0.849,4.68e-06,0.12,-3.516,0.0517,102.034,0.427,Nova playlist 2
+DonaldTrumpMakesMeWannaSmokeCrack,Ledinsky,spotify:track:0gfmYDvAZxOl6jXk1N9Fwy,0.462,0.622,0.738,0.0,0.137,-3.456,0.0329,65.012,0.752,Nova playlist 2
+Rockaway Beach - 2002 Remaster,Ramones,spotify:track:6GoABcYvOygDUIux8cq4gU,0.000961,0.471,0.873,5.27e-05,0.109,-5.347,0.0512,187.395,0.877,Nova playlist 2
+Embrasa,BRAZA,spotify:track:7kf7ja63p7aXtuHOCl5gGH,0.0155,0.705,0.8,2.86e-05,0.246,-7.587,0.0408,89.992,0.722,Nova playlist 2
+Só os Loucos Sabem,Charlie Brown Jr.,spotify:track:3nI0piSOxAik2RCpHGloB7,0.738,0.39,0.396,0.0,0.0991,-8.18,0.0395,192.178,0.57,Nova playlist 2
+Alive,Empire of the Sun,spotify:track:7tqG3RAo8h9pHxCJFn7bZb,0.108,0.523,0.882,1.07e-06,0.0684,-3.093,0.0364,119.947,0.388,Nova playlist 2
+Barracuda,Heart,spotify:track:4f2QcB0RYGz70dXGjvpR0w,0.00293,0.538,0.908,0.124,0.123,-6.277,0.0435,137.416,0.665,Nova playlist 2
+Money - 2011 Remastered Version,Pink Floyd,spotify:track:3aoDEt6zSuYQ47gzarlaVo,0.0241,0.469,0.537,0.00201,0.269,-10.421,0.152,124.193,0.783,Nova playlist 2
+Who Are You,The Who,spotify:track:64HCsmzpvUpSTM4mNAOR5S,0.317,0.655,0.739,0.000266,0.0987,-7.778,0.0575,155.129,0.503,Nova playlist 2
+Last Nite,The Strokes,spotify:track:7kzKAuUzOITUauHAhoMoxA,0.0285,0.624,0.91,0.000198,0.0789,-5.703,0.0297,104.042,0.767,Nova playlist 2
+You Know I'm No Good,Amy Winehouse,spotify:track:4SyowQi18ym4zJGJDBnsTj,0.0132,0.705,0.806,0.00428,0.0701,-3.607,0.0309,103.383,0.734,Nova playlist 2
+Tears Dry On Their Own,Amy Winehouse,spotify:track:3jP3coGrROR7kjiDlpoRph,0.491,0.643,0.871,0.0,0.29,-2.734,0.118,121.569,0.452,Nova playlist 2
+Senhor Do Tempo,Charlie Brown Jr.,spotify:track:6C6315RjrDrqj1oqaJVGY8,0.762,0.771,0.631,0.00454,0.108,-7.276,0.0382,97.054,0.644,Nova playlist 2
+Anjos (Pra quem tem fé) - Versão completa,O Rappa,spotify:track:2fouwOFRsS5LmrCJVLe40X,0.106,0.601,0.865,0.000188,0.165,-4.153,0.045,105.02,0.46,Nova playlist 2
+Minha alma (A paz que eu não quero),O Rappa,spotify:track:2sqZ2r9v70VYUXbaQY4CXA,0.0693,0.356,0.913,2.77e-06,0.937,-6.844,0.268,103.619,0.315,Nova playlist 2
+Natasha - Ao Vivo,Capital Inicial,spotify:track:3BbGbnqvF2hJjbK3uCYq1M,0.00421,0.374,0.935,0.157,0.984,-5.729,0.0689,76.545,0.413,Nova playlist 2
+Exagerado,Cazuza,spotify:track:4d0DpU7Odiv0ztvX2GxJlk,0.0874,0.678,0.663,0.0161,0.615,-7.726,0.0307,136.388,0.822,Nova playlist 2
+Breezeblocks,alt-J,spotify:track:33OdSmu4AdBViAXDbCEqK3,0.11,0.609,0.642,0.000986,0.172,-7.337,0.0341,150.087,0.296,Nova playlist 2
+Let Me In - From The Fault in Our Stars Soundtrack,Grouplove,spotify:track:4WUduEPZZG6wiE9B5IklnY,0.00397,0.476,0.744,0.000173,0.0982,-6.602,0.0515,127.934,0.159,Nova playlist 2
+The Walker,Fitz and The Tantrums,spotify:track:46EOWTszdIfllYY4o6rjkY,0.00375,0.77,0.801,0.00281,0.0515,-4.182,0.0336,130.76,0.725,Nova playlist 2
+"Dias De Luta, Dias De Gloria",Charlie Brown Jr.,spotify:track:006pMMCuRo2TFjh8sNGSov,0.888,0.346,0.433,0.0,0.101,-10.602,0.065,77.963,0.768,Nova playlist 2
+O Vagabundo e a Dama,Oriente,spotify:track:7MQJYm0QPF2Vf0UtzKapSc,0.0654,0.715,0.85,0.0,0.413,-6.321,0.246,178.095,0.935,Nova playlist 2
+Bored To Death,blink-182,spotify:track:44TuSOP6xIAEeJmZsN3nXO,0.00575,0.502,0.966,1.56e-06,0.117,-3.876,0.0946,159.948,0.638,Nova playlist 2
+She's Out Of Her Mind,blink-182,spotify:track:6EE19skJ32p58xihYj2Waa,0.00448,0.447,0.967,0.0,0.487,-2.706,0.0793,179.991,0.606,Nova playlist 2
+Não Existe Amor em Sp,Criolo,spotify:track:6ROhm6gtkd6SDets7Jz9d6,0.391,0.604,0.412,0.016,0.0759,-9.527,0.0422,142.002,0.346,Nova playlist 2
+Cartão de Visita,Criolo,spotify:track:5J7Rk7fR2P3dN0CHH3OAB2,0.0911,0.796,0.791,0.0,0.312,-4.947,0.205,95.008,0.938,Nova playlist 2
+Passarinhos (feat. Vanessa Da Mata),Emicida,spotify:track:7cnm6MnAwwnf52Jy47WTGN,0.048,0.752,0.678,0.0,0.0971,-6.261,0.123,159.97,0.689,Nova playlist 2
+Diário de um Detento,Racionais MC's,spotify:track:7wglwZzZoWUr8sOECwpu6L,0.603,0.903,0.526,0.0,0.0973,-10.069,0.334,87.005,0.766,Nova playlist 2
+Sweet Dreams (Are Made Of This),Marilyn Manson,spotify:track:2miAut6dp9BWdGmOxwSGEC,0.00502,0.39,0.642,0.565,0.296,-5.266,0.0326,92.397,0.132,Nova playlist 2
+Chop Suey!,System Of A Down,spotify:track:5V3mdRI2yQxbSsJGDPc5lD,0.000353,0.42,0.929,0.000747,0.122,-3.899,0.121,127.204,0.3,Nova playlist 2
+B.Y.O.B.,System Of A Down,spotify:track:0EYOdF5FCkgOJJla8DI2Md,0.00662,0.538,0.981,0.0,0.219,-2.688,0.14,101.414,0.711,Nova playlist 2
+Attack,System Of A Down,spotify:track:0dxPHMZTI8TWMYRucsAFNd,0.005,0.349,0.97,3.31e-06,0.0432,-2.874,0.0892,159.779,0.299,Nova playlist 2
+Cigaro,System Of A Down,spotify:track:47EqCQZG5v4o0WFMufGf5S,0.000469,0.378,0.99,5.75e-06,0.259,-1.594,0.0611,110.709,0.761,Nova playlist 2
+Radio/Video,System Of A Down,spotify:track:41pOIT2t1rvr2Trg1HQChZ,0.171,0.358,0.921,7.64e-06,0.358,-2.467,0.0695,139.256,0.476,Nova playlist 2
+Question!,System Of A Down,spotify:track:6y2DHyCYf6azhUfXmnuH6w,0.00083,0.207,0.973,0.0158,0.318,-3.21,0.185,180.683,0.364,Nova playlist 2
+Sweat (A La La La La Long),Inner Circle,spotify:track:7kTvXtMERxvwCGcWv68ssH,0.0166,0.787,0.79,0.0,0.18,-6.649,0.21,173.032,0.948,Nova playlist 2
+Need You Now,Lady A,spotify:track:7GAaTpSoTWUTbP2Yxlt4Hd,0.0298,0.581,0.717,0.000186,0.243,-4.433,0.0318,107.884,0.316,Nova playlist 2
+Slow Ride,Foghat,spotify:track:4MYb7NWLwXNDB7bYs3HeX8,0.0202,0.493,0.586,0.00106,0.102,-13.916,0.046,113.618,0.656,Nova playlist 2
+Story of My Life,Social Distortion,spotify:track:4Q4w8aRdfhIIEhBututktL,0.0676,0.328,0.884,0.0166,0.327,-7.982,0.0338,201.868,0.686,Nova playlist 2
+Mississippi Queen,Mountain,spotify:track:5Ny6yVg3LRfz3jicFcIMlm,0.13,0.479,0.832,2.83e-05,0.0459,-4.746,0.145,140.41,0.584,Nova playlist 2
+Sunshine Of Your Love,Cream,spotify:track:4gxtH5mCSqVPTsqGcWKVOC,0.369,0.684,0.597,7.24e-05,0.127,-8.339,0.0353,115.092,0.712,Nova playlist 2
+Welcome To The Jungle,Guns N' Roses,spotify:track:0mCj9395EGJwklTBtGpLd9,0.0222,0.443,0.955,0.361,0.297,-8.066,0.0741,123.423,0.333,Nova playlist 2
+Before I Forget,Slipknot,spotify:track:1wdd1nH9JwrVc32RUmSySE,0.0177,0.291,0.974,5.44e-06,0.886,-2.997,0.171,134.724,0.348,Nova playlist 2
+Subirusdoistiozin,Criolo,spotify:track:1pkD31Pt5ZNW3N9v2cFMzc,0.0483,0.717,0.501,0.0017,0.308,-7.654,0.29,172.785,0.568,Nova playlist 2
+Dark Horse,Katy Perry,spotify:track:4kgsK0fftHtg9gZOzkU5T2,0.00396,0.645,0.589,0.0,0.145,-6.131,0.0523,131.899,0.35,Nova playlist 2
+Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,Daft Punk,spotify:track:2Foc5Q5nqNiosCNqttzHof,0.0426,0.794,0.811,1.07e-06,0.101,-8.966,0.038,116.047,0.862,Nova playlist 2
+Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground),Shakira,spotify:track:2Cd9iWfcOpGDHLz6tVA3G4,0.00627,0.766,0.873,0.0,0.0764,-6.381,0.143,126.988,0.743,Nova playlist 2
+Rolling In The Deep,Adele,spotify:track:2GblQ918RbkOs4Yo1Rpkcj,0.13,0.727,0.76,0.0,0.0584,-5.114,0.0297,104.941,0.54,Nova playlist 2
+Not Afraid,Eminem,spotify:track:4hEl2wrneFEJbJ6SDYWd2f,0.543,0.854,0.954,0.0,0.201,-1.185,0.246,114.609,0.67,Nova playlist 2
+We Will Rock You - Remastered 2011,Queen,spotify:track:4pbJqGIASGPr0ZpGpnWkDn,0.676,0.692,0.497,0.0,0.259,-7.316,0.119,81.308,0.475,Nova playlist 2
+Envolvidão - Acústico,Rael,spotify:track:23MyhBDmyFdgrSCsVTbVtT,0.767,0.512,0.577,0.0,0.0788,-4.966,0.161,86.716,0.951,Nova playlist 2
+Beatbox e Violino,Oriente,spotify:track:72e5D4PiWwW1xaa0RjHdf7,0.418,0.536,0.868,0.108,0.22,-6.557,0.256,124.997,0.634,Nova playlist 2
+The Longest Wave,Red Hot Chili Peppers,spotify:track:0pjCkLjbgSLn5c0Ilwuv8z,0.319,0.476,0.511,0.000129,0.119,-6.25,0.0324,148.158,0.339,Nova playlist 2
+Goodbye Angels,Red Hot Chili Peppers,spotify:track:2XTkpF9T2PKvcLgamGJGx1,0.104,0.365,0.804,6.58e-05,0.15,-5.922,0.105,171.597,0.577,Nova playlist 2
+Sweet Child O' Mine,Guns N' Roses,spotify:track:7o2CTH4ctstm8TNelqjb51,0.0866,0.454,0.91,0.0996,0.116,-7.766,0.0448,125.116,0.629,Nova playlist 2
+Sex on Fire,Kings of Leon,spotify:track:0ntQJM78wzOLVeCUAW7Y45,0.00172,0.542,0.905,0.0104,0.136,-5.653,0.054,153.398,0.374,Nova playlist 2
+Negro Drama,Racionais MC's,spotify:track:3ytXzEJFeVydFfmUhHvti8,0.275,0.858,0.733,0.0,0.152,-7.292,0.305,157.38,0.801,Nova playlist 2
+Basket Case,Green Day,spotify:track:6L89mwZXSOwYl76YXfX13s,0.00293,0.442,0.943,8.71e-06,0.091,-3.205,0.0602,85.064,0.781,Nova playlist 2
+Vira-Vira,Mamonas Assassinas,spotify:track:2XGRcNVv7uJozHCRLl7SG8,0.0716,0.53,0.642,0.0,0.0872,-9.462,0.11,202.068,0.809,Nova playlist 2
+Pelados Em Santos,Mamonas Assassinas,spotify:track:2iJpjciYl8vfQbb543b5Pb,0.0624,0.566,0.487,3.42e-06,0.0598,-9.902,0.0616,136.039,0.811,Nova playlist 2
+Robocop Gay,Mamonas Assassinas,spotify:track:1eDBpkZgY7p9OBVodcrX9n,0.0112,0.672,0.79,2.05e-06,0.334,-9.777,0.0376,143.98,0.921,Nova playlist 2
+Kiss Me,Sixpence None The Richer,spotify:track:4pZ2aqPV39Gw3FuHrWKWnM,0.116,0.529,0.741,1.23e-06,0.0736,-5.661,0.0268,100.004,0.455,Nova playlist 2
+Sweet Home Alabama,Lynyrd Skynyrd,spotify:track:74QCZPlpayjvQ4yJJFljfQ,0.181,0.601,0.593,0.000441,0.121,-11.685,0.0257,97.784,0.902,Nova playlist 2
+Don't Stop Believin',Journey,spotify:track:77NNZQSqzLNqh2A9JhLRkg,0.25,0.491,0.802,0.0,0.387,-7.106,0.0392,119.25,0.472,Nova playlist 2
+Losing My Religion,R.E.M.,spotify:track:74EV0g12ihUoOUXMprFpZB,0.0767,0.672,0.841,0.0,0.135,-5.992,0.0285,125.437,0.82,Nova playlist 2
+Lonely Boy,The Black Keys,spotify:track:3dOAXUx7I1qnzWzxdnsyB8,0.00417,0.356,0.872,0.00975,0.0997,-7.837,0.068,166.3,0.607,Nova playlist 2
+Should I Stay or Should I Go - Remastered,The Clash,spotify:track:39shmbIHICJ2Wxnk1fPSdz,0.0804,0.743,0.836,0.0,0.384,-6.465,0.116,113.375,0.82,Nova playlist 2
+Sweet Caroline,Neil Diamond,spotify:track:3zByVQLvdXUaDTubfWkpCk,0.611,0.529,0.127,0.000109,0.237,-16.066,0.0274,63.05,0.578,Nova playlist 2
+"You're The One That I Want - From ""Grease"" Original Motion Picture Soundtrack",John Travolta,spotify:track:3Zuf70897YkrVRAsrBMMSF,0.227,0.751,0.753,0.000784,0.209,-8.198,0.0935,106.976,0.774,Nova playlist 2
+Stayin' Alive - 2007 Remastered Version Saturday Night Fever,Bee Gees,spotify:track:5cP52DlDN9yryuZVQDg3iq,0.0291,0.704,0.834,0.00492,0.147,-7.131,0.0358,103.555,0.923,Nova playlist 2
+Do Lado de Cá,Chimarruts,spotify:track:7HacxOP2pHeSv1OsraqmDA,0.767,0.628,0.46,0.0021,0.092,-6.764,0.0575,75.708,0.677,Nova playlist 2
+All Star,Nando Reis,spotify:track:74lPucESMXF7QAYNbSFdJa,0.79,0.574,0.486,1.31e-05,0.102,-9.074,0.0444,90.039,0.634,Nova playlist 2
+Blank Space/Stand By Me - Live From Spotify London,Imagine Dragons,spotify:track:3I05foFixB2sSZvV5Ppty8,0.408,0.766,0.552,0.0,0.748,-6.729,0.0862,101.895,0.519,Nova playlist 2
+Eu Vi Gnomos,Tihuana,spotify:track:4YFH3G5YQI3Z5JwOIR8att,0.307,0.894,0.298,1.2e-06,0.0964,-10.637,0.11,116.15,0.737,Nova playlist 2
+Chama os Mulekes,ConeCrewDiretoria,spotify:track:1gjlcQSqeW1arIKqgBf2WH,0.357,0.589,0.803,0.0,0.127,-4.46,0.337,88.105,0.523,Nova playlist 2
+Esquiva da Esgrima,Criolo,spotify:track:1zyZ7YB8mKchpdncGAurpU,0.3,0.548,0.824,1.92e-06,0.066,-7.402,0.26,84.818,0.677,Nova playlist 2
+Breáco,Criolo,spotify:track:3D23CuUVIatxQ3OdQBmG0z,0.157,0.623,0.786,0.0,0.15,-6.577,0.335,182.053,0.712,Nova playlist 2
+Tropicalia,Gilberto Gil,spotify:track:1DpbjK8UdY2WHNxodfMeJ9,0.703,0.497,0.559,0.0,0.268,-11.643,0.0739,99.49,0.615,Nova playlist 2
+Summertime Sadness,Lana Del Rey,spotify:track:3BJe4B8zGnqEdQPMvfVjuS,0.0542,0.565,0.654,1.8e-06,0.122,-6.826,0.0335,111.968,0.235,Nova playlist 2
+Partiu,MC Kekel,spotify:track:1LTxGBL6yKtfmW3K8EvbSY,0.601,0.825,0.83,0.00105,0.064,-5.169,0.0593,129.911,0.758,Nova playlist 2
+Teorema De Carlão,Pedra Leticia,spotify:track:4neEbGERpYHVGPA1McjFmM,0.144,0.709,0.541,0.0,0.104,-8.763,0.0409,102.957,0.251,Nova playlist 2
+Soldier Side,System Of A Down,spotify:track:1ez4uWPnJwYufNhYTLVsJr,0.264,0.373,0.818,2.42e-06,0.119,-1.691,0.0352,76.474,0.176,Nova playlist 2
+The Sound of Silence,Disturbed,spotify:track:1Cj2vqUwlJVG27gJrun92y,0.468,0.322,0.28,1.1e-06,0.102,-9.367,0.0281,85.794,0.175,Nova playlist 2
+Revenga,System Of A Down,spotify:track:577mOFb1LAvSANIUZ4mbQ7,0.0016,0.51,0.944,0.000109,0.0686,-2.174,0.0768,140.043,0.44,Nova playlist 2
+This Cocaine Makes Me Feel Like I'm On This Song,System Of A Down,spotify:track:0DVHR5FQ0Gp2dsZJz7hfdy,0.00308,0.372,0.948,9.68e-06,0.364,-2.865,0.0992,105.534,0.6,Nova playlist 2
+Violent Pornography,System Of A Down,spotify:track:249Z7XT6mf8B2zuI0RaeS0,0.0283,0.459,0.958,0.0,0.108,-2.333,0.0877,142.707,0.586,Nova playlist 2
+Old School Hollywood,System Of A Down,spotify:track:6iFVJGxSVdFkzYQJL7Rgdk,0.000845,0.269,0.967,0.0,0.0541,-2.744,0.096,162.812,0.598,Nova playlist 2
+Lost In Hollywood,System Of A Down,spotify:track:0GrHWVTDsaWcD4nrCGr7VE,0.596,0.283,0.797,0.000412,0.125,-3.193,0.0307,155.564,0.107,Nova playlist 2
+Innervision,System Of A Down,spotify:track:45FIAvozaJMvSY43AwPqld,0.000201,0.446,0.953,0.0241,0.357,-2.268,0.0989,120.013,0.232,Nova playlist 2
+Boom!,System Of A Down,spotify:track:0ayV7kwyDrBCk4AN0ADkUd,0.000401,0.475,0.872,0.0247,0.118,-2.673,0.0415,154.569,0.284,Nova playlist 2
+I-E-A-I-A-I-O,System Of A Down,spotify:track:3Jhl9Bjqg8lTCoJTE9YtpD,0.000126,0.626,0.791,0.0219,0.439,-2.734,0.0721,133.204,0.433,Nova playlist 2
+Needles,System Of A Down,spotify:track:69y8JXal4LDOxYGNIfgzOe,0.00102,0.52,0.978,0.000233,0.0536,-3.126,0.0801,93.964,0.528,Nova playlist 2
+Deer Dance,System Of A Down,spotify:track:7m6jkjeqackwEhecoP45bA,0.0108,0.456,0.938,0.000685,0.305,-3.576,0.133,160.137,0.818,Nova playlist 2
+ATWA,System Of A Down,spotify:track:36X2aY9u5BBTisjU5M5omG,0.00317,0.352,0.786,0.0,0.597,-4.721,0.047,174.744,0.401,Nova playlist 2
+Psycho,System Of A Down,spotify:track:1LfSbPH1QCPxce41b9mmYF,0.00151,0.465,0.682,6.47e-05,0.175,-4.046,0.073,145.32,0.412,Nova playlist 2
+Aerials,System Of A Down,spotify:track:1twBt7aZiy7HWPG025QGuP,0.00107,0.404,0.923,0.0163,0.0637,-4.235,0.0547,81.058,0.248,Nova playlist 2
+Sugar,System Of A Down,spotify:track:6yKvZ1hJyl8wapjb1eVEQn,0.00158,0.445,0.887,0.00224,0.281,-2.739,0.237,131.034,0.583,Nova playlist 2
+Spiders,System Of A Down,spotify:track:3njyXewwWLp3B0p6rSMeyw,0.031,0.457,0.532,0.0109,0.349,-5.069,0.0373,137.767,0.0462,Nova playlist 2
+Treat You Better,Shawn Mendes,spotify:track:76t5B0ttSAje5KHmQbv88t,0.107,0.683,0.797,0.0,0.114,-4.085,0.246,82.916,0.758,Nova playlist 2
+Pumped Up Kicks,Foster The People,spotify:track:7w87IxuO7BDcJ3YUqCyMTT,0.145,0.733,0.71,0.115,0.0956,-5.849,0.0292,127.975,0.965,Nova playlist 2
+Relicário - Ao Vivo,Cássia Eller,spotify:track:6HhXiy5XZ81Pyv3yCZMtj1,0.53,0.3,0.7,0.0,0.186,-6.567,0.036,165.642,0.398,Nova playlist 2
+Anna Júlia,Los Hermanos,spotify:track:0aASUtDb1N96NJDwmWj5Gf,0.0445,0.427,0.817,1.67e-05,0.0801,-5.196,0.0385,148.234,0.458,Nova playlist 2
+Santeria,Sublime,spotify:track:6cJqlSO19vsfCsH1FeFI35,0.0223,0.673,0.772,1.23e-06,0.141,-5.246,0.0427,90.356,0.585,Nova playlist 2
+Let Her Go,Passenger,spotify:track:7DFNE7NO0raLIUbgzY2rzm,0.385,0.509,0.538,0.0,0.104,-7.335,0.0572,75.089,0.244,Nova playlist 2
+Walk in the Rain,Passenger,spotify:track:3pv6Z8avLOg8qkzmCtMfzN,0.231,0.216,0.487,2.17e-05,0.0655,-8.45,0.0327,65.237,0.111,Nova playlist 2
+A Thousand Miles,Vanessa Carlton,spotify:track:7ulZJytSQ43kwDjT2AL0LZ,0.328,0.454,0.827,0.0,0.226,-3.774,0.0398,94.767,0.32,Nova playlist 2
+Vou Deixar,Skank,spotify:track:0aJzrpwqEdGZQsSHLvbbpz,0.033,0.509,0.846,4.37e-05,0.12,-6.707,0.0369,135.844,0.753,Nova playlist 2
+U Can't Touch This,MC Hammer,spotify:track:1B75hgRqe7A4fwee3g3Wmu,0.00456,0.867,0.517,0.000339,0.0864,-13.222,0.0875,133.148,0.866,Nova playlist 2
+What's Up?,4 Non Blondes,spotify:track:7f0jXNMu2xjQUtmKMuWhGA,0.156,0.566,0.57,0.0,0.118,-9.875,0.0285,134.537,0.491,Nova playlist 2
+Black Beatles,Rae Sremmurd,spotify:track:21xJVN5wEbJogczYxfZhqR,0.158,0.794,0.647,0.0,0.139,-6.232,0.0628,145.945,0.345,Nova playlist 2
+"O Mundo É Bão, Sebastião! (15 Anos)",Nando Reis,spotify:track:5B4qjbdMD3N2QEK1VQzIwN,0.753,0.598,0.531,1.7e-05,0.0793,-8.276,0.0317,82.074,0.521,Nova playlist 2
+Ainda É Cedo,Legião Urbana,spotify:track:7uscfoAoI65JcSY4NyHg1t,0.32,0.612,0.675,0.00093,0.0861,-10.39,0.0388,148.336,0.803,Nova playlist 2
+Sick Love,Red Hot Chili Peppers,spotify:track:6GsP3uMCd0Dn5T37C93waZ,0.183,0.591,0.794,0.0,0.292,-5.935,0.069,147.974,0.875,Nova playlist 2
+Ain't No Rest For The Wicked - Original Version,Cage The Elephant,spotify:track:5c5a2Ptu8eyIpljhQHjIqk,0.0597,0.635,0.914,0.0,0.601,-5.631,0.111,156.014,0.922,Nova playlist 2
+Meu Novo Mundo,Charlie Brown Jr.,spotify:track:0LDT8QEHbPA0aawzm9CWP7,0.315,0.727,0.801,0.000834,0.127,-5.104,0.0285,124.057,0.896,Nova playlist 2
+Jovem,Supercombo,spotify:track:4ZgxTmsiEZnADVdr7MYaLS,0.00835,0.516,0.768,0.0,0.463,-8.043,0.0393,75.028,0.528,Nova playlist 2
+Million Reasons,Lady Gaga,spotify:track:50PWlIBU7PlGGwzgN8TiFJ,0.477,0.668,0.449,0.0,0.107,-7.897,0.0451,129.889,0.154,Nova playlist 2
+Bad Romance,Lady Gaga,spotify:track:1CZOrmHUUjeDP7N2B4Ba6S,0.00314,0.696,0.921,5.24e-05,0.0842,-3.755,0.0363,119.001,0.714,Nova playlist 2
+Telephone,Lady Gaga,spotify:track:2WiWxzOSvBrVRZMbcn8ye1,0.00521,0.824,0.836,0.000817,0.112,-5.903,0.0404,122.014,0.716,Nova playlist 2
+All The Small Things,blink-182,spotify:track:12qZHAeOyTf93YAWvGDTat,0.00844,0.442,0.893,0.0,0.529,-4.878,0.0505,148.119,0.712,Nova playlist 2
+What's My Age Again?,blink-182,spotify:track:1hWrl3T1kIH5b9zRHLfCOn,0.0133,0.398,0.954,0.000218,0.0891,-7.373,0.0715,157.766,0.433,Nova playlist 2
+7 Years,Lukas Graham,spotify:track:5kqIPrATaCc2LqxVWzQGbk,0.287,0.765,0.473,0.0,0.391,-5.829,0.0514,119.992,0.34,Nova playlist 2
+Deu Onda,MC G15,spotify:track:0EPxmvsG1BY5td4aTOkWBF,0.456,0.931,0.604,0.0,0.0488,-1.41,0.0573,129.926,0.864,Nova playlist 2
+"Sitting, Waiting, Wishing",Jack Johnson,spotify:track:1dnXuEuApvuVqQCn0v9McL,0.229,0.766,0.547,1.5e-05,0.104,-7.25,0.0264,105.01,0.556,Nova playlist 2
+I'm Yours,Jason Mraz,spotify:track:1EzrEOXmMH3G43AXT1y7pA,0.559,0.703,0.444,0.0,0.0973,-9.331,0.0417,150.96,0.712,Nova playlist 2
+Dois Rios,Skank,spotify:track:3JO8ZHz8hF9R4XUd7sGE1N,0.445,0.528,0.601,0.0,0.213,-7.269,0.0259,77.05,0.364,Nova playlist 2
+Heathens,Twenty One Pilots,spotify:track:6i0V12jOa3mr6uu4WYhUBr,0.0841,0.732,0.396,3.58e-05,0.105,-9.348,0.0286,90.024,0.548,Nova playlist 2
+Sympathy For The Devil,The Rolling Stones,spotify:track:4sFbojhVXQv7dBC9PVCcRn,0.565,0.566,0.673,1.13e-06,0.0438,-10.814,0.306,114.385,0.583,Nova playlist 2
+Anyone Who Knows What Love Is (Will Understand),Irma Thomas,spotify:track:6L2woktiAuW35BrcROmhW5,0.406,0.389,0.29,3.97e-05,0.0758,-11.868,0.0393,185.007,0.158,Nova playlist 2
+Resposta,Skank,spotify:track:19YkX6WwgFKwCQ5edvLWvn,0.254,0.59,0.524,8.47e-06,0.201,-8.108,0.0272,74.986,0.503,Nova playlist 2
+Somewhere Only We Know,Lily Allen,spotify:track:3DDGhkxq3FeUorZppSgeLE,0.935,0.314,0.286,0.0258,0.0999,-10.191,0.035,172.021,0.278,Nova playlist 2
+Vagalumes,POLLO,spotify:track:77Ztfd0fzBA9sPJNVmvyGF,0.196,0.803,0.75,0.0,0.134,-4.64,0.246,87.992,0.715,Nova playlist 2
+Uptown Funk (feat. Bruno Mars),Mark Ronson,spotify:track:32OlwWuMpZ6b0aN2RZOeMS,0.00801,0.856,0.609,8.15e-05,0.0344,-7.223,0.0824,114.988,0.928,Nova playlist 2
+Your Love,The Outfield,spotify:track:5dRQUolXAVX3BbCiIxmSsf,0.103,0.555,0.757,1.16e-06,0.0631,-7.868,0.0601,129.607,0.582,Nova playlist 2
+"Rap, Cerva, Erva e Muita Larica",ConeCrewDiretoria,spotify:track:5sIxCKnrs3V6FG0M5XxmgD,0.00323,0.787,0.713,0.0,0.0458,-2.063,0.304,86.236,0.779,Nova playlist 2
+Sutilmente,Skank,spotify:track:4pG8lbKPKkfGSniMXxZTM7,0.745,0.587,0.632,2.88e-05,0.0624,-7.254,0.0241,100.002,0.459,Nova playlist 2
+Mulher de fases,Raimundos,spotify:track:624ra5mDiibqvFYDK4yhmo,0.0122,0.502,0.967,8.22e-06,0.342,-4.14,0.0801,131.939,0.466,Nova playlist 2
+Oitavo Andar,Clarice Falcão,spotify:track:0bXGN9NcmezC64rItLPlec,0.782,0.696,0.29,0.0,0.0937,-12.138,0.048,116.899,0.704,Nova playlist 2
+Survivor,Clarice Falcão,spotify:track:5gsgPZtKKeKQK9AF4AriVj,0.636,0.688,0.546,0.0,0.0955,-5.776,0.0874,115.025,0.589,Nova playlist 2
+Here Comes The Sun - Remastered,The Beatles,spotify:track:45yEy5WJywhJ3sDI28ajTm,0.0339,0.557,0.54,0.00248,0.179,-10.484,0.0347,129.171,0.394,Nova playlist 2
+Monstros,Supercombo,spotify:track:3bGuxNAgPXwEXV3odTDoXX,0.0278,0.506,0.762,0.0,0.341,-7.662,0.0387,132.0,0.402,Nova playlist 2
+Let Me Love You,DJ Snake,spotify:track:4pdPtRcBmOSQDlJ3Fk945m,0.0784,0.476,0.718,1.02e-05,0.122,-5.309,0.0576,199.864,0.142,Nova playlist 2
+"Because I Got High - From ""Jay And Silent Bob Strike Back"" Soundtrack",Afroman,spotify:track:2UaJdr9yD2S0bi9cDhIiEP,0.164,0.799,0.314,0.0,0.158,-9.627,0.512,166.064,0.842,Nova playlist 2
+Senta Novinha,MC Fioti,spotify:track:6UPuuP84UDj9SI1MFRnGgc,0.0578,0.569,0.621,0.0,0.306,-5.925,0.156,174.387,0.3,Nova playlist 2
+Cheap Thrills (feat. Sean Paul),Sia,spotify:track:6b3b7lILUJqXcp6w9wNQSm,0.0561,0.592,0.8,2.01e-06,0.0775,-4.931,0.215,89.972,0.728,Nova playlist 2
+Esporrei na manivela,Raimundos,spotify:track:1bwle65z0TOlw4c0befbRL,0.000133,0.364,0.903,0.00135,0.191,-7.824,0.0748,91.672,0.312,Nova playlist 2
+This Is The New Shit,Marilyn Manson,spotify:track:0M80OH09xmL6yIeUHHyX0O,0.000916,0.566,0.869,0.00346,0.114,-6.084,0.1,178.113,0.647,Nova playlist 2
+Harakiri,Serj Tankian,spotify:track:6PqRjtYTjFQF1BOl7dNse0,0.00435,0.505,0.96,0.0,0.0997,-2.607,0.0475,135.013,0.525,Nova playlist 2
+Empty Walls,Serj Tankian,spotify:track:7eNCd5hipdcUscAHTguegq,0.00161,0.464,0.963,0.0,0.196,-3.568,0.0484,160.071,0.528,Nova playlist 2
+Occupied Tears,Serj Tankian,spotify:track:4h1ztZsGtKEGddleMyA9VH,0.00616,0.577,0.873,0.0,0.107,-3.974,0.0472,122.98,0.349,Nova playlist 2
+Behind Blue Eyes,Limp Bizkit,spotify:track:1KXrIYY9fvjI0wN4gc4BVN,0.489,0.589,0.484,0.0,0.113,-6.622,0.0266,120.258,0.0927,Nova playlist 2
+Take A Look Around,Limp Bizkit,spotify:track:2xI7o9zYcqynmueNH4foku,0.018,0.49,0.856,0.36,0.0871,-5.659,0.049,101.93,0.516,Nova playlist 2
+Duality,Slipknot,spotify:track:61mWefnWQOLf90gepjOCb3,0.000237,0.354,0.982,0.000294,0.204,-3.026,0.168,143.772,0.194,Nova playlist 2
+The Devil in I,Slipknot,spotify:track:5hheGdf1cb4rK0FNiedCfK,0.00591,0.398,0.939,0.000881,0.357,-2.865,0.0648,92.027,0.235,Nova playlist 2
+Killing In The Name,Rage Against The Machine,spotify:track:59WN2psjkt1tyaxjspN8fp,0.0266,0.466,0.833,0.0,0.0327,-4.215,0.304,88.785,0.661,Nova playlist 2
+Epic,Faith No More,spotify:track:4ReyTz0y3TGkX48wO3Llot,0.0222,0.358,0.893,0.0524,0.126,-7.486,0.12,174.238,0.262,Nova playlist 2
+Come As You Are,Nirvana,spotify:track:0MKGH8UMfCnq5w7nG06oM5,0.00016,0.5,0.824,0.00161,0.0916,-5.846,0.0388,120.125,0.539,Nova playlist 2
+Polly,Nirvana,spotify:track:3B5mL9DvvRmir26JrcqGpj,0.884,0.83,0.382,0.301,0.11,-11.231,0.0566,121.12,0.54,Nova playlist 2
+Rape Me,Nirvana,spotify:track:7dOw5AHPKHqLUXl9gcRyi0,0.0194,0.414,0.738,0.0,0.0598,-10.507,0.0474,111.89,0.268,Nova playlist 2
+Dumb,Nirvana,spotify:track:35SXxsmZECUxewU3uuQOa5,0.43,0.7,0.388,0.75,0.228,-13.601,0.0286,113.616,0.797,Nova playlist 2
+No One Knows,Queens of the Stone Age,spotify:track:6y20BV5L33R8YXM0YuI38N,0.0368,0.509,0.584,9.96e-05,0.384,-4.907,0.057,170.411,0.685,Nova playlist 2
+Young Folks,Peter Bjorn and John,spotify:track:4dyx5SzxPPaD8xQIid5Wjj,0.0164,0.699,0.812,0.000763,0.105,-6.005,0.0377,138.185,0.662,Nova playlist 2
+Gold,Kiiara,spotify:track:6ZSO7kPn8IMJFymyticbJO,0.615,0.6,0.412,0.0025,0.134,-9.343,0.344,113.049,0.408,Nova playlist 2
+Quero Ser Feliz Também,Natiruts,spotify:track:4bJ1zIf190a8VslcWxeSwB,0.168,0.74,0.463,0.0001,0.317,-9.366,0.0433,172.047,0.853,Nova playlist 2
+Como Tudo Deve Ser,Charlie Brown Jr.,spotify:track:3QI5bIozef0HZ1kJnA2RdT,0.352,0.523,0.489,0.24,0.108,-10.043,0.0301,77.37,0.325,Nova playlist 2
+Céu Azul,Charlie Brown Jr.,spotify:track:3xfmar3TQDEhxh6nnNh8p0,0.534,0.68,0.589,0.0,0.371,-6.945,0.0267,120.076,0.597,Nova playlist 2
+Ela Vai Voltar (Todos Os Defeitos De Uma Mulher Perfeita),Charlie Brown Jr.,spotify:track:70dJEanFPdYuWZumkrnKeX,0.424,0.676,0.657,0.000147,0.13,-7.28,0.0272,105.002,0.879,Nova playlist 2
+Happier,Ed Sheeran,spotify:track:2RttW7RAu5nOAfq6YFvApB,0.536,0.522,0.385,0.0,0.135,-7.355,0.0288,89.792,0.236,Nova playlist 2
+New Man,Ed Sheeran,spotify:track:5HDPtsnyb3maFmPL8LLUTG,0.0559,0.78,0.745,0.0,0.0595,-3.97,0.145,94.026,0.862,Nova playlist 2
+Malandragem - Ao Vivo,Cássia Eller,spotify:track:2PIHTeccvbpmrSeYrlWkfx,0.281,0.673,0.921,0.0,0.768,-6.532,0.101,135.261,0.761,Nova playlist 2
+Pray For Plagues,Bring Me The Horizon,spotify:track:5fzJpKGHEMV2Hs2EoxJVeJ,0.0148,0.307,0.98,0.00813,0.67,-4.186,0.226,130.244,0.132,Nova playlist 2
+Você Partiu Meu Coração (feat. Anitta & Wesley Safadão),Nego do Borel,spotify:track:0u8aj0c4IxeVSLTUuuq9V5,0.374,0.854,0.682,0.0,0.0697,-5.818,0.069,98.023,0.887,Nova playlist 2
+Sem Graça,Haikaiss,spotify:track:4PhzFZQnhPnaqXYLAB29MT,0.262,0.689,0.608,0.0,0.138,-8.566,0.346,92.846,0.47,Nova playlist 2
+Feel Good Inc.,Gorillaz,spotify:track:0d28khcov6AiegSCpG5TuT,0.00836,0.818,0.705,0.00233,0.613,-6.679,0.177,138.559,0.772,Nova playlist 2
+Song 2 - 2012 Remaster,Blur,spotify:track:1FTSo4v6BOZH9QxKc3MbVM,0.00178,0.674,0.789,0.00708,0.0753,-6.903,0.0676,129.802,0.918,Nova playlist 2
+Eu Escolhi Você,Clarice Falcão,spotify:track:3qHkUT55SD03xfefpeeLP4,0.219,0.539,0.814,1.31e-05,0.077,-3.637,0.0579,157.949,0.703,Nova playlist 2
+De Todos os Loucos do Mundo,Clarice Falcão,spotify:track:6SbYK3QJl07gFSNLP8vcIb,0.886,0.759,0.327,0.0,0.104,-14.039,0.0968,125.045,0.822,Nova playlist 2
+Fato raro,MC Guime,spotify:track:74cY1xFEIJ0SlkRgqOhAqr,0.168,0.861,0.854,0.0,0.127,-2.468,0.03,129.93,0.793,Nova playlist 2
+Máquina de Sexo,Chatuba de Mesquita,spotify:track:3BxHfbcnw4X4twKs9UvtHx,0.851,0.946,0.467,0.0,0.26,-12.882,0.661,126.141,0.898,Nova playlist 2
+It Was Me,Kris Bowers,spotify:track:3GdvH4l4FyIIrAkEggf5Ws,0.519,0.451,0.232,0.68,0.0641,-11.129,0.0331,116.18,0.037,Nova playlist 2
+Black,Innanet James,spotify:track:4ufogLml6D53RelfkbJYKi,0.327,0.54,0.913,0.0,0.15,-5.457,0.359,138.859,0.776,Nova playlist 2
+Stand on the Word,The Joubert Singers,spotify:track:02lV01yaocKWMs8cXivapj,0.464,0.718,0.725,0.00174,0.136,-6.726,0.0419,108.225,0.342,Nova playlist 2
+They're Gonna Hate Me,Kris Bowers,spotify:track:00KrmrkCIrjspkZ35upDdf,0.978,0.445,0.101,0.828,0.139,-17.076,0.0327,79.881,0.132,Nova playlist 2
+I-69,Roman GianArthur,spotify:track:6OFfXWLVIPHAMhQgYTcfYi,0.663,0.723,0.507,0.00212,0.0871,-8.246,0.091,86.008,0.798,Nova playlist 2
+My Dream,The Softones,spotify:track:2Xq5frbalEuTDNse40bc37,0.878,0.391,0.618,0.000223,0.133,-6.539,0.0355,126.345,0.278,Nova playlist 2
+Uno,Rex Orange County,spotify:track:5cPlVbZ5GWa67mOHGitPxM,0.762,0.776,0.428,3.72e-06,0.13,-10.343,0.272,164.047,0.523,Nova playlist 2
+You're Odysseus,Kris Bowers,spotify:track:3qIRvvAChzZUxm66q4e6IO,0.992,0.681,0.0978,0.966,0.114,-23.842,0.0696,179.979,0.891,Nova playlist 2
+Precious Possession,Anna Wise,spotify:track:3IRtNA061dFHHnKx1Q8MRr,0.646,0.607,0.296,0.00566,0.11,-9.645,0.24,137.965,0.13,Nova playlist 2
+All About Reggie,Kris Bowers,spotify:track:00qcHe4319Tc2swU20AdU2,0.466,0.579,0.697,0.0377,0.375,-6.354,0.233,145.46,0.715,Nova playlist 2
+Digital Kids,Vicktor Taiwò,spotify:track:5h8UdvN8Yese7HcctGGoMZ,0.909,0.35,0.407,1.86e-05,0.153,-10.898,0.0571,147.628,0.172,Nova playlist 2
+Obi Wan,Wolfie,spotify:track:745AhhZKEDi5FKrRM5oyut,0.231,0.505,0.659,0.0,0.258,-6.94,0.15,136.512,0.211,Nova playlist 2
+Guilty of Love,Unloved,spotify:track:3ZvBPaWMgTFWuYt5m2VnNs,0.00397,0.562,0.716,0.9,0.247,-8.72,0.0349,105.981,0.464,Nova playlist 2
+Langston Vibes,Kris Bowers,spotify:track:05yJ9BBTFp3wAkspWoRIzf,0.923,0.307,0.101,0.494,0.111,-13.653,0.0396,70.779,0.075,Nova playlist 2
+Casual Encounters,James Tillman,spotify:track:5jrIb3n9HXhbC1WSoqMVzz,0.861,0.519,0.332,0.647,0.0938,-14.349,0.0821,149.986,0.175,Nova playlist 2
+Sam & Gabe (Do You Want This?),Kris Bowers,spotify:track:5yTqf77SMnfilwMyFjOKGj,0.992,0.611,0.0526,0.908,0.104,-20.161,0.0721,116.48,0.142,Nova playlist 2
+Pop 100,Rei da Cacimbinha,spotify:track:0X0blA7A7B5wtpviXfMJMf,0.533,0.8,0.956,0.000485,0.288,-3.767,0.185,140.008,0.828,Nova playlist 2
+Morena,Scracho,spotify:track:3lMGhsGVaAO37AKy5CV8HB,0.0355,0.731,0.617,0.000102,0.147,-6.975,0.0428,139.983,0.417,Nova playlist 2
+Boa Sorte / Good Luck (feat. Ben Harper),Vanessa Da Mata,spotify:track:6A3Q8BVAAI2PW1s6MX4ZGF,0.323,0.78,0.566,0.000463,0.0814,-9.289,0.05,111.019,0.281,Nova playlist 2
+Trem-Bala - Acústico,Ana Vilela,spotify:track:66O1SfDryBYk9i3RcV5AXq,0.794,0.406,0.345,0.0,0.113,-9.631,0.0303,96.931,0.517,Nova playlist 2
+DUCKWORTH.,Kendrick Lamar,spotify:track:0CA3A2LhGO9cdx6z5EETy2,0.0457,0.549,0.736,0.0,0.267,-6.883,0.681,177.021,0.627,Nova playlist 2
+BLOOD.,Kendrick Lamar,spotify:track:3ZFwFe104aquLWAwagKgtg,0.133,0.513,0.237,0.0938,0.521,-16.683,0.24,78.563,0.447,Nova playlist 2
+DNA.,Kendrick Lamar,spotify:track:4cGeMgLcykDLAazHFpbZbU,0.00402,0.636,0.517,0.0,0.0874,-6.759,0.36,139.928,0.394,Nova playlist 2
+YAH.,Kendrick Lamar,spotify:track:22uyC54d6XAPRTlc6IchaP,0.613,0.689,0.694,0.0,0.222,-7.913,0.185,70.041,0.614,Nova playlist 2
+ELEMENT.,Kendrick Lamar,spotify:track:6rZssCJPEdQnyeEdNLKsr8,0.219,0.73,0.686,0.0,0.211,-4.713,0.491,189.889,0.459,Nova playlist 2
+FEEL.,Kendrick Lamar,spotify:track:7Lb4aeK6E6QjNBIxxHQGek,0.146,0.733,0.785,0.0,0.134,-8.368,0.351,109.932,0.486,Nova playlist 2
+LOYALTY. FEAT. RIHANNA.,Kendrick Lamar,spotify:track:7zjRBaNkVjk1vZ8JqxQIXO,0.021,0.681,0.523,0.0,0.178,-8.963,0.0542,110.812,0.473,Nova playlist 2
+PRIDE.,Kendrick Lamar,spotify:track:5AL46kwqlBX7qWP3qUppJe,0.0817,0.667,0.533,8.03e-06,0.152,-7.005,0.0562,138.865,0.392,Nova playlist 2
+LOVE. FEAT. ZACARI.,Kendrick Lamar,spotify:track:5WkPWduQVV8fh7pppm1fqg,0.289,0.801,0.58,0.0,0.153,-7.311,0.1,126.062,0.777,Nova playlist 2
+XXX. FEAT. U2.,Kendrick Lamar,spotify:track:73HCBO1XCKxNMTZLTFgs8A,0.147,0.573,0.627,1.67e-06,0.111,-7.02,0.431,170.1,0.29,Nova playlist 2
+FEAR.,Kendrick Lamar,spotify:track:3SP0MlWYfu7xt1ZfMqBxh9,0.616,0.586,0.474,1.04e-05,0.613,-7.063,0.274,149.967,0.455,Nova playlist 2
+GOD.,Kendrick Lamar,spotify:track:7ILDKRd8vc3qB749vDvuJd,0.0375,0.707,0.553,0.0,0.274,-5.935,0.0827,132.961,0.237,Nova playlist 2
+HUMBLE.,Kendrick Lamar,spotify:track:7ujx3NYtwO2LkmKGz59mXp,0.000243,0.906,0.625,3.23e-05,0.0975,-6.779,0.0903,150.018,0.423,Nova playlist 2
+LUST.,Kendrick Lamar,spotify:track:5BniTxgyzl4kPkXdiAAiEV,0.199,0.696,0.552,0.0,0.111,-9.371,0.511,94.126,0.632,Nova playlist 2
+K.O.,Pabllo Vittar,spotify:track:1J0iYsJuVhqfDhBoSLuO9A,0.505,0.689,0.713,0.0,0.0846,-4.34,0.0398,155.04,0.922,Nova playlist 2
+Nêga,Pabllo Vittar,spotify:track:4NFClFhE64d3SWLR9eyPWG,0.316,0.876,0.806,0.0,0.154,-3.559,0.103,130.006,0.26,Nova playlist 2
+Wonderwall - Remastered,Oasis,spotify:track:5qqabIl2vWzo9ApSC317sa,0.000452,0.378,0.896,0.0,0.194,-4.066,0.0407,174.302,0.469,Nova playlist 2
+Alright,Supergrass,spotify:track:5xC8uOesnn0udeXAYlAnoY,0.000479,0.467,0.958,0.199,0.299,-4.808,0.0775,145.92,0.701,Nova playlist 2
+Tubthumping,Chumbawamba,spotify:track:22HYEJveCvykVDHDiEEmjZ,0.128,0.348,0.88,0.0,0.357,-7.366,0.0978,101.185,0.606,Nova playlist 2
+Sua Amiga Vou Pegar,MC WM,spotify:track:2Q4zHSJgtlc9mWoWQXpSJX,0.0779,0.931,0.415,0.0,0.364,-6.159,0.395,130.033,0.699,Nova playlist 2
+Homem primata,Titãs,spotify:track:6L7VshJ2hM5fATDIWtGWVt,0.00955,0.636,0.731,5.99e-06,0.0226,-12.533,0.0314,81.422,0.933,Nova playlist 2
+Nails,Alaska Thunderfuck,spotify:track:6LJjk8AJjvdzuXPCX181Ga,0.00109,0.834,0.718,0.00193,0.115,-6.572,0.228,129.983,0.659,Nova playlist 2
+Pan Pan Pan Pan,DENNIS,spotify:track:30DpyWMhzhTWd9lV8mVV7t,0.455,0.955,0.86,0.0112,0.0745,-4.109,0.046,129.991,0.729,Nova playlist 2
+Tudo Que Ela Gosta De Escutar,Charlie Brown Jr.,spotify:track:3JBxvaIwVEpYtjpbt3ZjqD,0.118,0.859,0.662,1.67e-05,0.0246,-2.611,0.0472,115.384,0.915,Nova playlist 2
+Jonathan,Jonjon,spotify:track:4FzmvHmoFXV4EFctf0o5YX,0.0181,0.879,0.47,0.000235,0.268,-9.065,0.0557,126.971,0.77,Nova playlist 2
+Somewhere Only We Know,Keane,spotify:track:5LOaKdW9D2Gl9neAN94NbR,0.0575,0.445,0.59,1.08e-05,0.0832,-6.747,0.0258,172.016,0.334,Nova playlist 2
+Nêga,Pabllo Vittar,spotify:track:1P85f6JuFXI0gsIlDlGnBn,0.316,0.876,0.806,0.0,0.154,-3.559,0.103,130.006,0.26,Nova playlist 2
+Irregular,Pabllo Vittar,spotify:track:09hgfjFdBsWb6cGMdloQMp,0.0696,0.507,0.739,0.000132,0.0955,-5.535,0.039,99.932,0.081,Nova playlist 2
+Corpo Sensual,Pabllo Vittar,spotify:track:4BcWcZoludxrNoPUw5napp,0.119,0.717,0.918,0.0,0.0751,-2.638,0.0482,153.983,0.962,Nova playlist 2
+Tara,Pabllo Vittar,spotify:track:7nvlKdzkw3EJ8DsaN8YjZ1,0.128,0.683,0.646,6.26e-05,0.0713,-6.682,0.081,93.966,0.574,Nova playlist 2
+Todo Dia,Pabllo Vittar,spotify:track:3iDY4SzUHPkC3WTXpfxXJG,0.0683,0.803,0.657,0.0,0.127,-5.136,0.0455,130.013,0.128,Nova playlist 2
+Então Vai,Pabllo Vittar,spotify:track:31DEFJYOtrBjIKdTF5Ea9g,0.1,0.737,0.786,0.0,0.12,-4.908,0.0817,94.026,0.363,Nova playlist 2
+Pode Apontar,Pabllo Vittar,spotify:track:2pzyyL79A1VT0EQWEJ4TQu,0.172,0.511,0.661,0.000338,0.106,-7.318,0.138,129.448,0.429,Nova playlist 2
+Indestrutível,Pabllo Vittar,spotify:track:0fBAAxkdQryPR4zJDxH5y5,0.851,0.653,0.282,0.0,0.111,-8.068,0.0355,115.212,0.116,Nova playlist 2
+Amei Te Ver,TIAGO IORC,spotify:track:4owo0j5bw45IqiHxsTzcd6,0.0582,0.772,0.588,1.79e-06,0.335,-7.201,0.0314,90.034,0.668,Nova playlist 2
+Coisa Linda,TIAGO IORC,spotify:track:6o0rGxp5tdtX8cmqXwVIwE,0.405,0.634,0.489,0.00819,0.097,-9.325,0.0279,93.969,0.202,Nova playlist 2
+Elevação Mental,Triz,spotify:track:71Ue3Lt28PnBfJkTW0RJND,0.714,0.641,0.557,0.0,0.31,-7.915,0.366,80.47,0.486,Nova playlist 2
+Human,Rag'n'Bone Man,spotify:track:58zsLZPvfflaiIbNWoA22O,0.393,0.602,0.707,0.0,0.165,-4.097,0.302,75.087,0.554,Nova playlist 2
+and,EDEN,spotify:track:7bnGI5lWgkK2o3jxLylXAb,0.96,0.284,0.266,0.0671,0.537,-13.308,0.0357,95.337,0.0765,Nova playlist 2
+Wake Up,EDEN,spotify:track:3gcT0qbO6Lha9cLpJlZELy,0.881,0.387,0.376,0.0,0.851,-6.743,0.0338,116.667,0.395,Nova playlist 2
+I'm an Albatraoz,AronChupa,spotify:track:5MhsZlmKJG6X5kTHkdwC4B,0.601,0.883,0.817,0.00449,0.11,-5.414,0.235,128.078,0.595,Nova playlist 2
+Automaticamente,DENNIS,spotify:track:6AaoEX192rJ6o3UFwG43sV,0.0192,0.918,0.907,3.36e-06,0.0637,0.04,0.0812,132.076,0.839,Nova playlist 2
+Paraíso,Lucas Lucco,spotify:track:7u9maPG2E4cN9qChpe80qm,0.197,0.482,0.657,0.0,0.162,-8.305,0.328,94.043,0.314,Nova playlist 2
+Imaturo,Jão,spotify:track:3pGTULhIlK8hYLD7ZQzijS,0.777,0.586,0.539,0.0,0.189,-4.824,0.0857,129.776,0.673,Nova playlist 2
+Ressaca,Jão,spotify:track:27IMV2HpAnXqGSzWwYyFTY,0.297,0.515,0.576,0.0,0.444,-6.279,0.0952,119.923,0.475,Nova playlist 2
+Álcool,Jão,spotify:track:2cG9LK1VfHlJ5lHto9AgNm,0.223,0.745,0.688,1.15e-05,0.173,-5.804,0.0379,104.0,0.512,Nova playlist 2
+Monomania,Clarice Falcão,spotify:track:7kIU2N7KyDpyFTmgunErGL,0.473,0.718,0.347,0.0,0.457,-11.19,0.044,110.959,0.583,Nova playlist 2
+Felicidade,Marcelo Jeneci,spotify:track:7wqojWtf69NNjw3P5wMst6,0.61,0.65,0.499,0.00101,0.104,-9.464,0.0286,110.297,0.753,Nova playlist 2
+Under Pressure - Remastered 2011,Queen,spotify:track:2fuCquhmrzHpu5xcA1ci9x,0.429,0.671,0.712,0.0,0.103,-7.815,0.0476,113.805,0.462,Nova playlist 2
+Don't Stop Me Now - Remastered 2011,Queen,spotify:track:5T8EDUDqKcs6OSOwEsfqG7,0.0475,0.559,0.868,0.000176,0.776,-5.276,0.17,156.295,0.609,Nova playlist 2
+Bohemian Rhapsody - Remastered 2011,Queen,spotify:track:1AhDOtG9vPSOmsWgNW0BEY,0.271,0.414,0.404,0.0,0.3,-9.928,0.0499,71.105,0.224,Nova playlist 2
+Love Of My Life - Remastered 2011,Queen,spotify:track:2yX3h3NRoMWGfnXxZlF92X,0.932,0.334,0.188,2.39e-06,0.122,-11.461,0.0289,77.96,0.223,Nova playlist 2
+Alors On Danse - Radio Edit,Stromae,spotify:track:6LXRvh3S8TB5P1PKy4lY1S,0.0994,0.79,0.59,0.00203,0.065,-9.206,0.0793,119.951,0.714,Nova playlist 2
+Transplante,Marília Mendonça,spotify:track:6uyMtLQXZ8amkLyv5l7F7O,0.607,0.663,0.703,0.0,0.132,-4.394,0.0386,107.562,0.651,Nova playlist 2
+Love Lies (with Normani),Khalid,spotify:track:45Egmo7icyopuzJN0oMEdk,0.0956,0.708,0.648,0.0,0.134,-5.626,0.0449,143.955,0.338,Nova playlist 2
+Call Out My Name,The Weeknd,spotify:track:4MPTj8lMMvxLwT3EwuXFop,0.211,0.449,0.599,0.0,0.327,-4.892,0.0369,134.144,0.165,Nova playlist 2
+Black Panther,Kendrick Lamar,spotify:track:3vKU0GTHo5nl3kTCYAiqc3,0.62,0.612,0.588,3.85e-06,0.264,-9.355,0.355,90.251,0.48,Nova playlist 2
+All The Stars (with SZA),Kendrick Lamar,spotify:track:2Imq77E6CEJR5TPUxlJvTY,0.0548,0.532,0.642,0.000246,0.0991,-4.891,0.111,193.016,0.536,Nova playlist 2
+X (with 2 Chainz & Saudi),ScHoolboy Q,spotify:track:4iEpZuwhEuoilKaZjXQPbF,0.0211,0.763,0.468,0.0,0.26,-8.476,0.278,131.004,0.351,Nova playlist 2
+Opps (with Yugen Blakrok),Vince Staples,spotify:track:0Pw6Gg8QChw5iSRRSrcWXP,0.152,0.708,0.785,8.18e-05,0.406,-6.809,0.322,128.074,0.854,Nova playlist 2
+I Am,Jorja Smith,spotify:track:50qLAF3XgfhtaCGDKT4Kks,0.128,0.532,0.595,6.05e-05,0.204,-5.751,0.267,73.348,0.321,Nova playlist 2
+Paramedic!,SOB X RBE,spotify:track:4Rz2oMtjx93aWs2g6JSHys,0.16,0.858,0.647,0.0,0.143,-5.398,0.143,97.047,0.466,Nova playlist 2
+Bloody Waters (with Anderson .Paak & James Blake),Ab-Soul,spotify:track:0YOXGfOvoxzAl9XkxH8eEK,0.198,0.5,0.61,0.0,0.165,-8.812,0.453,180.457,0.195,Nova playlist 2
+"King's Dead (with Kendrick Lamar, Future & James Blake)",Jay Rock,spotify:track:4jO6mPzrEfpNvVddyo5eBW,0.00109,0.562,0.738,0.0,0.162,-4.641,0.32,81.809,0.39,Nova playlist 2
+Redemption Interlude,Zacari,spotify:track:0bi1T5Y9aXT4JAOOU2NLcV,0.633,0.391,0.442,2.35e-05,0.0835,-13.558,0.139,115.501,0.148,Nova playlist 2
+Redemption (with Babes Wodumo),Zacari,spotify:track:4YMHk2VRIQpRv4aFtRzH12,0.139,0.782,0.762,0.0188,0.124,-7.143,0.0953,125.065,0.689,Nova playlist 2
+Seasons (with Sjava & Reason),Mozzy,spotify:track:5eXvs6ntCNRWDXWKe7Ho2w,0.275,0.653,0.546,0.0,0.126,-6.774,0.367,126.857,0.302,Nova playlist 2
+Big Shot (with Travis Scott),Kendrick Lamar,spotify:track:5A4anUcHrgnqH9UorW9XbG,0.00699,0.859,0.479,0.0,0.0979,-9.07,0.217,130.06,0.298,Nova playlist 2
+Pray For Me (with Kendrick Lamar),The Weeknd,spotify:track:4FKqLfrZNloY0vp8Pxjz6c,0.0902,0.73,0.673,2.55e-05,0.104,-4.997,0.13,100.534,0.161,Nova playlist 2
+Someone Like You,Adele,spotify:track:6QPKYGnAW9QozVz2dSWqRg,0.893,0.554,0.321,0.0,0.0996,-8.251,0.028,135.047,0.288,Nova playlist 2
+Good Morning,Kanye West,spotify:track:6ksv4PtmfcY56riQEX1mTK,0.0791,0.48,0.631,0.000105,0.149,-5.488,0.116,84.164,0.515,Nova playlist 2
+Intro,J. Cole,spotify:track:52Hq1nvCDDZ17dhgGWLnCI,0.811,0.513,0.28,7.48e-05,0.087,-16.708,0.0441,111.456,0.545,Nova playlist 2
+KOD,J. Cole,spotify:track:7yotKA30dwTKNEGomV9ZsI,0.21,0.823,0.783,0.0,0.113,-6.274,0.154,141.882,0.199,Nova playlist 2
+Photograph,J. Cole,spotify:track:0bhnUFDQFCEHCBlsQfHnj5,0.0299,0.691,0.487,0.0,0.0868,-6.416,0.268,104.98,0.358,Nova playlist 2
+The Cut Off (feat. kiLL edward),J. Cole,spotify:track:3rFF7kSm5qBOOPs6ljFgPp,0.186,0.734,0.543,0.0,0.372,-7.979,0.4,78.168,0.336,Nova playlist 2
+ATM,J. Cole,spotify:track:2UciqgwVDwro0fev3MFbxJ,0.115,0.772,0.498,0.0,0.0898,-7.661,0.649,81.817,0.351,Nova playlist 2
+Motiv8,J. Cole,spotify:track:1AT4xjNarTswd0UZ5FlmKF,0.135,0.869,0.385,0.0,0.0931,-7.801,0.297,149.897,0.596,Nova playlist 2
+Kevin’s Heart,J. Cole,spotify:track:6tZ3b7ik1QDXFAZlXib0YZ,0.482,0.829,0.527,0.0,0.631,-6.644,0.367,116.079,0.475,Nova playlist 2
+BRACKETS,J. Cole,spotify:track:5sWbwccBcyHsg5LEKWGZo9,0.188,0.678,0.567,1.67e-06,0.164,-9.148,0.261,84.039,0.658,Nova playlist 2
+Once an Addict - Interlude,J. Cole,spotify:track:0Px86mRlxdB3YqpK6KXWlr,0.626,0.623,0.473,0.0,0.119,-8.336,0.461,84.066,0.138,Nova playlist 2
+FRIENDS (feat. kiLL edward),J. Cole,spotify:track:6onwlDmIVKE8bBgyBRSuS0,0.101,0.715,0.652,0.0,0.11,-7.909,0.396,109.28,0.498,Nova playlist 2
+Window Pain - Outro,J. Cole,spotify:track:5Lgqu1th1KqlG97OF2gWGe,0.0607,0.719,0.626,0.0,0.0728,-9.351,0.397,75.032,0.179,Nova playlist 2
+1985 - Intro to “The Fall Off”,J. Cole,spotify:track:7EulRO07ZgchxqKUHb8Pvc,0.145,0.679,0.648,0.0,0.182,-5.892,0.445,94.378,0.635,Nova playlist 2
+Ultralight Beam,Kanye West,spotify:track:0Wi7iEDGFY7I7NkYU6gS4n,0.627,0.672,0.397,0.0,0.54,-8.804,0.381,105.71,0.372,Nova playlist 2
+Pretty Life,Terrell Morris,spotify:track:2JMBGoth0men5HnRnZzIPH,0.0776,0.377,0.44,0.0,0.0988,-9.971,0.106,75.276,0.38,Nova playlist 2
+Sweater Weather,The Neighbourhood,spotify:track:2QjOHCTQ1Jl3zawyYOpxh6,0.0495,0.612,0.807,0.0177,0.101,-2.81,0.0336,124.053,0.398,Nova playlist 2
+Stereo Hearts (feat. Adam Levine),Gym Class Heroes,spotify:track:0qOnSQQF0yzuPWsXrQ9paz,0.0319,0.646,0.795,0.0,0.267,-3.293,0.0976,89.99,0.796,Nova playlist 2
+Caetano Veloso,Johnny Hooker,spotify:track:0TKvsdDNWOhCEQleC8B1F8,0.485,0.884,0.5,9.58e-06,0.0732,-6.737,0.0533,97.975,0.75,Nova playlist 2
+Sentimental,Los Hermanos,spotify:track:6Zv4HVHfadVo3JQSSbwY7r,0.124,0.646,0.384,0.0113,0.112,-10.214,0.0287,128.009,0.241,Nova playlist 2
+Ti Amo,Phoenix,spotify:track:62V5xyu3AMDqaQu7Ck46Fm,0.00426,0.625,0.7,0.0949,0.0737,-6.809,0.0402,121.081,0.859,Nova playlist 2
+Eu Não Sou Seu Lixo,Johnny Hooker,spotify:track:50z6C3DC3n8hYrgYtzUZ3i,0.141,0.682,0.727,6.89e-06,0.13,-5.332,0.0396,91.004,0.316,Nova playlist 2
+Pra Você Dar o Nome,5 a Seco,spotify:track:1AqJft5Jpmc2ob71KRL562,0.911,0.473,0.261,6.07e-05,0.886,-12.826,0.0305,104.133,0.169,Nova playlist 2
+Flutua,Johnny Hooker,spotify:track:5ZQvlEQGGW7XmgnhgJcIIJ,0.013,0.362,0.592,2.17e-06,0.111,-5.907,0.0305,164.096,0.323,Nova playlist 2
+Amor Marginal,Johnny Hooker,spotify:track:7uSdpAkxgB0948bW7yjjJO,0.252,0.423,0.539,2.18e-05,0.0959,-5.722,0.0368,170.51,0.196,Nova playlist 2
+Alma Sebosa,Johnny Hooker,spotify:track:0UUEYLYmrxuJgTv3j42Ie5,0.181,0.663,0.73,0.0,0.212,-5.581,0.0472,135.162,0.803,Nova playlist 2
+Volta,Johnny Hooker,spotify:track:5fRUC8B4mVENgnWd3WImdw,0.0809,0.55,0.787,0.0159,0.281,-5.316,0.0417,135.955,0.534,Nova playlist 2
+Poeira de Estrelas,Johnny Hooker,spotify:track:3ouy8mXH5rFiztH3L4OOEX,0.0549,0.583,0.696,2.11e-05,0.283,-5.584,0.0326,125.042,0.498,Nova playlist 2
+Habits (Stay High),Tove Lo,spotify:track:18AJRdgUoO9EYn11N7xzaT,0.0703,0.733,0.65,6.59e-05,0.0829,-3.539,0.0315,110.003,0.348,Nova playlist 2
+Despedida,Selvagens à Procura de Lei,spotify:track:4N4EYC0eF7ix4qh9GkeK2q,0.156,0.284,0.856,0.0,0.109,-6.325,0.146,155.96,0.444,Nova playlist 2
+Beach In Hawaii,Ziggy Marley,spotify:track:1ZPsdTkzhDeHjA5c2Rnt2I,0.211,0.807,0.458,9.01e-06,0.0839,-9.594,0.0361,100.959,0.874,Nova playlist 2
+Laranja,Maria Gadú,spotify:track:5rSO4vLLJU6i6mQ5kYQWVq,0.443,0.824,0.479,3.16e-05,0.137,-9.649,0.0381,97.918,0.546,Nova playlist 2
+rockstar (feat. 21 Savage),Post Malone,spotify:track:0e7ipj03S05BNilyu5bRzt,0.124,0.585,0.52,7.01e-05,0.131,-6.136,0.0712,159.801,0.129,Nova playlist 2
+Candy Paint,Post Malone,spotify:track:32lItqlMi4LBhb4k0BaSaC,0.64,0.664,0.667,1.22e-06,0.0753,-5.941,0.154,180.064,0.381,Nova playlist 2
+Young Dumb & Broke,Khalid,spotify:track:5Z3GHaZ6ec9bsiI5BenrbY,0.199,0.799,0.539,1.66e-05,0.165,-6.351,0.0421,136.948,0.394,Nova playlist 2
+goosebumps,Travis Scott,spotify:track:6gBFPUFcJLzWGx4lenP6h2,0.0847,0.841,0.728,0.0,0.149,-3.37,0.0484,130.049,0.43,Nova playlist 2
+Não,Tim Bernardes,spotify:track:7EaxLW81WCgYuHSu6UBcMa,0.822,0.438,0.0928,0.0,0.118,-13.709,0.0416,143.49,0.194,Nova playlist 2
+Pretty When You Cry,Lana Del Rey,spotify:track:69xuw3onPBPPxQhfPos66Q,0.384,0.509,0.549,0.0,0.36,-6.539,0.0422,109.446,0.178,Nova playlist 2
+Volta,O Terno,spotify:track:4Qq8rERaPWkDuZsvSWR9LL,0.967,0.387,0.154,0.000113,0.113,-11.68,0.0405,83.347,0.306,Nova playlist 2
+Ben,Rubel,spotify:track:1D2zMVjZm6GUfw2pfZQEHL,0.913,0.521,0.279,2.89e-05,0.136,-11.19,0.0331,110.308,0.339,Nova playlist 2
+Pense em mim,Leandro & Leonardo,spotify:track:4ssp6JVBVnlHTjMPSl7uLD,0.187,0.504,0.599,0.0,0.0693,-8.927,0.0351,149.743,0.73,Nova playlist 2
+Evidências - Ao Vivo,Chitãozinho & Xororó,spotify:track:0BZRfv6g7f9rzEMNVxiwSq,0.453,0.375,0.601,0.0,0.934,-7.614,0.0433,98.625,0.298,Nova playlist 2
+Sex on Fire,Kings of Leon,spotify:track:5A1FmxbYVRZKy4nc16MAue,0.00172,0.542,0.905,0.0104,0.136,-5.653,0.054,153.398,0.374,Nova playlist 2
+Fix You,Coldplay,spotify:track:7LVHVU3tWfcxj5aiPFEW4Q,0.164,0.209,0.417,0.00196,0.113,-8.74,0.0338,138.178,0.124,Nova playlist 2
+Yellow,Coldplay,spotify:track:3AJwUDP919kvQ9QcozQPxg,0.00239,0.429,0.661,0.000121,0.234,-7.227,0.0281,173.372,0.285,Nova playlist 2
+Evidências,Chitãozinho & Xororó,spotify:track:6JXWKlylznhLTDdyYO6iwC,0.231,0.498,0.905,0.0,0.924,-3.032,0.0442,99.047,0.354,Nova playlist 2
+Location,Khalid,spotify:track:152lZdxL1OR0ZMW6KquMif,0.33,0.736,0.449,0.000162,0.0898,-11.462,0.425,80.126,0.326,Nova playlist 2
+Saved,Khalid,spotify:track:248OFOZef6ShXv6DGgbnxU,0.189,0.739,0.448,0.0,0.118,-10.28,0.138,81.044,0.553,Nova playlist 2
+Coaster,Khalid,spotify:track:39KG4kom3enSx4GTThuDGt,0.935,0.441,0.219,0.0,0.115,-14.586,0.0419,94.021,0.244,Nova playlist 2
+Hopeless,Khalid,spotify:track:3JTtZUOiZljuWbNiasfHB6,0.643,0.785,0.702,0.0,0.175,-4.517,0.0464,116.021,0.569,Nova playlist 2
+8TEEN,Khalid,spotify:track:5bgwqaRSS3M8WHWruHgSL5,0.225,0.83,0.585,0.00209,0.0576,-5.802,0.0366,105.03,0.642,Nova playlist 2
+Psycho (feat. Ty Dolla $ign),Post Malone,spotify:track:3swc6WTsr7rl9DqQKQA55C,0.546,0.75,0.56,0.0,0.111,-8.094,0.105,140.06,0.459,Nova playlist 2
+Better Now,Post Malone,spotify:track:7dt6x5M1jzdTEt8oCbisTK,0.331,0.68,0.578,0.0,0.135,-5.804,0.04,145.038,0.341,Nova playlist 2
+Stay,Post Malone,spotify:track:4H7WNRErSbONkM06blBoGc,0.449,0.507,0.48,0.0,0.147,-5.418,0.0266,86.046,0.35,Nova playlist 2
+Spoil My Night (feat. Swae Lee),Post Malone,spotify:track:5VuxWXbt7XENQCtE9TzpTv,0.341,0.672,0.717,2.4e-05,0.106,-2.714,0.034,160.981,0.225,Nova playlist 2
+This Is America,Childish Gambino,spotify:track:0b9oOr2ZgvyQu88wzixux9,0.117,0.854,0.463,0.0,0.354,-6.159,0.137,120.024,0.549,Nova playlist 2
+Cold Blooded,Khalid,spotify:track:34izzOmykADkGT27pUjUvJ,0.777,0.71,0.405,0.000163,0.111,-10.864,0.0519,103.04,0.402,Nova playlist 2
+Tua,ANAVITÓRIA,spotify:track:6lO8GhFwhfxDXTV64nW0sn,0.839,0.755,0.263,0.0,0.126,-8.869,0.0395,119.998,0.115,Nova playlist 2
+Fica,ANAVITÓRIA,spotify:track:0lwrkYbCwtAWTI0OIWEnd6,0.469,0.493,0.509,0.0,0.093,-6.461,0.0367,188.399,0.522,Nova playlist 2
+Singular,ANAVITÓRIA,spotify:track:3eGK0WFi6ISJ9UZA6Za4HX,0.684,0.744,0.303,2.09e-06,0.109,-10.464,0.0341,119.713,0.306,Nova playlist 2
+Ao Vivo E A Cores,Matheus & Kauan,spotify:track:6jhZTGGw37atbaHoLsY9TD,0.0131,0.668,0.526,0.0,0.147,-6.174,0.0352,135.032,0.42,Nova playlist 2
+Bonsai,Supercombo,spotify:track:372NdR6AW2FBVF49gEsfST,0.0435,0.654,0.757,0.0,0.18,-7.167,0.0436,120.003,0.698,Nova playlist 2
+Try Me,The Weeknd,spotify:track:4rv1ww0dUwFZcDVPqhcOcX,0.622,0.466,0.672,0.00108,0.147,-5.777,0.068,91.673,0.108,Nova playlist 2
+O Sol,Vitor Kley,spotify:track:3IfctMaf2sfvlSLRa42Cna,0.12,0.641,0.623,0.0,0.104,-5.641,0.0256,97.532,0.65,Nova playlist 2
+American Pie,Don McLean,spotify:track:1fDsrQ23eTAVFElUMaf38X,0.699,0.531,0.481,0.0,0.0842,-11.709,0.06,138.45,0.491,Nova playlist 2
+Beija Flor,Johnny Hooker,spotify:track:6cmkl0HXVa2U7TPGDPBILH,0.392,0.438,0.536,3.94e-05,0.302,-10.322,0.0481,176.062,0.455,Nova playlist 2
+Touro,Johnny Hooker,spotify:track:57cpm8JZkZn6P7mM4KyQLe,0.013,0.791,0.959,0.000278,0.0258,-4.712,0.132,135.058,0.248,Nova playlist 2
+Corpo Fechado,Johnny Hooker,spotify:track:2QCEGIgwUPUwE0jObt9ME3,0.17,0.741,0.775,0.0,0.101,-4.674,0.116,106.892,0.449,Nova playlist 2
+Página Virada,Johnny Hooker,spotify:track:7x9jzNwM34vApAQAnlb1n8,0.0262,0.326,0.291,2.36e-06,0.103,-8.851,0.0313,78.382,0.0629,Nova playlist 2
+Crise de Carência,Johnny Hooker,spotify:track:27KKxsq33XCcVW5eL42za9,0.181,0.691,0.813,0.000105,0.297,-5.524,0.143,169.944,0.849,Nova playlist 2
+Coração de Manteiga de Garrafa,Johnny Hooker,spotify:track:2Nr9lfYhYkeTKj34BNjRFF,0.0588,0.84,0.853,1.06e-05,0.281,-5.917,0.0928,107.013,0.586,Nova playlist 2
+Intro,Johnny Hooker,spotify:track:09r8IYjQPEKJqwISjdcCjW,0.48,0.527,0.256,0.0,0.394,-13.327,0.0416,114.167,0.0377,Nova playlist 2
+Escandalizar,Johnny Hooker,spotify:track:7v9YlB8lLTGZvmAbKKA9Gx,0.0313,0.432,0.931,0.0,0.37,-3.888,0.248,150.189,0.872,Nova playlist 2
+Sem Medida - Live,Filipe Catto,spotify:track:0XOXKXKVWyyGHM98LsQsIM,0.334,0.533,0.628,0.000131,0.964,-6.898,0.0353,155.883,0.315,Nova playlist 2
+Africa,TOTO,spotify:track:2374M0fQpWi3dLnB54qaLX,0.257,0.671,0.373,8.01e-05,0.0481,-18.064,0.0323,92.718,0.732,Nova playlist 2
+Redbone,Childish Gambino,spotify:track:2Uvy6SkNqxvnH1W68dymxG,0.192,0.745,0.359,0.00628,0.138,-10.429,0.112,160.123,0.55,Nova playlist 2
+The Night We Met,Lord Huron,spotify:track:6mORGLOz79w6VsCRLWYYuK,0.969,0.443,0.369,0.277,0.638,-9.514,0.0441,174.107,0.0989,Nova playlist 2
+Zóio De Lula,Charlie Brown Jr.,spotify:track:0AsfpL8bzbmEyJsfbPPYnj,0.121,0.691,0.668,9.35e-06,0.0613,-3.355,0.0702,152.097,0.893,Nova playlist 2
+Love Like Ghosts,Lord Huron,spotify:track:1kiR6hNjilDHTrMeRG0y7h,0.769,0.472,0.549,0.00117,0.123,-7.228,0.0272,137.058,0.171,Nova playlist 2
+Until the Night Turns,Lord Huron,spotify:track:2yQSLrEyACHlPTqME5E2Rq,0.378,0.542,0.892,0.308,0.211,-6.689,0.0425,103.502,0.524,Nova playlist 2
+Dead Man's Hand,Lord Huron,spotify:track:2Nn8S5hbmwt4ozSle2gvA3,0.176,0.591,0.792,0.574,0.154,-6.944,0.0285,118.999,0.493,Nova playlist 2
+Oração,A Banda Mais Bonita da Cidade,spotify:track:0YBq701BXkMaK6V5UyvOpT,0.613,0.425,0.474,2.44e-06,0.228,-7.806,0.0314,128.631,0.379,Nova playlist 2
+Quando Bate Aquela Saudade,Rubel,spotify:track:76bcaYeKOKTrj9lEc9BZFU,0.895,0.55,0.314,0.0107,0.188,-14.133,0.0326,90.088,0.595,Nova playlist 2
+Alien Girl (Today W/ Her),Kendrick Lamar,spotify:track:6ff9CLXYk39PKFYoYCYeog,0.502,0.626,0.537,0.0835,0.111,-7.344,0.0367,95.948,0.259,Nova playlist 2
+BUTTERFLY EFFECT,Travis Scott,spotify:track:1yxgsra98r3qAtxqiGZPiX,0.0714,0.763,0.598,0.0,0.112,-6.865,0.0539,140.987,0.182,Nova playlist 2
+Ocean,Alok,spotify:track:4nraNqonMyfc0U3o8VeXVu,0.197,0.655,0.684,0.0036,0.278,-5.18,0.0269,110.037,0.27,Nova playlist 2
+Never Let Me Go,Alok,spotify:track:06ZpMjkNdIDKVf3mK29UiC,0.0447,0.722,0.84,1.28e-05,0.066,-3.939,0.0349,124.003,0.569,Nova playlist 2
+Emotionless,Drake,spotify:track:1v1IXPXl73Z7zy6f5tUa9n,0.0239,0.413,0.676,0.0,0.0811,-5.124,0.213,173.478,0.0827,Nova playlist 2
+Pisando Descalço,Maneva,spotify:track:65XFXZfU748XLkaNJYCTHV,0.42,0.767,0.508,0.0,0.19,-8.599,0.0894,79.023,0.557,Nova playlist 2
+Saudades do Tempo,Maneva,spotify:track:0eDSQsl69K3uyHXJJVyW3Y,0.64,0.777,0.389,0.0,0.208,-10.903,0.226,133.843,0.687,Nova playlist 2
+Breezeblocks,alt-J,spotify:track:7gARZ2i5u5DHC1b1n1fML5,0.118,0.569,0.645,0.00114,0.146,-7.368,0.0387,74.985,0.247,Nova playlist 2
+Stolen Dance,Milky Chance,spotify:track:2jiPHbFX5XM8TjaTfYJ0eo,0.427,0.885,0.581,0.000204,0.0759,-8.813,0.0378,114.016,0.728,Nova playlist 2
+Suppa Man de Viela,Red Lion,spotify:track:1e0rnW7YdKcqTAU271BKcG,0.0501,0.622,0.81,5.8e-05,0.544,-7.182,0.0561,159.959,0.568,Nova playlist 2
+Quem É Essa Menina,Red Lion,spotify:track:2RXmacUdivGVA6OBjuWsUC,0.0187,0.707,0.695,0.0,0.35,-6.711,0.0516,79.236,0.719,Nova playlist 2
+Coração Quebrado,Red Lion,spotify:track:5uDysDqjvrC4uBU3aSzGt3,0.814,0.846,0.316,0.00165,0.0841,-12.566,0.323,94.952,0.6,Nova playlist 2
+Largado As Traças - Acústico,Zé Neto & Cristiano,spotify:track:74gguwbBvfBTurNJUWFOsC,0.587,0.799,0.743,0.0,0.287,-6.062,0.041,121.99,0.669,Nova playlist 2
+Não Dá,Onze:20,spotify:track:4C2EiAbViqKpPTKtGyFgky,0.000277,0.553,0.903,9.68e-06,0.149,-6.148,0.0411,82.027,0.815,Nova playlist 2
+Equalize,Pitty,spotify:track:2iUxWUv5TovjBmayOcWohB,0.00577,0.578,0.62,0.0,0.104,-5.837,0.0249,88.114,0.426,Nova playlist 2
+In Bloom,Nirvana,spotify:track:0eeEzvw5Etwv6tyz2PyE6L,3.33e-05,0.436,0.876,0.000104,0.205,-4.902,0.0647,157.044,0.512,Nova playlist 2
+Black Beatles,Rae Sremmurd,spotify:track:6fujklziTHa8uoM5OQSfIo,0.142,0.794,0.632,0.0,0.128,-6.163,0.0649,145.926,0.355,Nova playlist 2
+Started From the Bottom,Drake,spotify:track:3dgQqOiQ9fCKVhNOedd2lf,0.0331,0.794,0.523,0.0,0.156,-7.829,0.161,86.307,0.56,Nova playlist 2
+FRIENDS,Marshmello,spotify:track:08bNPGLD8AhKpnnERrAc6G,0.205,0.626,0.88,0.0,0.128,-2.384,0.0504,95.079,0.534,Nova playlist 2
+Try,Mandy Harvey,spotify:track:7GaXAknKJeuzXm5LVI4Qjd,0.893,0.608,0.328,0.0516,0.0755,-10.643,0.0289,150.374,0.535,Nova playlist 2
+Amor Falso,Wesley Safadão,spotify:track:1n36knZX4bQ6FvcNEISVe9,0.228,0.776,0.827,0.0,0.0704,-3.162,0.0448,153.872,0.896,Nova playlist 2
+Como Faz Com Ela - Ao Vivo,Marília Mendonça,spotify:track:2Gvn46nwyQhUnQiFhlP7WX,0.427,0.655,0.913,0.0,0.105,-3.585,0.133,171.961,0.918,Nova playlist 2
+Romance Com Safadeza,Wesley Safadão,spotify:track:0RBOFW5424gCCCZrgECbt6,0.216,0.544,0.903,0.0,0.117,-4.11,0.0693,155.97,0.765,Nova playlist 2
+Parece Namoro - Ao Vivo | Acústico,Marília Mendonça,spotify:track:67gLKHTj5FsGwbUCcGQZFm,0.59,0.925,0.59,4.14e-06,0.105,-5.132,0.0507,128.015,0.681,Nova playlist 2
+Amante Não Tem Lar - Ao Vivo,Marília Mendonça,spotify:track:6P8v1a8jyfwG5kc7Si1kUp,0.468,0.654,0.815,0.0,0.225,-4.976,0.058,135.095,0.661,Nova playlist 2
+De Quem É a Culpa? - Ao Vivo,Marília Mendonça,spotify:track:4YhPcVIxIAJrLhFVPGbJkE,0.901,0.604,0.433,0.0,0.676,-6.256,0.0339,139.696,0.257,Nova playlist 2
+A Culpa É Dele,Marília Mendonça,spotify:track:01TYBVirOZoaY5Uw2kLGwp,0.627,0.838,0.602,0.0,0.139,-5.973,0.182,125.927,0.729,Nova playlist 2
+Propaganda - Ao Vivo,Jorge & Mateus,spotify:track:74n5d5M21JnC4WJ6gdkggK,0.381,0.614,0.782,0.0,0.399,-4.603,0.0605,167.95,0.77,Nova playlist 2
+Sorte Que Cê Beija Bem - Ao Vivo,Maiara & Maraisa,spotify:track:4NLCCQYE8415lPsXGEXScp,0.141,0.503,0.887,0.0,0.861,-4.132,0.317,92.07,0.504,Nova playlist 2
+Folgado - Ao Vivo,Marília Mendonça,spotify:track:4DYmJ19DhmxUe26QhANDYv,0.645,0.712,0.89,0.0,0.0726,-3.792,0.0729,163.848,0.569,Nova playlist 2
+Era uma Vez,Kell Smith,spotify:track:5d4KxCk9H3pH75V0UrFs8I,0.451,0.685,0.458,0.0,0.134,-6.757,0.031,94.867,0.159,Nova playlist 2
+Aquela Pessoa - Ao Vivo,Henrique & Juliano,spotify:track:3A1LphuJ5lQD6NjPtxtYFh,0.535,0.688,0.744,0.0,0.376,-5.739,0.0351,108.059,0.751,Nova playlist 2
+Amor Da Sua Cama,Felipe Araújo,spotify:track:2cwFhwT6L2D4Olc25nhyZo,0.298,0.607,0.688,0.0,0.163,-6.83,0.136,168.002,0.638,Nova playlist 2
+"Não largo, não troco, não empresto - Ao vivo",Paula Mattos,spotify:track:4zqCBe1iQ1454Ogg8PKon1,0.595,0.574,0.712,0.0,0.859,-4.293,0.0966,76.639,0.422,Nova playlist 2
+A Loucura dos Sábios,Gigante No Mic,spotify:track:0gX1734h2HB4jkvtZwZt7Q,0.162,0.668,0.927,0.0,0.103,-3.464,0.191,89.978,0.877,Nova playlist 2
+Anel de Giges,Fabio Brazza,spotify:track:1O5O4HU1nxnrENYM2kCTR4,0.505,0.618,0.657,0.0,0.293,-6.981,0.367,95.092,0.502,Nova playlist 2
+De Volta Para O Futuro,Fabio Brazza,spotify:track:0RmS0ecDGdSv4ucPUOCPGp,0.3,0.61,0.857,0.0,0.0752,-5.906,0.416,150.055,0.471,Nova playlist 2
+Regime Fechado - Ao Vivo,Simone & Simaria,spotify:track:3laDGpbCmdrGOhjrcYIBYB,0.0597,0.666,0.881,0.0,0.403,-3.137,0.114,137.915,0.847,Nova playlist 2
+Dona Maria,Thiago Brava,spotify:track:0dGqIEsFN3KakdPCMkgjre,0.846,0.746,0.447,0.0,0.201,-7.485,0.118,139.994,0.924,Nova playlist 2
+Apelido Carinhoso,Gusttavo Lima,spotify:track:6wXYGqXCLtEHx4VDb2TPcM,0.12,0.708,0.82,0.0,0.131,-6.283,0.0839,146.038,0.654,Nova playlist 2
+Solteiro Apaixonado,Marcos & Belutti,spotify:track:1n8MLpbFR0fuCjNnlyuHxS,0.671,0.631,0.928,0.0,0.356,-3.62,0.126,168.1,0.782,Nova playlist 2
+"Morto, Vivo",Bonde do Tigrão,spotify:track:2r7YmhUEAK6y4QxLiWB7FI,0.428,0.955,0.692,4.13e-05,0.0541,-7.258,0.329,129.951,0.879,Nova playlist 2
+Bengala e Crochê,Maiara & Maraisa,spotify:track:5y6ZsH8qwUxJ1DWqrXgrO2,0.581,0.632,0.632,0.0,0.179,-4.26,0.137,73.925,0.394,Nova playlist 2
+Loka,Simone & Simaria,spotify:track:4rMTRPQcWIcZAlKR8bygRY,0.0484,0.646,0.835,0.0,0.11,-4.004,0.208,179.982,0.691,Nova playlist 2
+Sorte Que Cê Beija Bem,Maiara & Maraisa,spotify:track:22xhOsboQUbdIuR4qcl4OG,0.141,0.503,0.887,0.0,0.861,-4.132,0.317,92.07,0.504,Nova playlist 2
+Vó Tô Estourado,Israel Novaes,spotify:track:1UNMZsDkzbUg47tyMFGAK9,0.434,0.754,0.917,0.0,0.0754,-3.623,0.103,93.012,0.728,Nova playlist 2
+Novinha Você É uma Flor,MC Alexandre,spotify:track:4kiauw5SBqEsu5GuGD09aM,0.23,0.86,0.469,0.0,0.0988,-6.262,0.109,130.126,0.769,Nova playlist 2
+Estranho - Ao Vivo | Acústico,Marília Mendonça,spotify:track:0rOYqGZFzJzVGcZyXrN3fO,0.493,0.739,0.504,0.0,0.0956,-5.925,0.0576,155.876,0.391,Nova playlist 2
+Ressaca,Jão,spotify:track:0sz3uRsWO2ZQhw5DZ2cSdT,0.266,0.727,0.569,0.0,0.414,-6.179,0.0492,119.833,0.557,Nova playlist 2
+Me Beija Com Raiva,Jão,spotify:track:7kRhodBTcAQXGoZdTEw8fZ,0.271,0.621,0.677,0.0,0.102,-5.739,0.0669,150.027,0.483,Nova playlist 2
+Mulher Maravilha - Ao Vivo,Zé Neto & Cristiano,spotify:track:2cbMXc0P5s271VwZOUk1Gb,0.768,0.634,0.487,0.000349,0.911,-4.835,0.028,135.874,0.322,Nova playlist 2
+I Will Wait,Mumford & Sons,spotify:track:1PuLHwFZoh5qYK89I5YBdZ,0.0119,0.486,0.769,0.00832,0.197,-5.14,0.0341,131.286,0.393,Nova playlist 2
+The Cave,Mumford & Sons,spotify:track:2F79HavLHwJlfvvJOkkIQD,0.0536,0.592,0.499,4.52e-05,0.113,-9.463,0.0375,141.937,0.346,Nova playlist 2
+HUMBLE.,Kendrick Lamar,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.000282,0.908,0.621,5.39e-05,0.0958,-6.638,0.102,150.011,0.421,Nova playlist 2
+Bixinho,DUDA BEAT,spotify:track:388J1r4kupLJSr0gxlETie,0.225,0.685,0.501,0.0,0.096,-7.492,0.0334,147.922,0.366,Nova playlist 2
+Ouvi Dizer,Melim,spotify:track:1LWxbKRR5lDZOrhs9fm1gl,0.0712,0.509,0.608,0.0,0.095,-7.663,0.0634,79.148,0.685,Nova playlist 2
+Walk On the Wild Side,Lou Reed,spotify:track:5p3JunprHCxClJjOmcLV8G,0.683,0.575,0.318,0.000202,0.0934,-16.729,0.109,104.522,0.385,Nova playlist 2
+Hate To Say I Told You So,The Hives,spotify:track:20j7B6mL9gnNvG3ic6Vwh5,0.00126,0.459,0.931,0.00881,0.412,-5.024,0.0612,135.826,0.419,Nova playlist 2
+Creep,Radiohead,spotify:track:6b2oQwSGFkzsMtQruIWm2p,0.0102,0.515,0.43,0.000141,0.129,-9.935,0.0369,91.841,0.104,Nova playlist 2
+Algo Parecido,Skank,spotify:track:2QkXuBmYljpYwgcyqbA1C2,0.511,0.55,0.637,0.0,0.123,-6.913,0.0268,167.908,0.652,Nova playlist 2
+The Kids Aren't Alright,The Offspring,spotify:track:01a0J96fRD91VnjQQUCqMK,0.00594,0.527,0.941,2.89e-05,0.0641,-4.213,0.0377,99.636,0.793,Nova playlist 2
+Fragmentar,Ana Muller,spotify:track:69iMniK8fdYQTxIL6015ob,0.885,0.495,0.195,0.00416,0.11,-14.741,0.0411,123.733,0.238,Nova playlist 2
+Bolo de Rolo,DUDA BEAT,spotify:track:7uQ8qIiTMx7qSbNeCiLJll,0.124,0.637,0.649,0.0119,0.201,-8.05,0.0304,140.007,0.38,Nova playlist 2
+Derretendo,DUDA BEAT,spotify:track:0Nbx02bCJ6STUhPObYjx8j,0.469,0.655,0.315,0.000591,0.0976,-11.0,0.105,105.038,0.127,Nova playlist 2
+Anunciação,Alceu Valença,spotify:track:661Ns9G25zHdih4qVshBO7,0.451,0.539,0.745,0.000239,0.103,-7.854,0.0279,99.92,0.78,Nova playlist 2
+The Ringer,Eminem,spotify:track:2jt2WxXMCD4zjACthkJQVE,0.0311,0.939,0.551,0.0,0.192,-9.126,0.291,118.552,0.42,Nova playlist 2
+Convoque Seu Buda,Criolo,spotify:track:7JZ64ID4jsXpYc6rQOadjo,0.0483,0.614,0.703,1.31e-06,0.402,-7.287,0.342,80.76,0.721,Nova playlist 2
+Notificação Preferida - Ao Vivo,Zé Neto & Cristiano,spotify:track:2qkNnJvQvhLiZ63X1L3eFz,0.778,0.398,0.838,0.0,0.189,-4.734,0.13,156.008,0.206,Nova playlist 2
+Como Vai Você,Johnny Hooker,spotify:track:34YGyBhxVc5vPtZir1Vtx8,0.228,0.371,0.586,9.14e-05,0.16,-7.136,0.0393,164.311,0.305,Nova playlist 2
+Coração de Aço,Hungria Hip Hop,spotify:track:6waLZw9qNP36DtHFPeyTz6,0.844,0.803,0.325,0.0,0.571,-13.116,0.204,133.952,0.282,Nova playlist 2
+"Eu Vou Fazer uma Macumba Pra Te Amarrar, Maldito!",Johnny Hooker,spotify:track:7msXzgcaJf7lStDOkfE8We,0.0684,0.718,0.808,6.51e-06,0.0732,-5.261,0.0581,132.036,0.71,Nova playlist 2
+Trouble,Cage The Elephant,spotify:track:5n0CTysih20NYdT2S0Wpe8,0.392,0.47,0.623,0.000439,0.0992,-5.655,0.0302,77.861,0.298,Nova playlist 2
+I Miss You,blink-182,spotify:track:1AdYZ6X00nXmO613Y7GJOl,0.00113,0.423,0.714,6.28e-06,0.0855,-8.295,0.045,110.017,0.593,Nova playlist 2
+Another Love,Tom Odell,spotify:track:3JvKfv6T31zO0ini8iNItO,0.695,0.445,0.537,1.65e-05,0.0944,-8.532,0.04,122.769,0.131,Nova playlist 2
+Brasileiro,Selvagens à Procura de Lei,spotify:track:75b4ikzsyoDj8UeXPVP55W,0.103,0.411,0.937,2.42e-06,0.152,-5.301,0.149,103.393,0.727,Nova playlist 2
+Cerveja De Garrafa (Fumaça Que Eu Faço) - Ao Vivo,Atitude 67,spotify:track:2PADJK4rhdklqFLQFa5oMX,0.599,0.673,0.841,0.0,0.723,-4.968,0.0591,162.961,0.663,Nova playlist 2
+Te Assumi Pro Brasil - Ao Vivo,Matheus & Kauan,spotify:track:2d3TbSkAscvT3QRQalq6uT,0.237,0.63,0.827,0.0,0.646,-4.65,0.0687,125.977,0.484,Nova playlist 2
+Quelqu'un M'a Dit,Carla Bruni,spotify:track:2v9AGeylYJq2EjC9vtSr99,0.823,0.559,0.448,0.00125,0.126,-10.418,0.0481,133.484,0.399,Nova playlist 2
+Last Party,MIKA,spotify:track:2wRprsy3uEt0beb6fSJlBl,0.818,0.586,0.316,0.0,0.102,-8.34,0.0347,124.569,0.205,Nova playlist 2
+A Cera,O Surto,spotify:track:4QA1Kjk24XZKPxooXeBdNn,0.0753,0.589,0.745,0.0,0.0661,-4.06,0.0535,133.281,0.491,Nova playlist 2
+Não É Sério,Charlie Brown Jr.,spotify:track:3u7efYoUbxVuKWHbirjvma,0.0353,0.749,0.777,7.48e-06,0.108,-5.917,0.0506,92.071,0.749,Nova playlist 2
+Te Levar Daqui,Charlie Brown Jr.,spotify:track:6JLYVgzEKbXjFh7jbq1OdH,0.00231,0.606,0.977,0.000144,0.293,-2.308,0.101,116.998,0.488,Nova playlist 2
+Lutar Pelo Que E Meu,Charlie Brown Jr.,spotify:track:6LArtYoT4DUAldcgPZvyWr,0.0616,0.572,0.953,2.07e-05,0.368,-3.998,0.0453,94.023,0.854,Nova playlist 2
+Proibida Pra Mim (Grazon),Charlie Brown Jr.,spotify:track:5HOkVB35cz5nK6ZeRj0xM6,0.00606,0.57,0.93,0.00381,0.102,-3.14,0.0477,163.751,0.925,Nova playlist 2
+Papo Reto (Prazer É Sexo O Resto É Negócio),Charlie Brown Jr.,spotify:track:0B5nSzWGWwvYbKl3GvCMuZ,0.00183,0.637,0.987,2.46e-06,0.118,-2.755,0.0679,101.042,0.546,Nova playlist 2
+Não Viva Em Vão - Versão Acústica,Charlie Brown Jr.,spotify:track:7r4WElntGwUCc6rQCnnfPH,0.286,0.677,0.518,0.000232,0.271,-15.054,0.0358,90.048,0.729,Nova playlist 2
+Quinta-Feira,Charlie Brown Jr.,spotify:track:3wYFP2c1IPzUgtoZFLaQDb,0.0977,0.723,0.646,0.179,0.0647,-4.495,0.0658,143.669,0.824,Nova playlist 2
+Vem Ser Minha,Charlie Brown Jr.,spotify:track:0DZy6nJdqvHSeobBaOBJI6,0.112,0.665,0.712,0.0,0.109,-6.264,0.0883,148.678,0.74,Nova playlist 2
+Só Por Uma Noite,Charlie Brown Jr.,spotify:track:3FXo3xKG3aYV3hvdRzUY61,0.000382,0.574,0.964,0.0045,0.0578,-2.745,0.0458,109.037,0.644,Nova playlist 2
+Telegrama,Zeca Baleiro,spotify:track:7xpDGoUGbtaquk5xMvzwTh,0.117,0.643,0.501,0.0463,0.239,-7.981,0.0424,94.514,0.394,Nova playlist 2
+Wet Dreamz,J. Cole,spotify:track:6Ius4TC0L3cN74HT7ENE6e,0.0751,0.517,0.705,0.0,0.128,-8.205,0.364,175.906,0.584,Nova playlist 2
+Rindo À Toa,Falamansa,spotify:track:6AgLck54Q7UMolf5WASUEx,0.478,0.618,0.563,0.0,0.0553,-8.889,0.0542,79.824,0.836,Nova playlist 2
+Eu Me Lembro (feat. Silva),Clarice Falcão,spotify:track:7opN62oy6MZBaGgnKdHtng,0.664,0.78,0.184,0.001,0.118,-12.92,0.0407,95.994,0.299,Nova playlist 2
+Married Life,Michael Giacchino,spotify:track:7iocNjLrxPHLl8njgRlv5U,0.97,0.278,0.0675,0.732,0.0812,-20.946,0.04,82.626,0.112,Nova playlist 2
+Você Ainda Pensa?,Johnny Hooker,spotify:track:10DE6O4VjuIG6yncZPkLma,0.0672,0.651,0.689,0.0,0.327,-6.239,0.0423,111.94,0.536,Nova playlist 2
+wish you were gay,Billie Eilish,spotify:track:3Fj47GNK2kUF0uaEDgXLaD,0.39,0.853,0.351,9.38e-06,0.752,-10.198,0.241,118.028,0.282,Nova playlist 2
+"Hello, Anxiety",Phum Viphurit,spotify:track:1ZseaIKt19broBzze3F8hz,0.589,0.84,0.495,0.552,0.103,-9.54,0.0406,125.993,0.808,Nova playlist 2
+I Am Not a Robot,MARINA,spotify:track:4Og5nDOUVu3ZrYQP4Ungyg,0.57,0.606,0.636,1.65e-06,0.0944,-4.559,0.0278,120.04,0.452,Nova playlist 2
+Trevo (Tu),ANAVITÓRIA,spotify:track:2vRBYKWOyHtFMtiK60qRz7,0.877,0.676,0.374,0.000132,0.165,-8.201,0.0266,99.825,0.2,Nova playlist 2
+Quem Me Dera,Márcia Fellipe,spotify:track:29dRTbLTxRaSl63DIzbjvl,0.115,0.815,0.723,0.0,0.184,-3.611,0.0574,149.918,0.896,Nova playlist 2
+Construção,Chico Buarque,spotify:track:3FIuBxOxuQ6kYy8JO0gq2a,0.24,0.479,0.725,1.19e-05,0.158,-5.615,0.0298,126.727,0.595,Nova playlist 2
+Infarto,Diego & Victor Hugo,spotify:track:0XEJ7eph2IWFYZc73Jm3n2,0.276,0.619,0.796,0.0,0.173,-4.516,0.0346,124.817,0.605,Nova playlist 2
+"Quem Pegou, Pegou - Ao Vivo",Henrique & Juliano,spotify:track:0kCqaybZgYcLYxzZymmBoc,0.299,0.69,0.67,0.0,0.749,-5.345,0.0317,104.022,0.579,Nova playlist 2
+Não Deixe O Mar Te Engolir,Charlie Brown Jr.,spotify:track:13ngzqLaMikTeh1BfUsCmS,0.0158,0.475,0.768,0.000516,0.0606,-4.521,0.0623,156.046,0.527,Nova playlist 2
+La Belle De Jour,Alceu Valença,spotify:track:7CdDIvw3jvjNaIs5m3mM4A,0.159,0.644,0.404,0.000291,0.167,-12.54,0.0348,105.062,0.689,Nova playlist 2
+N,Nando Reis,spotify:track:7iNcOVH9n4EEY2rwWAQOsA,0.718,0.517,0.479,0.0,0.115,-8.201,0.028,149.182,0.546,Nova playlist 2
+Scary Mask,Poppy,spotify:track:4VjybROx5xcSYJPAicGNLw,0.00367,0.285,0.917,0.00296,0.173,-5.5,0.132,97.294,0.248,Nova playlist 2
+Real Death,Mount Eerie,spotify:track:4RLr8yJXuhJ6ZrIQkZ4JlA,0.676,0.562,0.187,0.00186,0.132,-18.183,0.0442,75.965,0.0913,Nova playlist 2
+Bédi Beat,DUDA BEAT,spotify:track:4u1GfVTNwHmHx6DAD50ZL1,0.00538,0.76,0.756,0.00582,0.43,-7.159,0.0353,130.0,0.815,Nova playlist 2
+The Man Who Sold The World,Nirvana,spotify:track:15VRO9CQwMpbqUYA7e6Hwg,0.425,0.483,0.753,0.000142,0.257,-8.937,0.0832,115.102,0.42,Nova playlist 2
+The Adventures of Rain Dance Maggie,Red Hot Chili Peppers,spotify:track:0PgNhIg5n0UAOBVn43b8b6,0.00112,0.683,0.734,0.0139,0.258,-4.523,0.029,106.254,0.576,Nova playlist 2
+Road Trippin',Red Hot Chili Peppers,spotify:track:7Gpr3kKk4BMgItz6UbI73q,0.28,0.378,0.474,0.00138,0.117,-8.202,0.0271,102.379,0.38,Nova playlist 2
+Numb,Linkin Park,spotify:track:2nLtzopw4rPReszdYBJU6h,0.0046,0.496,0.863,0.0,0.639,-4.153,0.0381,110.018,0.243,Nova playlist 2
+Everlong,Foo Fighters,spotify:track:5UWwZ5lm5PKu6eKsHAGxOk,5.99e-05,0.413,0.881,0.000308,0.0805,-5.541,0.0367,158.066,0.364,Nova playlist 2
+Come Out and Play,The Offspring,spotify:track:5JJDu0Z5DKe7mR31MGksSg,0.0675,0.519,0.77,3.48e-06,0.0762,-8.788,0.0809,158.29,0.921,Nova playlist 2
+Self Esteem,The Offspring,spotify:track:1FkoVC85Ds3mFoK0fVqEqP,0.0204,0.488,0.862,0.0,0.359,-7.595,0.0476,104.56,0.706,Nova playlist 2
+What Happened to You?,The Offspring,spotify:track:3U8LpjEbSlUQusIifQ3yBp,0.14,0.469,0.943,0.0,0.155,-7.095,0.0493,182.048,0.925,Nova playlist 2
+The Kids Aren't Alright,The Offspring,spotify:track:4EchqUKQ3qAQuRNKmeIpnf,0.00704,0.523,0.943,3.81e-05,0.0579,-4.203,0.0337,99.607,0.766,Nova playlist 2
+Self Esteem,The Offspring,spotify:track:6EsBn1Md8C5YdbCzvwvZq8,0.0173,0.458,0.912,0.0,0.363,-3.666,0.0618,104.522,0.611,Nova playlist 2
+Come Out And Play (Keep ‘Em Separated),The Offspring,spotify:track:0Yb5Kfpf3boElZNa61wPdJ,0.0535,0.481,0.856,6.75e-06,0.0847,-3.764,0.162,158.405,0.847,Nova playlist 2
+Gone Away - 1997,The Offspring,spotify:track:5BnFZLH99sYav2cxJFGO2n,0.012,0.45,0.945,0.00687,0.0683,-3.995,0.0806,111.342,0.294,Nova playlist 2
+Dark Necessities,Red Hot Chili Peppers,spotify:track:2oaK4JLVnmRGIO9ytBE1bt,0.0722,0.7,0.742,0.0199,0.11,-6.777,0.0716,91.959,0.197,Nova playlist 2
+Ela,Tim Bernardes,spotify:track:3ZV87D1YcdCJhynXdTiqVu,0.93,0.717,0.0481,0.00014,0.126,-18.158,0.0417,110.492,0.361,Nova playlist 2
+Como Faz - Acústico,Flora Matos,spotify:track:0gSHtloPUrlggSXlzaU9TB,0.791,0.639,0.26,1.45e-05,0.258,-7.558,0.142,91.423,0.417,Nova playlist 2
+Be Yourself,Audioslave,spotify:track:3zwmW1gM4E8FlHXV5nE16u,0.143,0.423,0.845,5.07e-06,0.213,-3.509,0.0559,116.602,0.317,Nova playlist 2
+Sorriso ao Sono,Phill Veras,spotify:track:2vGvPQNnyybJmiqpr1HiKX,0.7,0.627,0.342,0.166,0.082,-12.833,0.0394,80.03,0.513,Nova playlist 2
+"Ai, Ai, Como Eu Me Iludo",O Terno,spotify:track:3eMkpAa2ntFVStoZ91XoD9,0.353,0.36,0.55,5.37e-06,0.191,-7.01,0.0783,154.257,0.341,Nova playlist 2
+Tijolão - Ao Vivo,Jorge & Mateus,spotify:track:6QwFUcPc5nhsqZuhXUYtV7,0.469,0.637,0.877,0.0,0.343,-3.68,0.198,118.889,0.691,Nova playlist 2
+Solteiro Não Trai - Ao Vivo,Gustavo Mioto,spotify:track:7oEr56KG6odStlQH0nvdyr,0.483,0.493,0.832,0.0,0.956,-3.42,0.201,157.964,0.599,Nova playlist 2
+Melhor Saída - Ao Vivo,Lauana Prado,spotify:track:704li4NOyKCQY6qNdoEW5n,0.391,0.781,0.833,0.0,0.964,-3.131,0.038,110.06,0.693,Nova playlist 2
+Deixa Eu Te Chamar de Meu Amor,Breno & Caio Cesar,spotify:track:0EyxB6uQOUC4ex2tbJuu6m,0.1,0.719,0.781,0.0,0.197,-5.131,0.0535,156.012,0.713,Nova playlist 2
+Sem Sal - Ao Vivo,Marília Mendonça,spotify:track:0E5S49GCejjIo9Bjmo5Q4z,0.112,0.559,0.844,0.0,0.935,-3.685,0.124,139.385,0.823,Nova playlist 2
+Bebo Litro - Ao Vivo,Maiara & Maraisa,spotify:track:5bp0iH4hXKrvwxi64oDGon,0.483,0.596,0.835,0.0,0.349,-2.886,0.087,138.801,0.689,Nova playlist 2
+Sofro Onde Eu Quiser,Yasmin Santos,spotify:track:2Xr33epIjw1fbwOhrng4Pd,0.285,0.746,0.503,0.0,0.111,-7.208,0.0371,125.938,0.708,Nova playlist 2
+Lençol Dobrado,João Gustavo e Murilo,spotify:track:5pRGXCDY0eT6R1QicAn7Uk,0.361,0.707,0.664,0.0,0.331,-5.042,0.0382,124.991,0.674,Nova playlist 2
+Búzios do Coração,Banda Uó,spotify:track:6pm28zwDGE8PpoxUFV861g,0.123,0.648,0.606,0.0,0.161,-5.067,0.0396,99.963,0.472,Nova playlist 2
+Wish You Were Here,Incubus,spotify:track:6KtLECDztnah63TNmV4Plw,0.000631,0.246,0.768,0.301,0.102,-7.48,0.0387,169.873,0.35,Nova playlist 2
+Redoma,Filipe Catto,spotify:track:5hEt4kX49D4yxJRUFSsyli,0.804,0.511,0.23,0.0,0.118,-12.919,0.0326,97.933,0.0993,Nova playlist 2
+Desculpa Doutor,San Joe,spotify:track:18CO6ODntZqzMxOxigBps4,0.862,0.635,0.559,0.0,0.115,-4.883,0.36,128.662,0.629,Nova playlist 2
+What's My Age Again?,blink-182,spotify:track:5JZcX7TTLx4l0xFIXJ3DBt,0.017,0.403,0.956,7.09e-05,0.0893,-7.376,0.0732,157.706,0.561,Nova playlist 2
+As Cartas Que Eu Não Mando - Ao Vivo,Leoni,spotify:track:050P0IiF0BUccojgfzHcQm,0.827,0.532,0.47,0.0,0.764,-8.821,0.0422,93.951,0.835,Nova playlist 2
+Cotidiano,Chico Buarque,spotify:track:127twwy3iCo1xBRQHyWetU,0.38,0.477,0.835,8.3e-06,0.062,-5.248,0.0533,89.855,0.778,Nova playlist 2
+Pode Vir Comigo,Phill Veras,spotify:track:3milBx9QeHDYXKY1yUNYuy,0.884,0.455,0.289,0.0651,0.111,-12.218,0.0399,169.126,0.28,Nova playlist 2
+Só Sei Dançar Com Você,Tulipa Ruiz,spotify:track:5Y1mguQcl8TbHgS12atuVy,0.792,0.671,0.508,1.99e-05,0.141,-8.331,0.0289,113.99,0.158,Nova playlist 2
+Marceline,Ana Muller,spotify:track:31KYQjghWvr04Qc5yjqidc,0.917,0.617,0.11,1.66e-06,0.115,-15.122,0.0437,118.677,0.464,Nova playlist 2
+Partilhar,Rubel,spotify:track:3WVBQjDRoUUTJnWVaUUEHL,0.826,0.478,0.279,0.07,0.153,-10.959,0.0866,115.047,0.336,Nova playlist 2
+Zero,Liniker e os Caramelows,spotify:track:2arxf0qwSpidhAVwJ7v9gV,0.402,0.592,0.42,0.0,0.101,-7.99,0.0358,146.004,0.441,Nova playlist 2
+Já Era,Seu Pereira e Coletivo 401,spotify:track:4ZBxAQzSqxf09s3ef1KBf7,0.194,0.64,0.659,0.0,0.167,-8.448,0.0385,127.078,0.382,Nova playlist 2
+Amber,311,spotify:track:51UtgWS4z1eMPuLQOzPtNH,0.119,0.659,0.727,0.00427,0.1,-8.638,0.0455,166.163,0.748,Nova playlist 2
+Deus Há de Ser,Elza Soares,spotify:track:161JXhhbpEd58R35WxFFUh,0.0491,0.48,0.643,2.43e-06,0.0729,-4.886,0.0816,151.902,0.25,Nova playlist 2
+Balada Do Louco,Os Mutantes,spotify:track:0Gj6ROsip9fKX9BTKSyVu6,0.54,0.388,0.458,2.27e-06,0.116,-5.485,0.0336,148.804,0.253,Nova playlist 2
+Cartão Postal,Apanhador Só,spotify:track:2LWW6D1zabtolij6KFXQYm,0.918,0.527,0.296,0.000398,0.263,-10.002,0.0347,112.995,0.216,Nova playlist 2
+Casa Vazia,Vanguart,spotify:track:51bP3pqxCa14gFOvWBUET1,0.00161,0.531,0.486,0.0,0.206,-7.987,0.0288,137.969,0.414,Nova playlist 2
+Through Glass,Stone Sour,spotify:track:5NeIONQWJ25uPylJBJiO4c,0.0417,0.545,0.753,0.0,0.389,-4.618,0.036,105.754,0.434,Nova playlist 2
+O Que Será (A Flor Da Terra),Chico Buarque,spotify:track:0rfbvwLPBLBsEd4Bxz8IVb,0.487,0.435,0.671,0.0,0.589,-10.75,0.0586,157.564,0.792,Nova playlist 2
+Ainda Gosto Dela,Skank,spotify:track:3eW8Di8rolVzktc3xW7hba,0.0496,0.693,0.761,3.11e-06,0.0928,-6.71,0.0265,122.002,0.718,Nova playlist 2
+Oitavo Andar,Clarice Falcão,spotify:track:3O7GFKYnJQFKxhU6wJ6AT8,0.758,0.708,0.296,0.0,0.0966,-12.256,0.0463,117.177,0.681,Nova playlist 2
+Garotos II - O Outro Lado,Leoni,spotify:track:1wLqPjSFDIH59nhQ5Th5XT,0.666,0.808,0.412,4.76e-06,0.122,-10.631,0.0267,108.041,0.724,Nova playlist 2
+O Vento,Los Hermanos,spotify:track:4PCyzOTAB7zfJaxaS1uLSY,0.0247,0.665,0.685,1.08e-05,0.088,-6.17,0.0328,137.948,0.839,Nova playlist 2
+"Linda, Louca e Livre",Apanhador Só,spotify:track:02SKVviRahUrRZGg5Bo7B6,0.938,0.641,0.307,0.000145,0.142,-14.554,0.0482,81.663,0.315,Nova playlist 2
+Sujeito De Sorte,Belchior,spotify:track:1UsAjRCSavihMYsspqJz4e,0.291,0.455,0.407,0.000235,0.067,-19.041,0.0988,167.385,0.442,Nova playlist 2
+Aindas,Ana Vilela,spotify:track:64RrdeZbeiMKvhhSbWKPso,0.526,0.464,0.548,0.0,0.0855,-7.403,0.0286,163.945,0.723,Nova playlist 2
+Mosca Na Sopa,Raul Seixas,spotify:track:3AQg8DR76bH9Ko3mZXuSWK,0.328,0.598,0.759,3.43e-05,0.179,-10.237,0.0843,90.314,0.891,Nova playlist 2
+ATWA,System Of A Down,spotify:track:6gCVA6ja6g0foIsWv0RuSZ,0.00378,0.376,0.787,0.0,0.548,-4.731,0.0394,87.102,0.371,Nova playlist 2
+Dog Days Are Over,Florence + The Machine,spotify:track:456WNXWhDwYOSf5SpTuqxd,0.0338,0.501,0.809,0.00602,0.119,-5.264,0.0938,149.964,0.258,Nova playlist 2
+Jenny of Oldstones (Game of Thrones),Florence + The Machine,spotify:track:1u0THw5xaGd7sYzJEh48Lt,0.931,0.27,0.195,9.73e-06,0.0949,-10.653,0.0797,46.489,0.171,Nova playlist 2
+Canção e Silêncio,Filipe Catto,spotify:track:53VYuYMa0gb7bRTwUxPb7u,0.793,0.584,0.605,3.57e-05,0.167,-7.032,0.0574,136.138,0.471,Nova playlist 2
+20 E Poucos Anos - Live,Filipe Catto,spotify:track:5O2YRrV2pKqPKUNKjaTZL8,0.667,0.447,0.466,8.68e-06,0.925,-8.746,0.0406,74.672,0.238,Nova playlist 2
+Torrente,Filipe Catto,spotify:track:1p6u8PepldGWqPg4ktQifH,0.069,0.532,0.594,5.77e-06,0.464,-10.889,0.0489,74.995,0.526,Nova playlist 2
+Faz Parar,Filipe Catto,spotify:track:12VbSwyvdy1P6ZCGjjXptQ,0.904,0.246,0.283,0.00076,0.15,-15.116,0.0334,73.151,0.105,Nova playlist 2
+Obaluiê,Serena Assumpção,spotify:track:6h75Z6vZx908U16YGVfXO8,0.914,0.35,0.145,0.0,0.0938,-10.18,0.0312,162.16,0.195,Nova playlist 2
+Anos Luz,Matuê,spotify:track:2aRdz1goHRuJ2FkDw3vpVX,0.375,0.634,0.498,0.0,0.115,-10.242,0.103,109.817,0.299,Nova playlist 2
+Sessão do Descarrego,Filipe Ret,spotify:track:6eK68flOp1XqQtbWohsdNE,0.247,0.778,0.681,0.0,0.111,-7.148,0.245,121.047,0.142,Nova playlist 2
+Dás Arábia,Costa Gold,spotify:track:6e2uf3kukg8TzUzzk5zhvF,0.047,0.684,0.565,0.0,0.336,-7.693,0.401,91.569,0.429,Nova playlist 2
+Eu Vou,Hot e Oreia,spotify:track:4lfVQOrrBfTUE1BtcYP0XH,0.0959,0.795,0.643,0.0,0.386,-6.085,0.344,88.954,0.593,Nova playlist 2
+Área 51,Black Alien,spotify:track:0k70HfFx7rqehJDmYk8FKh,0.766,0.827,0.59,0.0,0.122,-5.713,0.372,169.961,0.672,Nova playlist 2
+O Lado Vazio do Sofá,Rodrigo Alarcon,spotify:track:2XQIR6nnEKH1m1FTBdoPKi,0.879,0.398,0.245,0.000183,0.133,-12.636,0.0321,147.432,0.272,Nova playlist 2
+I Really Wish I Hated You,blink-182,spotify:track:1VPoFXYjoganemxvLPhhKd,0.0358,0.615,0.81,0.0,0.289,-6.137,0.0506,143.054,0.728,Nova playlist 2
+Descansar,Canto dos Malditos Na Terra do Nunca,spotify:track:74DrjifcTrDbmoGQBD8ScI,0.000336,0.605,0.642,0.0,0.174,-7.599,0.0289,129.975,0.518,Nova playlist 2
+In the End,Linkin Park,spotify:track:60a0Rd6pjrkxjPbaKzXjfq,0.00958,0.556,0.864,0.0,0.209,-5.87,0.0584,105.143,0.4,Nova playlist 2
+Olha minha cara,Canto dos Malditos Na Terra do Nunca,spotify:track:6y1ssXWGsye4VJsSOP50Kt,0.000491,0.352,0.782,0.0,0.165,-4.091,0.034,168.151,0.419,Nova playlist 2
+Rebordosa Rê Saca,Lucas Guido,spotify:track:7loqgGJ4JFHjNHOyg5zDpA,0.205,0.576,0.416,0.000121,0.111,-9.511,0.0298,131.965,0.117,Nova playlist 2
+Bagatelas,Ana Sucha,spotify:track:7jIpLJw3Grls60IwfymuiX,0.7,0.538,0.342,2.57e-05,0.916,-6.56,0.0605,115.385,0.487,Nova playlist 2
+Ladinho,Flerte Flamingo,spotify:track:1mzWbpXYSuyWOyEzNP5zca,0.264,0.569,0.768,2.2e-05,0.105,-6.256,0.0485,92.897,0.674,Nova playlist 2
+Nostalgia,Vivendo do Ócio,spotify:track:3skv0Lg9u0Tqkoqqnb7hR9,0.00296,0.427,0.508,0.0,0.091,-6.527,0.0305,80.976,0.388,Nova playlist 2
+Último Romance,Los Hermanos,spotify:track:0ZPquQV2aKmDfwPjvMdvRp,0.509,0.406,0.665,0.000641,0.112,-6.264,0.0286,159.997,0.553,Nova playlist 2
+Poliamor,Barro,spotify:track:2gEWBNzyEVDnZrjwjMXL7m,0.0587,0.565,0.724,0.00041,0.172,-6.908,0.0325,94.95,0.772,Nova playlist 2
+Quero Ser Feliz Também,Natiruts,spotify:track:09h91oP3t1c5fSEI5P6maS,0.168,0.74,0.463,0.0001,0.317,-9.366,0.0433,172.047,0.853,Nova playlist 2
+A falta,Canto dos Malditos Na Terra do Nunca,spotify:track:5zJzztIOpmxyy60Y5Tm7Fn,0.000961,0.439,0.497,1.26e-05,0.0885,-6.345,0.0329,140.067,0.048,Nova playlist 2
+E antes que eu esqueça,Canto dos Malditos Na Terra do Nunca,spotify:track:3UGBS2bfTk0YK0UneFZJgT,0.00775,0.432,0.542,0.000213,0.202,-5.963,0.0325,136.084,0.483,Nova playlist 2
+Roupa Do Corpo,Filipe Catto,spotify:track:2Ptkyz6O2JU9InyuMleNqi,0.333,0.851,0.342,0.0,0.0862,-10.872,0.352,152.146,0.801,Nova playlist 2
+Vampiro da Rua Xv,Maglore,spotify:track:1in64PDQDafJlcQlHMrpWe,0.0127,0.585,0.655,1.31e-06,0.117,-5.467,0.0288,97.04,0.598,Nova playlist 2
+Shallow - Radio Edit,Lady Gaga,spotify:track:6QfS2wq5sSC1xAJCQsTSlj,0.416,0.575,0.33,0.0,0.0872,-6.557,0.031,95.801,0.277,Nova playlist 2
+Alibi,Bradley Cooper,spotify:track:3VQN13uMyi3dGpyIyUhG3X,0.0145,0.285,0.787,0.00043,0.817,-3.641,0.036,175.693,0.636,Nova playlist 2
+Always Remember Us This Way,Lady Gaga,spotify:track:2rbDhOo9Fh61Bbu23T2qCk,0.299,0.553,0.502,0.0,0.764,-5.972,0.0409,129.976,0.296,Nova playlist 2
+I Don't Know What Love Is,Lady Gaga,spotify:track:3PPeqAc0fCfFdh8cUYShn6,0.348,0.421,0.535,0.000194,0.194,-6.556,0.0288,62.671,0.221,Nova playlist 2
+Is That Alright?,Lady Gaga,spotify:track:378u8gf9qpJ4ZhxHEvrodl,0.868,0.557,0.279,1.25e-05,0.0978,-7.757,0.0372,102.727,0.263,Nova playlist 2
+I'll Never Love Again - Film Version - Radio Edit,Lady Gaga,spotify:track:3DKpA54hrFIdPN6AtL9HXa,0.785,0.45,0.335,1.25e-06,0.0979,-7.464,0.0298,109.908,0.25,Nova playlist 2
+Black Eyes,Bradley Cooper,spotify:track:7qrJKTyxjWDBpVofIYydTk,0.000811,0.373,0.937,6.37e-05,0.815,-2.133,0.0834,150.242,0.46,Nova playlist 2
+Todo Mundo Vai Sofrer - Ao Vivo,Marília Mendonça,spotify:track:4E6RdcCWMiHTu7zy1VTNDo,0.281,0.621,0.743,0.0,0.411,-3.864,0.0738,111.454,0.581,Nova playlist 2
+Elevação Mental,Triz,spotify:track:3VsEB2se0b0AewNF22Flrm,0.707,0.661,0.581,0.0,0.331,-7.714,0.369,81.157,0.443,Nova playlist 2
+Pra Berlin,Triz,spotify:track:0sRzOlD788V7vTonwx5m4S,0.34,0.459,0.612,3.11e-05,0.174,-6.914,0.119,171.789,0.536,Nova playlist 2
+Come and Get Your Love - Single Version,Redbone,spotify:track:7GVUmCP00eSsqc4tzj1sDD,0.172,0.731,0.804,0.00028,0.0685,-7.621,0.0473,107.383,0.957,Nova playlist 2
+Dia Clarear,Banda do Mar,spotify:track:7JQet6yCd8rZX3oeVGqAyx,0.772,0.626,0.202,0.0,0.116,-12.963,0.0316,108.883,0.554,Nova playlist 2
+Janta,Marcelo Camelo,spotify:track:24LCpDY92Bm5WnMvT3EYVU,0.899,0.457,0.222,1.1e-06,0.1,-11.716,0.0342,99.687,0.195,Nova playlist 2
+Todo Carinho,DUDA BEAT,spotify:track:118239i3aWkav7mlAmldh9,0.302,0.319,0.384,0.000116,0.31,-9.525,0.0325,88.557,0.167,Nova playlist 2
+Canção de Engate,Filipe Catto,spotify:track:6hdlff1Iyhl8TedMvIX3hf,0.00182,0.571,0.728,0.000654,0.133,-8.526,0.0382,133.416,0.554,Nova playlist 2
+Lua Deserta,Filipe Catto,spotify:track:1yAyfltRy0itwAUMuJEl3z,0.0598,0.622,0.683,0.000123,0.108,-6.971,0.043,124.962,0.542,Nova playlist 2
+Só por Ti,Filipe Catto,spotify:track:4dj3GVIMuSlSdwtOlBLXnm,0.066,0.616,0.604,0.000241,0.272,-9.212,0.0304,119.981,0.272,Nova playlist 2
+Arco de Luz,Filipe Catto,spotify:track:1HUx856qN75FKVOg29w90P,0.18,0.67,0.491,0.00392,0.106,-10.337,0.0414,120.029,0.218,Nova playlist 2
+É Sempre o Mesmo Lugar,Filipe Catto,spotify:track:2JFP9ZqmFo9TkWZ7K3STsj,0.0747,0.582,0.732,0.0948,0.16,-9.646,0.0433,114.985,0.278,Nova playlist 2
+Eu Não Quero Mais,Filipe Catto,spotify:track:11irxzV5aFcjAH6GrJd5ll,0.00877,0.59,0.501,0.000326,0.103,-10.124,0.0356,139.936,0.18,Nova playlist 2
+Dias e Noites,Filipe Catto,spotify:track:0W5ebbcuEY75lxXgogLKYW,0.129,0.669,0.638,7.48e-06,0.0815,-6.136,0.0298,130.015,0.742,Nova playlist 2
+Maremotos,Supercombo,spotify:track:6sDNSA23tP1JveKjJNWh8i,0.0022,0.504,0.59,2.36e-05,0.376,-11.558,0.0404,164.977,0.714,Nova playlist 2
+Here Comes The Sun - Remastered 2009,The Beatles,spotify:track:6dGnYIeXmHdcikdzNNDMm2,0.0339,0.557,0.54,0.00248,0.179,-10.484,0.0347,129.171,0.394,Nova playlist 2
+Let It Be - Remastered 2009,The Beatles,spotify:track:7iN1s7xHE4ifF5povM6A48,0.631,0.443,0.403,0.0,0.111,-8.339,0.0322,143.462,0.41,Nova playlist 2
+Hey Jude - Remastered 2015,The Beatles,spotify:track:0aym2LBJBk9DAYuHHutrIl,0.0112,0.386,0.607,1.38e-05,0.088,-7.7,0.0261,147.207,0.532,Nova playlist 2
+Self-Esteem,The Offspring,spotify:track:7oMQBs40QK1wQ3dI4pc29Q,0.0407,0.482,0.932,0.0,0.358,-3.463,0.0594,104.532,0.702,Nova playlist 2
+For Tomorrow - 2012 Remaster,Blur,spotify:track:3rWlZxRCrBMcEL3QsSidr4,0.0143,0.631,0.84,0.0,0.0712,-6.025,0.0285,95.849,0.653,Nova playlist 2
+Açúcar ou Adoçante,Cícero,spotify:track:0AOEb0Hd4OZyEq41iLhyhn,0.753,0.615,0.328,0.00295,0.0946,-9.339,0.0302,100.047,0.27,Nova playlist 2
+Pro Mundo Ouvir,DUDA BEAT,spotify:track:2W8i6H3gZGj3yIYQOBrTGP,0.00908,0.655,0.632,0.00749,0.822,-6.56,0.0292,133.991,0.188,Nova playlist 2
+Meu Amor É Teu,Marcelo Camelo,spotify:track:0HjlbE5iurkc4n2efskB57,0.849,0.449,0.424,0.00038,0.103,-7.488,0.0261,98.006,0.466,Nova playlist 2
+Heart-Shaped Box,Nirvana,spotify:track:11LmqTE2naFULdEP94AUBa,0.199,0.256,0.641,0.0329,0.0853,-10.283,0.0552,203.006,0.382,Nova playlist 2
+Take A Look Around,Limp Bizkit,spotify:track:2avKuMN2QXkaG9vvHa2JLt,0.0175,0.425,0.852,0.306,0.0935,-5.607,0.046,101.968,0.512,Nova playlist 2
+Transar No Escuro,Charlie Brown Jr.,spotify:track:0JPesMURlkeCSWDB9kPm9p,0.000416,0.336,0.968,0.000677,0.428,-5.175,0.051,170.03,0.555,Nova playlist 2
+Boca de Lobo,Criolo,spotify:track:4DzSv3ePKvQpVTsWqTeUVN,0.222,0.703,0.803,0.000356,0.379,-7.428,0.215,80.965,0.863,Nova playlist 2
+Cabrobro,Tianastacia,spotify:track:6VlnIWZ9k5XpnVdgfhTcn2,0.000545,0.489,0.934,0.0,0.328,-4.381,0.24,153.915,0.819,Nova playlist 2
+Hoje Sou Eu Que Não Mais Te Quero,Charlie Brown Jr.,spotify:track:0vgmsxgWglYs52xNkW5Tkh,0.0872,0.601,0.766,0.013,0.0965,-5.358,0.0409,87.997,0.378,Nova playlist 2
+Clube Dos Canalhas,Matanza,spotify:track:2UX8moWR8EvEr2DKitSpmu,7.01e-05,0.451,0.947,6.1e-05,0.25,-4.115,0.0725,156.18,0.815,Nova playlist 2
+Sinta vontade de ficar,Canto dos Malditos Na Terra do Nunca,spotify:track:1GOEbdxEX2ldQBIczYtmBh,0.00716,0.444,0.638,0.0,0.133,-5.593,0.0308,136.092,0.368,Nova playlist 2
+Como seria,Canto dos Malditos Na Terra do Nunca,spotify:track:0s53EqheMplpaTias9jfWA,0.00668,0.546,0.916,0.000784,0.156,-5.653,0.0774,130.208,0.231,Nova playlist 2
+O que te faz voltar,Canto dos Malditos Na Terra do Nunca,spotify:track:3qta3e6XiPComEwmcTwQjx,0.00857,0.412,0.849,3.96e-06,0.359,-4.339,0.0498,161.969,0.478,Nova playlist 2
+Adoração,Filipe Catto,spotify:track:7dVM050hhGk6BB9uV9XRhL,0.169,0.692,0.537,2.38e-05,0.112,-7.694,0.0276,130.035,0.448,Nova playlist 2
+Menina Mulher Da Pele Preta,Jorge Ben Jor,spotify:track:5HpURubJUz2gysQiAkle9I,0.61,0.591,0.449,0.0571,0.255,-15.547,0.0754,134.864,0.976,Nova playlist 2
+Odin,Fabio Brazza,spotify:track:7tTdT06dQdnodcjcMD2pNX,0.333,0.759,0.612,0.0,0.369,-7.656,0.254,90.125,0.51,Nova playlist 2
+Estopim,Fabio Brazza,spotify:track:6D5fnKQOOqBzGkLpMvP98o,0.351,0.646,0.84,0.0,0.0366,-5.691,0.336,179.931,0.877,Nova playlist 2
+Hoje Eu Quero Sair Só,Lenine,spotify:track:3MlTmlmooUijgyJJswZfm1,0.222,0.773,0.549,0.000986,0.106,-10.091,0.0424,94.014,0.707,Nova playlist 2
+"Lamentável, Pt. III",Froid,spotify:track:46h2Z0b21xC1gzluNeCiVG,0.578,0.576,0.565,0.0,0.194,-6.368,0.384,140.341,0.354,Nova playlist 2
+Anos Luz,Matuê,spotify:track:6J8UJNZrIwvcpsWHvSkwXn,0.384,0.628,0.398,0.0,0.104,-14.111,0.153,109.762,0.333,Nova playlist 2
+Morena,Los Hermanos,spotify:track:6kJmZqhB2Pf2442GOCAohB,0.478,0.921,0.342,0.0446,0.0741,-10.546,0.0366,104.029,0.852,Nova playlist 2
+Aniversário de Sobriedade,Black Alien,spotify:track:786H6CRL3H5WNPnkqTfnNX,0.457,0.865,0.507,0.0144,0.121,-8.494,0.19,88.003,0.543,Nova playlist 2
+take you home,slenderbodies,spotify:track:5f2JNWZKJMZEgkRJc9MCTv,0.184,0.776,0.537,4.71e-05,0.0921,-5.891,0.0471,97.971,0.792,Nova playlist 2
+Rap God,Eminem,spotify:track:6sDQ4uiWw9OdVrCXFLSlZt,0.403,0.712,0.838,0.0,0.809,-2.679,0.313,148.138,0.607,Nova playlist 2
+RAP DEVIL,Machine Gun Kelly,spotify:track:63TyoT9Ee03rQxv8xmdJ2l,0.217,0.895,0.839,3e-06,0.239,-4.512,0.227,149.951,0.756,Nova playlist 2
+"Lose Yourself - From ""8 Mile"" Soundtrack",Eminem,spotify:track:5Z01UMMf7V1o0MzF86s6WJ,0.00868,0.692,0.744,0.000423,0.359,-4.565,0.257,171.374,0.0612,Nova playlist 2
+Kamikaze,Eminem,spotify:track:2gsNpSn7VvvJuSrIDfRoYy,0.112,0.78,0.808,0.0,0.329,-5.175,0.484,79.982,0.642,Nova playlist 2
+Stepping Stone,Eminem,spotify:track:60Z57Wdrn0pEVpHI7d7GAX,0.0305,0.616,0.684,0.0,0.376,-6.032,0.311,179.503,0.312,Nova playlist 2
+Rap God,Eminem,spotify:track:6or1bKJiZ06IlK0vFvY75k,0.397,0.708,0.843,0.0,0.799,-2.66,0.314,148.14,0.625,Nova playlist 2
+Onde Estiver,NX Zero,spotify:track:2wnJb9am5Saf4jBBUcusqI,0.0908,0.717,0.929,0.0,0.316,-2.727,0.0302,115.003,0.631,Nova playlist 2
+Só por Hoje,Horu$,spotify:track:4lIYGgFXxr2CM0lJRgEdzW,0.855,0.776,0.335,0.0,0.134,-9.923,0.037,116.98,0.554,Nova playlist 2
+Killshot,Eminem,spotify:track:1jo3TwNGCXfNdB5uba3ZVv,0.0995,0.893,0.651,0.0,0.371,-8.647,0.367,105.835,0.6,Nova playlist 2
+Você Tem,Dreicon,spotify:track:6MMeHHFx8H30NoxkfAD5Bn,0.732,0.714,0.479,0.0,0.117,-5.313,0.0566,143.956,0.553,Nova playlist 2
+Pegando Leve,O Terno,spotify:track:2j6yNLDUCGhVzbeU1WBhFg,0.252,0.452,0.291,1.81e-06,0.0581,-12.225,0.0277,102.467,0.465,Nova playlist 2
+I Wanna Be Yours,Arctic Monkeys,spotify:track:5XeFesFbtLpXzIVDNQP22n,0.136,0.464,0.417,0.022,0.0974,-9.345,0.0256,67.528,0.479,Nova playlist 2
+Preso no Amanhã,Tagua Tagua,spotify:track:4ti8dima3V0kVO1tnbls9b,0.0219,0.571,0.511,0.00096,0.112,-8.971,0.0253,143.956,0.464,Nova playlist 2
+Colo de Menina,Rastapé,spotify:track:5aGhtbviqUqjtno5vcUmCN,0.305,0.654,0.464,0.0,0.11,-8.369,0.031,145.371,0.72,Nova playlist 2
+Check Yo Self - Remix,Ice Cube,spotify:track:3NGT0Td7H4Is1qrlDQJxma,0.031,0.934,0.735,8.6e-06,0.107,-6.668,0.251,101.368,0.768,Nova playlist 2
+The Next Episode,Dr. Dre,spotify:track:2eknDuc5IeulN0hnwEZsjF,0.0308,0.923,0.912,0.0,0.111,-2.399,0.266,95.305,0.287,Nova playlist 2
+Qualquer intenção,Canto dos Malditos Na Terra do Nunca,spotify:track:5sr7y5cjlp8znkKR0GAXwi,0.0125,0.545,0.46,3.38e-06,0.101,-6.86,0.0288,138.186,0.11,Nova playlist 2
+Crime Passional,Filipe Catto,spotify:track:3thSIJySPUuc4kBkWsc0Yk,0.41,0.583,0.327,0.0,0.132,-10.623,0.0303,105.889,0.353,Nova playlist 2
+Venom - Music From The Motion Picture,Eminem,spotify:track:2SL6oP2YAEQbqsrkOzRGO4,0.0193,0.749,0.794,0.0,0.543,-5.063,0.064,135.959,0.46,Nova playlist 2
+Tribe (with J. Cole),Bas,spotify:track:0YAQnYt2oB8OdoaeqnHyTI,0.241,0.755,0.594,0.0,0.107,-5.906,0.216,178.929,0.237,Nova playlist 2
+Missão Apollo,Zimbra,spotify:track:1nrXASsctukBTO5Slsb5Dk,0.278,0.567,0.732,0.0,0.0851,-3.872,0.0356,80.084,0.519,Nova playlist 2
+The Fresh Prince of Bel-Air,DJ Jazzy Jeff & The Fresh Prince,spotify:track:0UREO3QWbXJW3gOUXpK1am,0.00278,0.824,0.684,1.45e-06,0.0481,-7.354,0.0935,101.152,0.87,Nova playlist 2
+Not Alike (feat. Royce Da 5'9),Eminem,spotify:track:28FGV3ORH14MYORd7s5dlU,0.0692,0.904,0.756,0.0,0.339,-3.746,0.32,140.005,0.342,Nova playlist 2
+De Janeiro a Janeiro,Roberta Campos,spotify:track:1de5qtvROLxLtMAQrmZjev,0.736,0.483,0.386,0.0,0.115,-10.062,0.0285,80.074,0.483,Nova playlist 2
+Era uma Vez,Kell Smith,spotify:track:0ctRDZD6Nk8z8NtmoWwcC8,0.451,0.685,0.458,0.0,0.134,-6.757,0.031,94.867,0.159,Nova playlist 2
+Meu Sol,Vanguart,spotify:track:71iogkuXi7nAfFbqMGDTri,0.00288,0.365,0.686,0.0,0.0926,-6.127,0.0272,184.083,0.331,Nova playlist 2
+Till I Collapse,Eminem,spotify:track:4xkOaSrkexMciUUogZKVTS,0.0622,0.548,0.847,0.0,0.0816,-3.237,0.186,171.447,0.1,Nova playlist 2
+Greatest,Eminem,spotify:track:2XTquzYQAdT1Hk78bOUwsv,0.0441,0.809,0.737,0.0,0.341,-5.186,0.108,80.025,0.367,Nova playlist 2
+Normal,Eminem,spotify:track:0evt4UZbdhnHtcAnxkm6A1,0.261,0.907,0.64,0.0,0.0785,-6.542,0.354,120.995,0.803,Nova playlist 2
+Fall,Eminem,spotify:track:58QhkbaAkLFnn7JwAnAato,0.227,0.83,0.546,0.0,0.112,-5.716,0.295,182.973,0.535,Nova playlist 2
+Life Goes On,2Pac,spotify:track:2bUojZta7GJTjGAqo064jo,0.117,0.693,0.843,0.0,0.343,-5.463,0.253,158.465,0.529,Nova playlist 2
+Better Dayz,2Pac,spotify:track:5dRCujBQZQq6dlkCaGDMV0,0.0876,0.752,0.735,0.0,0.14,-3.851,0.196,90.87,0.635,Nova playlist 2
+Gin And Juice (feat. Dat Nigga Daz),Snoop Dogg,spotify:track:0WKYRFtH6KKbaNWjsxqm70,0.0285,0.549,0.853,0.000296,0.618,-4.293,0.188,94.695,0.346,Nova playlist 2
+You Know How We Do It,Ice Cube,spotify:track:2Ih217RCGAmyQR68Nn7Cqo,0.0977,0.747,0.52,0.0537,0.142,-10.523,0.0357,92.869,0.601,Nova playlist 2
+Fuck Tha Police,N.W.A.,spotify:track:5n8Aro6j1bEGIy7Tpo7FV7,0.0193,0.859,0.75,0.0,0.0538,-8.325,0.303,98.691,0.857,Nova playlist 2
+everything i wanted,Billie Eilish,spotify:track:3ZCTVFBt2Brf31RLEnCkWJ,0.902,0.704,0.225,0.657,0.106,-14.454,0.0994,120.006,0.243,Nova playlist 2
+Tudo sem nada ter,Canto dos Malditos Na Terra do Nunca,spotify:track:2mGQCZPSSOBISzcvtMMkMD,0.000511,0.506,0.581,5.62e-05,0.124,-6.814,0.0257,153.989,0.657,Nova playlist 2
+Damn It Feels Good to Be a Gangsta,Geto Boys,spotify:track:0HOqINudNgQFpg1le5Hnqe,0.22,0.785,0.793,0.718,0.124,-7.915,0.163,88.902,0.655,Nova playlist 2
+Because I Got High,Afroman,spotify:track:0rRboI6IRuGx56Dq3UdYY4,0.169,0.802,0.341,0.0,0.0783,-8.56,0.488,166.01,0.849,Nova playlist 2
+Drop It Like It's Hot,Snoop Dogg,spotify:track:70ludZZEUJy1aFVkPI0Kpi,0.169,0.892,0.628,0.0,0.102,-3.832,0.216,92.063,0.676,Nova playlist 2
+Mind Playing Tricks on Me,Geto Boys,spotify:track:63BokRfXSQhEU6Qi2dSJpZ,0.207,0.886,0.512,0.0,0.0991,-11.825,0.237,93.997,0.454,Nova playlist 2
+All Eyez On Me,2Pac,spotify:track:2xTft6GEZeTyWNpdX94rkf,0.03,0.873,0.719,0.0,0.333,-5.948,0.248,93.281,0.858,Nova playlist 2
+Take Me Away (feat. Russ & Wiz Khalifa),Snoop Dogg,spotify:track:08YwOYGFPB7ltBok0WQAFF,0.202,0.678,0.712,2.52e-05,0.0711,-5.956,0.0284,130.015,0.376,Nova playlist 2
+Not Afraid,Eminem,spotify:track:7Ie9W94M7OjPoZVV216Xus,0.529,0.855,0.954,0.0,0.205,-1.19,0.264,114.635,0.668,Nova playlist 2
+So Fly,Nate Dogg,spotify:track:2fxef3Rm1GnrcyGjvWP8oJ,0.177,0.605,0.602,0.0,0.405,-6.837,0.398,82.261,0.829,Nova playlist 2
+21 Questions (feat. 50 Cent),Nate Dogg,spotify:track:1hjamhsBsOI2BvXEXJ8Fkp,0.349,0.561,0.774,0.000295,0.267,-6.22,0.321,90.929,0.85,Nova playlist 2
+Professional Rapper (feat. Snoop Dogg),Lil Dicky,spotify:track:1Ysc1uDZtf430TGavoS1j4,0.433,0.685,0.621,0.0,0.607,-8.442,0.361,128.906,0.538,Nova playlist 2
+Bitch Please II,Eminem,spotify:track:7lgvU7WnwcNZ8dbGUz8yhP,0.0783,0.918,0.586,0.0,0.145,-2.89,0.133,95.517,0.779,Nova playlist 2
+Without Me,Eminem,spotify:track:7lQ8MOhq6IN2w8EYcFNSUk,0.00286,0.908,0.669,0.0,0.237,-2.827,0.0738,112.238,0.662,Nova playlist 2
+My Band,D12,spotify:track:4XHQyvbrBsQaaBUW1VvmsL,0.497,0.851,0.849,2.05e-06,0.116,-3.383,0.0828,120.014,0.844,Nova playlist 2
+Deixa Acontecer,Grupo Revelação,spotify:track:50mawjudhEofTcUIpRmGXr,0.607,0.649,0.785,0.0,0.797,-6.588,0.0347,92.982,0.965,Nova playlist 2
+Serei Luz,Natiruts,spotify:track:7zDQIADTXZL6XcXFGINjOf,0.236,0.62,0.725,9.02e-06,0.131,-6.87,0.0601,169.982,0.631,Nova playlist 2
+Longe De Você,Charlie Brown Jr.,spotify:track:2gCXiPI1ASfM9KHea2le06,0.499,0.732,0.54,2.37e-06,0.0893,-10.04,0.0278,108.102,0.524,Nova playlist 2
+Subirusdoistiozin,Criolo,spotify:track:0aC52z2FUwvoaQ1hn4eWXD,0.0484,0.747,0.501,0.00163,0.285,-7.657,0.275,86.444,0.547,Nova playlist 2
+Chop Suey!,System Of A Down,spotify:track:2DlHlPMa4M17kufBvI2lEN,0.000278,0.417,0.934,0.0015,0.132,-3.908,0.119,127.066,0.287,Nova playlist 2
+Sheik,Charlie Brown Jr.,spotify:track:3hjotkIscst2YgMWujDJ3P,0.153,0.852,0.859,0.000921,0.136,-3.214,0.0656,108.345,0.914,Nova playlist 2
+Álcool,Jão,spotify:track:5gCMRYJOoAL96WypsjU0Ip,0.217,0.743,0.678,2.17e-05,0.187,-5.74,0.0353,104.014,0.521,Nova playlist 2
+Fingir,Canto dos Malditos Na Terra do Nunca,spotify:track:1OT6zQ8s3ro8KvUSZno1dh,0.0529,0.408,0.602,3.32e-05,0.117,-5.799,0.0351,142.011,0.362,Nova playlist 2
+Monomania,Clarice Falcão,spotify:track:0liMN4ENE2zXaVsKdBKbyn,0.418,0.699,0.334,0.0,0.388,-11.026,0.0529,111.101,0.577,Nova playlist 2
+Parece Pouco,DUDA BEAT,spotify:track:2RYS5mtdvmN9FN28xf9xjp,0.473,0.417,0.472,0.0165,0.124,-10.979,0.0344,139.798,0.172,Nova playlist 2
+O Côro Vai Comê,Charlie Brown Jr.,spotify:track:3RRroToeh491CkWyqGLCEt,0.0768,0.716,0.872,4.69e-05,0.34,-3.133,0.0437,147.644,0.972,Nova playlist 2
+Easy,Faith No More,spotify:track:4Y3WqmBWmG23thvU9xEhMv,0.339,0.506,0.554,0.000355,0.112,-6.743,0.0339,124.724,0.375,Nova playlist 2
+Estranho - Ao Vivo | Acústico,Marília Mendonça,spotify:track:4NFqlsk3yQn7DULU8OGnfP,0.493,0.739,0.504,0.0,0.0956,-5.925,0.0576,155.876,0.391,Nova playlist 2
+Harakiri,Serj Tankian,spotify:track:1aZvj0eDYyJwwY0cH008xM,0.00435,0.505,0.96,0.0,0.0997,-2.607,0.0475,135.013,0.525,Nova playlist 2
+Black Hole Sun,Soundgarden,spotify:track:2EoOZnxNgtmZaD8uUmz2nD,0.000217,0.35,0.828,0.000161,0.0774,-5.373,0.041,105.435,0.147,Nova playlist 2
+A cor do meu sorriso,Canto dos Malditos Na Terra do Nunca,spotify:track:7ywm3IRenlzGD4hRYTDV3a,0.000338,0.407,0.906,2.49e-05,0.444,-4.469,0.0333,185.038,0.704,Nova playlist 2
+Saga,Filipe Catto,spotify:track:2GB32Vnm5YAf75zwhqdkrd,0.755,0.635,0.511,0.0,0.136,-7.689,0.039,124.215,0.331,Nova playlist 2
+Dias e Noites,Filipe Catto,spotify:track:4cMf2pvW4kC1fUWOm157XB,0.124,0.669,0.634,8.03e-06,0.0815,-6.141,0.0297,130.012,0.739,Nova playlist 2
+Depois de Amanhã,Filipe Catto,spotify:track:3tzyTsIE0JRkBbnuZH9YX8,0.328,0.565,0.831,0.000326,0.327,-5.735,0.0747,124.038,0.459,Nova playlist 2
+Canção e Silêncio,Filipe Catto,spotify:track:5jwJQyAillI2cfSdPolWs1,0.796,0.584,0.607,3.52e-05,0.167,-7.026,0.0576,136.013,0.467,Nova playlist 2
+It Ain't Easy,2Pac,spotify:track:6pFfeJceBPGdzTOGgUcLWZ,0.472,0.786,0.777,1.06e-06,0.0849,-8.918,0.122,90.662,0.652,Nova playlist 2
+Triste Pra Sempre,Jão,spotify:track:3n7ZwCXQUZekntN3f7dzwD,0.509,0.667,0.44,0.0,0.105,-7.93,0.168,89.891,0.395,Nova playlist 2
+Amo Noite E Dia,Jorge & Mateus,spotify:track:7wp6CdZePdMmNsfs8kKNwN,0.458,0.678,0.885,0.0,0.823,-4.735,0.033,133.034,0.452,Nova playlist 2
+Notificação Preferida - Ao Vivo,Zé Neto & Cristiano,spotify:track:3tA0vALUwrzkTgHcm9j6oJ,0.778,0.398,0.838,0.0,0.189,-4.734,0.13,156.008,0.206,Nova playlist 2
+Demorou Pra Ser,Vanguart,spotify:track:5lc0LIe6LLZYM0qjCfepD3,0.0941,0.47,0.492,4.94e-05,0.0826,-9.662,0.0305,116.744,0.549,Nova playlist 2
+Veja Bem Meu Bem,Los Hermanos,spotify:track:1bCxd4XhDcJJsEqVfmMa4o,0.157,0.544,0.277,0.0103,0.105,-12.809,0.0465,128.47,0.371,Nova playlist 2
+Despedida,Selvagens à Procura de Lei,spotify:track:3A1ZiWaZOhCVQkC4WqRa8p,0.156,0.284,0.856,0.0,0.109,-6.325,0.146,155.96,0.444,Nova playlist 2
+Um Sonho,Nação Zumbi,spotify:track:05b899PefcnSMSQYdrBHgd,0.239,0.569,0.655,0.0192,0.092,-8.55,0.0269,93.988,0.706,Nova playlist 2
+Olha Pra Mim,Vanguart,spotify:track:6ZtS5h5IJE2r4nTC30MWl8,0.797,0.379,0.284,4.44e-05,0.0937,-9.467,0.0449,177.859,0.297,Nova playlist 2
+Espaçosa Demais - Ao Vivo,Felipe Araújo,spotify:track:4lEw9Id7kLDSJ6KRdaenM9,0.375,0.676,0.888,0.0,0.231,-3.658,0.0783,160.034,0.711,Nova playlist 2
+Aí Eu Bebo - Ao Vivo,Maiara & Maraisa,spotify:track:6lK3nCiigk34SGqEjpQoqO,0.479,0.827,0.683,0.0,0.409,-5.113,0.0719,135.944,0.85,Nova playlist 2
+"Sorri, Sou Rei (feat. Claudia Leitte)",Natiruts,spotify:track:5lKHrBigpyKZM6uMvbOGh2,0.503,0.783,0.651,1.31e-05,0.121,-6.757,0.0338,101.015,0.643,Nova playlist 2
+O Tempo Não Para,Elza Soares,spotify:track:7cHFPtdFTUnIKy2E6yIJ70,0.00487,0.657,0.597,1.03e-06,0.324,-6.86,0.0333,134.959,0.585,Nova playlist 2
+Liberdade Provisória - Ao Vivo,Henrique & Juliano,spotify:track:1vG3YuKRYqPwTmNmYgqkpg,0.627,0.668,0.684,0.0,0.923,-5.937,0.0527,108.138,0.7,Nova playlist 2
+3 Batidas - Ao Vivo,Guilherme & Benuto,spotify:track:1uryupl9hqVZYurJwH4G9k,0.611,0.552,0.709,0.0,0.763,-5.435,0.129,117.581,0.527,Nova playlist 2
+Se Você Fosse Minha,Maglore,spotify:track:4oLQk0OyLDtEhtQ4SrjOZ5,0.0131,0.554,0.759,0.0301,0.479,-5.651,0.033,90.862,0.725,Nova playlist 2
+Good Guy (feat. Jessie Reyez),Eminem,spotify:track:4g32MdRoqwGKQd3NXIRhpU,0.244,0.696,0.634,0.0,0.437,-6.918,0.281,89.973,0.728,Nova playlist 2
+Com Quem Será - Ao Vivo,Atitude 67,spotify:track:1Tg0fM99qXBYFlFvyiPysj,0.56,0.683,0.887,0.0,0.467,-5.783,0.072,149.965,0.689,Nova playlist 2
+Te Roubar pra Mim,Onze:20,spotify:track:6sgCZybqq4ED7fHsDtahvK,0.155,0.749,0.702,0.0,0.148,-6.611,0.0479,141.999,0.962,Nova playlist 2
+Como Eu Quero - Ao Vivo,Kid Abelha,spotify:track:6abOIvFKsOkJ10I50XwhZ1,0.327,0.536,0.511,0.00056,0.844,-7.221,0.0291,123.997,0.38,Nova playlist 2
+Saideira - Ao Vivo,Atitude 67,spotify:track:2UmKWMYAqRlAYfDum7qryt,0.383,0.631,0.91,0.0,0.86,-5.916,0.151,160.027,0.669,Nova playlist 2
+Eu Sozinho,Polako,spotify:track:45FqkHxvFpPFREEeqSfVXF,0.0131,0.563,0.718,0.00157,0.0794,-7.156,0.0275,115.987,0.23,Nova playlist 2
+Ordinary Man (feat. Elton John),Ozzy Osbourne,spotify:track:6eEYGGFfFbtKHCgJM4uh9v,0.0665,0.428,0.599,9.86e-06,0.137,-2.135,0.0286,125.83,0.134,Nova playlist 2
+Meu Jeito de Amar,Mulú,spotify:track:08HdbdAWWqSyliHjMG6XmH,0.298,0.732,0.67,2.37e-05,0.083,-6.544,0.0677,149.651,0.746,Nova playlist 2
+Favela Sinistra,Trilha Sonora do Gueto,spotify:track:4eEcQVvVsbzxhmkCy58hGL,0.248,0.703,0.575,0.0,0.116,-10.646,0.562,140.066,0.963,Nova playlist 2
+Tamo Ai Na Atividade,Charlie Brown Jr.,spotify:track:3U5cECvoDDKlO7LxeIp0Lm,0.00298,0.541,0.871,0.0,0.0931,-3.417,0.0776,82.946,0.804,Nova playlist 2
+Estilo Cachorro,Racionais MC's,spotify:track:2tR8iLdCeYhVcyPZvN6T7X,0.483,0.819,0.721,0.0,0.188,-4.295,0.344,86.042,0.728,Nova playlist 2
+Astronauta (feat. Lulu Santos),Gabriel O Pensador,spotify:track:3ujI5Tb5sebqIq2uvXL3UW,0.514,0.771,0.577,0.000722,0.174,-6.036,0.0371,95.995,0.604,Nova playlist 2
+Confisco,Charlie Brown Jr.,spotify:track:0qhwZ19NLe1FpQSmb4ZZau,0.0776,0.826,0.991,6.04e-05,0.0871,-3.092,0.208,116.023,0.376,Nova playlist 2
+Calma na alma,ConeCrewDiretoria,spotify:track:60k0ZB99A2rZ5R8DpJN60H,0.69,0.569,0.8,0.0,0.102,-5.487,0.101,80.314,0.628,Nova playlist 2
+Tô Feliz (Matei o Presidente) 2,Gabriel O Pensador,spotify:track:1eJCpFxPd8vKfQgNSvVtLP,0.426,0.931,0.63,0.000856,0.0879,-9.477,0.275,103.98,0.289,Nova playlist 2
+Moral of the Story,Ashe,spotify:track:2nC3QhMI9reBIOWutbU3Tj,0.587,0.572,0.406,4.48e-06,0.102,-8.624,0.0427,119.812,0.265,Nova playlist 2
+Resolução,Pedra Leticia,spotify:track:6UbBbiNOHMs9SpjAIcZrGZ,0.341,0.492,0.543,0.0,0.0929,-7.611,0.193,181.846,0.435,Nova playlist 2
+I Hate Everything About You,Three Days Grace,spotify:track:6rUp7v3l8yC4TKxAAR5Bmx,0.00461,0.498,0.83,0.0,0.139,-5.157,0.0421,89.342,0.453,Nova playlist 2
+Still D.R.E.,Dr. Dre,spotify:track:3UOuBNEin5peSRqdzvlnWM,0.17,0.814,0.781,0.000518,0.052,-3.33,0.233,93.445,0.536,Nova playlist 2
+Crack A Bottle,Eminem,spotify:track:4dK00wCxlqWEeN8BoM1BHT,0.0864,0.516,0.874,0.0,0.173,-2.571,0.186,169.561,0.391,Nova playlist 2
+Renegade,JAY-Z,spotify:track:0eK5y1c7WDyWwx6k9SFjbT,0.399,0.561,0.774,1.84e-06,0.189,-3.144,0.447,77.621,0.82,Nova playlist 2
+No Favors,Big Sean,spotify:track:1MksGqIztTT6M9R1ErKVs8,0.629,0.482,0.781,2.87e-06,0.413,-5.334,0.411,57.967,0.336,Nova playlist 2
+Patiently Waiting,50 Cent,spotify:track:6C781pluv3BPxGHHCUJNYc,0.275,0.738,0.674,0.0,0.344,-2.299,0.28,78.929,0.575,Nova playlist 2
+Superman,Eminem,spotify:track:4woTEX1wYOTGDqNXuavlRC,0.0215,0.802,0.755,0.0,0.295,-3.138,0.0564,130.027,0.58,Nova playlist 2
+My Name Is,Eminem,spotify:track:75IN3CtuZwTHTnZvYM4qnJ,0.0416,0.869,0.68,1.12e-06,0.0914,-6.233,0.318,85.519,0.815,Nova playlist 2
+Me Apaixonei Pela Pessoa Errada,Exaltasamba,spotify:track:3IbQGxLsZfV8EzA7ILNDwB,0.663,0.555,0.59,0.0,0.384,-9.228,0.0396,140.854,0.748,Nova playlist 2
+It Was A Good Day,Ice Cube,spotify:track:2lUirvUhqfBqJzUvk4tLoK,0.279,0.792,0.82,0.000403,0.25,-3.58,0.116,82.363,0.793,Nova playlist 2
+I'll Never Love Again - Film Version,Lady Gaga,spotify:track:4A7EkKijzA4ryEoCRWJzdG,0.763,0.451,0.34,2.49e-06,0.135,-7.466,0.031,110.502,0.221,Nova playlist 2
+O Jogo Virou,Strike,spotify:track:71rG2xAm9SbCB1Ldtm4PRu,0.161,0.73,0.906,0.0,0.0954,-4.453,0.111,98.002,0.655,Nova playlist 2
+Lugar Ao Sol,Charlie Brown Jr.,spotify:track:4gEFeIEORz8thfqMY7nKcb,0.0427,0.418,0.768,0.537,0.275,-6.908,0.0306,141.371,0.296,Nova playlist 2
+Viva,Zimbra,spotify:track:0UYQFonYbcBNBxeFmtc1Wo,0.214,0.494,0.572,0.0,0.0646,-5.395,0.0339,132.809,0.334,Nova playlist 2
+Não Existe Amor em SP,Criolo,spotify:track:5gCtxyGveokIxU5CvkKndG,0.431,0.601,0.413,0.0284,0.0784,-9.518,0.0413,141.987,0.369,Nova playlist 2
+Tarde Livre,Selvagens à Procura de Lei,spotify:track:7qmngHzzUvkcj2P00A0kfb,0.393,0.629,0.622,0.0,0.112,-9.483,0.0292,98.945,0.414,Nova playlist 2
+Kill Rock 'n Roll,System Of A Down,spotify:track:28TReO2Mxk9Q3GA4K98YSz,0.0168,0.288,0.987,0.0,0.264,-1.359,0.223,184.519,0.336,Nova playlist 2
+Giz,Legião Urbana,spotify:track:5QnVC7RkK6AJi9d6qMsvDy,0.291,0.613,0.362,0.066,0.242,-11.924,0.0253,95.384,0.419,Nova playlist 2
+4 e 15 - Ao Vivo,Marília Mendonça,spotify:track:0T4f3zg99Z9fh7tkRdmyQt,0.59,0.714,0.908,3.28e-06,0.132,-3.357,0.0861,159.953,0.899,Nova playlist 2
+Disk Me,Pabllo Vittar,spotify:track:3xgDQRexKiyS4Eq3oAvLaD,0.141,0.761,0.61,0.0,0.124,-5.856,0.0447,140.014,0.29,Nova playlist 2
+A Gente Fez Amor - Ao Vivo,Gusttavo Lima,spotify:track:3tv697PZNnaQN0Mn2zGhS5,0.366,0.794,0.937,4.15e-06,0.962,-2.44,0.0336,134.012,0.826,Nova playlist 2
+Liberdade Provisória - Ao Vivo,Henrique & Juliano,spotify:track:3Ghyp3X5Ua9ypHnBIgOObI,0.627,0.668,0.684,0.0,0.923,-5.937,0.0527,108.138,0.7,Nova playlist 2
+S de Saudade,Luíza & Maurílio,spotify:track:3J5Pu25BODMex4Jpy4l6FL,0.621,0.714,0.712,0.0,0.127,-4.403,0.0545,123.804,0.789,Nova playlist 2
+Mistério do Planeta,Novos Baianos,spotify:track:3TAMiM8XFmU9vFd333pgRh,0.8,0.61,0.495,2.52e-05,0.083,-8.399,0.0891,146.878,0.683,Nova playlist 2
+Sinceramente,Cachorro Grande,spotify:track:4QUHJVXhwt14EzC0zOGa2I,0.682,0.646,0.48,9.89e-06,0.153,-7.219,0.0262,77.002,0.483,Nova playlist 2
+cartão postal - acústico,Scalene,spotify:track:4M4sN6ga9lNYPLRuK08nZ4,0.87,0.592,0.125,0.0,0.329,-13.87,0.0445,96.803,0.269,Nova playlist 2
+Mesa 16,Plutão Já Foi Planeta,spotify:track:53emgSuoVr2DIQwCz5End0,0.366,0.687,0.547,1.35e-05,0.109,-6.457,0.0407,129.834,0.699,Nova playlist 2
+Pense em mim,Leandro & Leonardo,spotify:track:6b5IOeNjaRN6Vg7Y6bT1EZ,0.187,0.504,0.599,0.0,0.0693,-8.927,0.0351,149.743,0.73,Nova playlist 2
+Tarde Livre,Selvagens à Procura de Lei,spotify:track:463fB4n6LbrOfizGdW1nak,0.393,0.629,0.622,0.0,0.112,-9.483,0.0292,98.945,0.414,Nova playlist 2
+Disfarçar,Canto dos Malditos Na Terra do Nunca,spotify:track:0X7gmPGrlKYclS9FBUYcvf,0.00136,0.458,0.687,0.0,0.108,-5.307,0.0397,148.456,0.0957,Nova playlist 2
+A Cera,O Surto,spotify:track:5w50Ywn17sXpDFDhe0Sxtw,0.0638,0.59,0.78,0.0,0.069,-2.858,0.0502,133.254,0.483,Nova playlist 2
+Até Onde Der,Bola,spotify:track:3t2OnMJJsaontyltyFsAPa,0.898,0.389,0.213,0.000146,0.106,-13.871,0.034,125.236,0.0627,Nova playlist 2
+Parabéns,Pabllo Vittar,spotify:track:3mikf8qZaNp6wrrWxHgawH,0.00687,0.723,0.856,2.48e-06,0.397,-5.596,0.0562,170.106,0.688,Nova playlist 2
+Ponto Cego,Cícero,spotify:track:0vOiwYwU4oQzaC50AZwMo2,0.884,0.246,0.215,1.83e-05,0.199,-13.257,0.0385,60.938,0.281,Nova playlist 2
+Açúcar ou Adoçante?,Cícero,spotify:track:3mN9YMbN5ZCb5JPLeCNEnz,0.753,0.615,0.328,0.00295,0.0946,-9.339,0.0302,100.047,0.27,Nova playlist 2
+Todos Os Lugares,Versos Que Compomos Na Estrada,spotify:track:52JdHFzlVODoDxUzHAZDHJ,0.744,0.646,0.595,1.34e-05,0.128,-6.234,0.0359,121.129,0.434,Nova playlist 2
+Gostava Tanto De Você,Tim Maia,spotify:track:6eDMElxeeKXs4DHTb0dGP0,0.0479,0.563,0.886,7.33e-05,0.0384,-9.008,0.0993,89.234,0.717,Nova playlist 2
+O Descobridor Dos Sete Mares,Tim Maia,spotify:track:6wpDQGn3Gl0j9Wt6D6mYvQ,0.0108,0.643,0.78,0.00069,0.305,-8.306,0.0718,136.891,0.963,Nova playlist 2
+Cigarros e Capitais,Esteban Tavares,spotify:track:5SxkHCnVhFqU0A91QBYuYz,0.365,0.588,0.607,0.0,0.124,-8.69,0.0313,119.933,0.487,Nova playlist 2
+Já Sei,Zimbra,spotify:track:3EhlNAbbkqbNdzXWJUaKbT,0.35,0.443,0.685,6.24e-06,0.118,-6.139,0.0312,178.935,0.646,Nova playlist 2
+Mar Fechado,Selvagens à Procura de Lei,spotify:track:08ixnzDjySbvWIrYLlwVEg,0.0387,0.301,0.425,0.0426,0.162,-7.381,0.0313,101.788,0.211,Nova playlist 2
+Até Quando?,Gabriel O Pensador,spotify:track:2t6h9r9XgNcZavFQpybk3r,0.0154,0.69,0.916,0.0,0.238,-5.334,0.103,100.028,0.796,Nova playlist 2
+Me encontra,Charlie Brown Jr.,spotify:track:5yEais1zgeW1MjLrx7tsie,0.0327,0.395,0.954,0.000123,0.124,-3.878,0.0555,178.001,0.686,Nova playlist 2
+Wake Up,EDEN,spotify:track:6K6OCvFQ4i7KKfGJsOAqY1,0.881,0.387,0.374,0.0,0.851,-6.743,0.0332,116.661,0.393,Nova playlist 2
+Convite para Nascer de Novo,Erasmo Carlos,spotify:track:0zvvjjj3MkBwhWWxrOfflu,0.256,0.703,0.361,5.34e-05,0.0962,-14.385,0.0371,138.171,0.368,Nova playlist 2
+Café Com Pão,Maglore,spotify:track:3Xiy6j2OHWkruyDEsOfRXP,0.354,0.611,0.752,0.0398,0.392,-6.23,0.0334,111.953,0.656,Nova playlist 2
+What's The Difference,Dr. Dre,spotify:track:1SWVDBtw6h3tm9OehOkDhv,0.223,0.772,0.821,0.0,0.148,-0.14,0.25,91.921,0.77,Nova playlist 2
+Cara de Vilão,Cartolas,spotify:track:1jgyYAWp2bkpVxmZX2OLaP,0.00113,0.499,0.875,0.0,0.0792,-3.717,0.0439,153.81,0.291,Nova playlist 2
+Queimando Tudo,Planet Hemp,spotify:track:26qKlzyPOmil2epcFPD246,0.697,0.646,0.9,0.000686,0.438,-6.005,0.154,215.126,0.93,Nova playlist 2
+Poema,Ney Matogrosso,spotify:track:7qvL8BbYdxvhOinapMiEeF,0.728,0.606,0.563,0.000362,0.335,-6.604,0.0307,124.181,0.464,Nova playlist 2
+Minha Juventude,Mr. Gyn,spotify:track:62osYzM4qkpo2S7CdpsMFs,0.369,0.379,0.81,0.0,0.203,-5.417,0.0858,203.862,0.607,Nova playlist 2
+Você Pode Ir Na Janela,Gram,spotify:track:2JhEdjHXQRsmnQjelhcu7B,0.00196,0.262,0.899,0.000167,0.172,-4.277,0.0354,135.974,0.378,Nova playlist 2
+Mantenha o Respeito,Planet Hemp,spotify:track:5scK80Nrz12oGUnQGcPgg1,0.0439,0.589,0.661,5.22e-06,0.0968,-8.955,0.21,108.035,0.382,Nova playlist 2
+The Real Slim Shady,Eminem,spotify:track:3yfqSUWxFvZELEM4PmlwIR,0.0302,0.949,0.661,0.0,0.0454,-4.244,0.0572,104.504,0.76,Nova playlist 2
+Stan,Eminem,spotify:track:3UmaczJpikHgJFyBTAJVoz,0.0371,0.78,0.768,2.34e-06,0.518,-4.325,0.238,80.063,0.507,Nova playlist 2
+Protect The Land,System Of A Down,spotify:track:11ajcVj3qSyyMPUpTJUP3y,9.2e-05,0.432,0.886,4.74e-05,0.338,-3.991,0.0341,76.04,0.248,Nova playlist 2
+Sugar,System Of A Down,spotify:track:31RTFPrB7wmYBhlkM2ILXG,0.00167,0.451,0.889,0.00215,0.258,-2.693,0.261,131.073,0.586,Nova playlist 2
+A mais pedida (Participação especial de Érika Martins),Raimundos,spotify:track:349flwjNbqIaE0Mph3jLGD,0.0105,0.539,0.825,1.43e-05,0.0693,-4.021,0.0479,125.06,0.465,Nova playlist 2
+1406,Mamonas Assassinas,spotify:track:0TXRO7qVCw0UOSkCPxWvUM,0.0347,0.746,0.665,0.0,0.0806,-10.154,0.133,92.37,0.777,Nova playlist 2
+I-E-A-I-A-I-O,System Of A Down,spotify:track:3RgDvs9Jpvn3kUuaTek1R5,0.000126,0.626,0.792,0.022,0.438,-2.734,0.0721,133.212,0.433,Nova playlist 2
+Aerials,System Of A Down,spotify:track:4e9eGQYsOiBcftrWXwsVco,0.000915,0.364,0.922,0.0346,0.0697,-4.217,0.0567,79.342,0.227,Nova playlist 2
+Bixinho,DUDA BEAT,spotify:track:04RFAnuBZkyITGUNIbZHhb,0.225,0.685,0.501,0.0,0.096,-7.492,0.0334,147.919,0.366,Nova playlist 2
+Tempo de Pipa,Cícero,spotify:track:40rIF99coDZOA10HnF46R4,0.84,0.639,0.468,0.015,0.101,-9.568,0.0254,109.013,0.61,Nova playlist 2
+Turn Around,Adam and the Metal Hawks,spotify:track:1VdjxFqX5C6UPh4xtVf96K,0.00972,0.559,0.896,0.00342,0.107,-7.804,0.068,92.102,0.782,Nova playlist 2
+Hey Ya!,Outkast,spotify:track:2PpruBYCo4H7WOBJ7Q2EwM,0.103,0.727,0.974,0.000532,0.174,-2.261,0.0664,79.526,0.965,Nova playlist 2
+Wish You Were Here - 2011 Remaster,Pink Floyd,spotify:track:7aE5WXu5sFeNRh3Z05wwu4,0.728,0.5,0.185,0.000746,0.273,-20.242,0.0535,121.002,0.293,Nova playlist 2
+bad guy,Billie Eilish,spotify:track:2Fxmhks0bxGSBdJ92vM42m,0.328,0.701,0.425,0.13,0.1,-10.965,0.375,135.128,0.562,Nova playlist 2
+La Vie En Rose,Lady Gaga,spotify:track:3tv3f29zjhzL3kcvQE8tGl,0.758,0.276,0.405,0.0,0.706,-7.296,0.0329,76.18,0.335,Nova playlist 2
+Pra não dizer que não falei das flores,Geraldo Vandre,spotify:track:34xP8fbC6O8TvKFWNcZihk,0.353,0.525,0.284,0.0997,0.127,-15.206,0.0472,114.195,0.306,Nova playlist 2
