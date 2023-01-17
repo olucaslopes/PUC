@@ -7,8 +7,7 @@ flowchart LR
     subgraph three["3 ano"]
     direction LR
     c1("Redes Neurais")
-    c2("Aprendizado Profundo")
-    click c2 "http://www.github.com"
+    c2("<a href='http://google.com' style='color: inherit;text-decoration: inherit;'>Aprendizado Profundo</a>")
     end
     subgraph two["2 ano"]
     direction LR
