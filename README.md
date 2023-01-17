@@ -13,8 +13,9 @@ flowchart LR
     subgraph two["2 ano"]
     direction LR
     b1("Aprendizado de Máquina")
-    b2("Otimização")
-    b3("Engenharia de Software")
+    b2("<a href='./Mineração%20de%20Dados' style='color: inherit;text-decoration: inherit;'>Mineração de Dados</a>")
+    b3("Simulação e Otimização")
+    b4("Engenharia de Software")
     end
     subgraph one["1 ano"]
     direction LR
