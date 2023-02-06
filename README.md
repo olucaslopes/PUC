@@ -12,7 +12,7 @@ flowchart LR
     end
     subgraph two["2 ano"]
     direction LR
-    b1("Aprendizado de Máquina")
+    b1("<a href='https://github.com/olucaslopes/PUC/tree/main/Aprendizado%20de%20M%C3%A1quina' style='color: inherit;text-decoration: inherit;'>Aprendizado de Máquina</a>")
     b2("<a href='https://github.com/olucaslopes/PUC/blob/main/Minera%C3%A7%C3%A3o%20de%20Dados' style='color: inherit;text-decoration: inherit;'>Mineração de Dados</a>")
     b3("Simulação e Otimização")
     b4("Engenharia de Software")
