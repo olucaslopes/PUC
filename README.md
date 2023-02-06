@@ -10,8 +10,8 @@ Atividades acadêmicas e anotações da minha graduação em Ciência de Dados e
       'primaryTextColor': '#fff',
       'primaryBorderColor': '#7F7F7F',
       'lineColor': '#F8B229',
-      'secondaryColor': '#006100',
-      'tertiaryColor': '#fff'
+      'secondaryColor': '#7F7F7F',
+      'tertiaryColor': '#d3d3d3'
     }
   }
 }%%
