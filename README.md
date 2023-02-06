@@ -2,6 +2,20 @@
 Atividades acadêmicas e anotações da minha graduação em Ciência de Dados e Inteligência Artificial na PUC-SP
 ### Trilha de estudos
 ```mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'primaryColor': '#1f77b4',
+      'primaryTextColor': '#fff',
+      'primaryBorderColor': '#7F7F7F',
+      'lineColor': '#F8B229',
+      'secondaryColor': '#006100',
+      'tertiaryColor': '#fff'
+    }
+  }
+}%%
+
 flowchart LR
     one-->two
     two-->three
