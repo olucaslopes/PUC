@@ -1,0 +1,7 @@
+Assista esse vídeo do StatQuest :)
+
+https://www.youtube.com/watch?v=Lsue2gEM9D0
+
+Em seguida, utilize o caderno anexo (criado pelo Josh Starmer) e reduza a dimensionalidade de algum dataset (não excessivamente complexo)
+
+Submeta o caderno e um PDF (do caderno)
