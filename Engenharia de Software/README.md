@@ -55,7 +55,19 @@ Capacitar o aluno para:
 
 # Conteúdo Programático
 
-| Data / Semana | Conteúdo por Aula | Metodologia ou Estratégias de Ensino | Recursos Tecnológicos ou Físicos |
-| :--: | :-- | :--: | :--: |
-
-**EM CONSTRUÇÃO**
+| Semana | Data | Tema | Conteúdo | Prova / Atividade |
+| :-: | :-: | :-- | :-- | :-: |
+| 1 | 03/Mar | Processos de Programação | Engenharia de Software |  |
+| 2 | 10/Mar | Processos de Programação | Ações Computacionais |  |
+| 3 | 17/Mar | Processos de Programação | Análise de Comportamentos | C11 |
+| 4 | 24/Mar | Processos de Programação | Modelos com Funções (I) |  |
+| 5 | 31/Mar | Computação com Funções | Modelos com Funções (II) | C12 |
+| 6 | 07/Abr | Computação com Funções | Modelos com Sequências |  |
+| 7 | 28/Abr | Computação com Funções | Modelos com Composição | C13 |
+| 8 | 05/Mai | Computação com Funções | Modelos com Recursão |  |
+| 9 | 12/Mai | Computação com Funções | Revisão Conceitual | P1 |
+| 10 | 19/Mai | Computação com Objetos | Tipos de Dados Abstratos | C21 |
+| 11 | 26/Mai | Computação com Objetos | Modelagem com Objetos | C22 |
+| 12 | 02/Jun | Computação com Objetos | Programação Orientada a Objetos |  |
+| 13 | 14/Jun | Computação com Objetos | Estudo de Caso | C23 |
+| 14 | 16/Jun | Computação com Objetos | Revisão Conceitual | P2 |
