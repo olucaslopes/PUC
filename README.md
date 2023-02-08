@@ -22,19 +22,19 @@ flowchart LR
     subgraph three["3 ano"]
     direction LR
     c1("Redes Neurais")
-    c2("<a href='http://google.com' style='color: inherit;text-decoration: inherit;'>Aprendizado Profundo</a>")
+    c2("Aprendizado Profundo")
     end
     subgraph two["2 ano"]
     direction LR
     b1("<a href='https://github.com/olucaslopes/PUC/tree/main/Aprendizado%20de%20M%C3%A1quina' style='color: inherit;text-decoration: inherit;'>Aprendizado de Máquina</a>")
     b2("<a href='https://github.com/olucaslopes/PUC/blob/main/Minera%C3%A7%C3%A3o%20de%20Dados' style='color: inherit;text-decoration: inherit;'>Mineração de Dados</a>")
-    b3("Simulação e Otimização")
+    b3("<a href='https://github.com/olucaslopes/PUC/tree/main/Otimiza%C3%A7%C3%A3o%20e%20Simula%C3%A7%C3%A3o' style='color: inherit;text-decoration: inherit;'>Otimização e Simulação</a>")
     b4("Engenharia de Software")
     end
     subgraph one["1 ano"]
     direction LR
     a1("Programação")
-    a2("Matemática")
+    a2("Cálculo")
     a3("Estatística")
     end
 ```
