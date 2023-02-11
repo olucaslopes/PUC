@@ -1,4 +1,4 @@
-# Treinando um classificador de regressão logística
+# Otimização e Simulação: Lista de atividades 1
 
 - Professor: Rooney R. A. Coelho
 - Disciplina: Otimização e Simulação
