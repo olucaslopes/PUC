@@ -1,4 +1,9 @@
 # CDIA PUC
+
+<p align="center">
+<img src="https://i.imgur.com/hhU8fsO.png" alt="Logo CDIA PUC" height="200px" />
+</p>
+
 Atividades acadêmicas e anotações da minha graduação em Ciência de Dados e Inteligência Artificial na PUC-SP
 ## Trilha de estudos
 ```mermaid
