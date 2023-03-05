@@ -44,6 +44,10 @@ flowchart LR
     end
 ```
 
+## Projeto Pedagógico Do Curso
+
+O arquivo [PPC-CDIA-v2020-02-07.pdf](./PPC-CDIA-v2020-02-07.pdf) contém o Projeto Pedagógico do Curso. Nele é possível encontrar informações como objetivos do curso, perfil do egresso, estrutura curricular, metodologia, matriz curricular, quadro de atividades complementares, entre outras informações.
+
 ## Grade Curricular
 
 | Sem. | Disciplina |
