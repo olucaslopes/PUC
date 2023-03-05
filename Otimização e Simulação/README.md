@@ -1,4 +1,4 @@
-# Otimização e Simulação
+# 🚀 Otimização e Simulação
 
 ## Informações sobre a disciplina
 

@@ -1,4 +1,4 @@
-# Engenharia de Software
+# ⚙️ Engenharia de Software
 
 ## Informações sobre a disciplina
 

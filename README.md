@@ -31,10 +31,10 @@ flowchart LR
     end
     subgraph two["2 ano"]
     direction LR
-    b1("<a href='https://github.com/olucaslopes/PUC/tree/main/Aprendizado%20de%20M%C3%A1quina' style='color: inherit;text-decoration: inherit;'>Aprendizado de Máquina</a>")
-    b2("<a href='https://github.com/olucaslopes/PUC/tree/main/Minera%C3%A7%C3%A3o%20de%20Dados' style='color: inherit;text-decoration: inherit;'>Mineração de Dados</a>")
-    b3("<a href='https://github.com/olucaslopes/PUC/tree/main/Otimiza%C3%A7%C3%A3o%20e%20Simula%C3%A7%C3%A3o' style='color: inherit;text-decoration: inherit;'>Otimização e Simulação</a>")
-    b4("<a href='https://github.com/olucaslopes/PUC/tree/main/Engenharia%20de%20Software' style='color: inherit;text-decoration: inherit;'>Engenharia de Software</a>")
+    b1("<a href='https://github.com/olucaslopes/PUC/tree/main/Aprendizado%20de%20M%C3%A1quina' style='color: inherit;text-decoration: inherit;'>🦾 Aprendizado de Máquina</a>")
+    b2("<a href='https://github.com/olucaslopes/PUC/tree/main/Minera%C3%A7%C3%A3o%20de%20Dados' style='color: inherit;text-decoration: inherit;'>⛏️ Mineração de Dados</a>")
+    b3("<a href='https://github.com/olucaslopes/PUC/tree/main/Otimiza%C3%A7%C3%A3o%20e%20Simula%C3%A7%C3%A3o' style='color: inherit;text-decoration: inherit;'>🚀 Otimização e Simulação</a>")
+    b4("<a href='https://github.com/olucaslopes/PUC/tree/main/Engenharia%20de%20Software' style='color: inherit;text-decoration: inherit;'>⚙️ Engenharia de Software</a>")
     end
     subgraph one["1 ano"]
     direction LR

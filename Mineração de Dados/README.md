@@ -1,4 +1,4 @@
-# Mineração De Dados
+# ⛏️ Mineração De Dados
 
 ## Informações sobre a disciplina
 

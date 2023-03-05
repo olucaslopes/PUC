@@ -1,4 +1,4 @@
-# Aprendizado de Máquina
+# 🦾 Aprendizado de Máquina
 
 Para essa área do conhecimento, agrego duas disciplinas: `Projeto Integrado: Negócios` e `Projeto Integrado: Redes Sociais e Marketing`
 
