@@ -26,8 +26,8 @@ flowchart LR
     two-->three
     subgraph three["3 ano"]
     direction LR
-    c1("Redes Neurais")
-    c2("Aprendizado Profundo")
+    c1("<a href='https://github.com/olucaslopes/PUC/tree/main/Redes%20Neurais' style='color: inherit;text-decoration: inherit;'>🧠 Redes Neurais</a>")
+    c2("<a href='https://github.com/olucaslopes/PUC/tree/main/Sistemas%20Distribu%C3%ADdos' style='color: inherit;text-decoration: inherit;'>🐘  Sistemas Distribuídos</a>")
     end
     subgraph two["2 ano"]
     direction LR
@@ -68,8 +68,8 @@ O arquivo [PPC-CDIA-v2020-02-07.pdf](./PPC-CDIA-v2020-02-07.pdf) contém o Proje
 | 4 | Empreendedorismo em CD e IA |
 | 4 | Orientação Profissional |
 | 4 | [Projeto Integrado: Aprendizado de Máquina II](./Aprendizado%20de%20M%C3%A1quina/) |
-| 5 | Redes Neurais |
-| 5 | Sistemas Distribuídos |
+| 5 | [Redes Neurais](./Redes%20Neurais/) |
+| 5 | [Sistemas Distribuídos](./Sistemas%20Distribu%C3%ADdos/) |
 | 5 | Governança de Algorítmos |
 | 5 | Projeto Integrado: Segurança Cibernética e Engenharia Social |
 | 6 | Consultoria Especializada em Ciências de Dados 1 |
