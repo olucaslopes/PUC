@@ -53,10 +53,10 @@ O arquivo [PPC-CDIA-v2020-02-07.pdf](./PPC-CDIA-v2020-02-07.pdf) contém o Proje
 | Sem. | Disciplina |
 | :-: | :-- |
 | 1 | [Cálculo I](./C%C3%A1lculo%20I/) |
-| 1 | Algorítmos e Programação |
+| 1 | [Algorítmos e Programação](./Programa%C3%A7%C3%A3o/) |
 | 1 | Introdução ao Pensamento Teológico |
 | 1 | Projeto Integrado: Aquisição e Visualização de Dados (Storytelling) |
-| 2 | Estrutura de Dados e Programação |
+| 2 | [Estrutura de Dados e Programação](./Programa%C3%A7%C3%A3o/) |
 | 2 | [Probabilidade e Estatística](./Estat%C3%ADstica/) |
 | 2 | Projeto Integrado: Estatística sobre Bases de Dados |
 | 2 | Teologia em Diálogo com as Tecnociências |
