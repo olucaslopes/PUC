@@ -1,0 +1,11 @@
+Um dos maiores maiores problemas atuais do Brasil é a criminalidade. Mata-se muito no Brasil, só que as pessoas tem
+uma ideia equivocada sobre a prevalência da criminalidade sobre nosso território, o que pode leva-las a terem medo
+e tornarem-se excessivamente precavidas em regiões que não são tão perigosas ou também ficarem descuidadas em regiões
+inseguras. 
+
+O exemplo mais clássico é o estado do Rio de Janeiro, que recebe muita atenção da mídia com respeito a sua criminalidade,
+mas, apesar de ter um dos números absolutos de mortes em crimes mais altos do Brasil, tem um índice de mortes por milhão
+de habitantes relativamente baixo se comparado a outros estados do norte e do nordeste.
+
+Esse trabalho busca dar as condições ao leitor para analisar e clarificar-se acerca de situações como essa e outras 
+por meio de um mapa de calor do território brasileiro e a apresentação de gráficos.
