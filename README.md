@@ -40,7 +40,7 @@ flowchart LR
     direction LR
     a1("Programação")
     a2("Cálculo")
-    a3("Estatística")
+    a3("<a href='https://github.com/olucaslopes/PUC/tree/main/Estat%C3%ADstica' style='color: inherit;text-decoration: inherit;'>📊 Estatística</a>")
     end
 ```
 
