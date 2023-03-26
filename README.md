@@ -57,7 +57,7 @@ O arquivo [PPC-CDIA-v2020-02-07.pdf](./PPC-CDIA-v2020-02-07.pdf) contém o Proje
 | 1 | Introdução ao Pensamento Teológico |
 | 1 | Projeto Integrado: Aquisição e Visualização de Dados (Storytelling) |
 | 2 | Estrutura de Dados e Programação |
-| 2 | Probabilidade e Estatística |
+| 2 | [Probabilidade e Estatística](./Estat%C3%ADstica/) |
 | 2 | Projeto Integrado: Estatística sobre Bases de Dados |
 | 2 | Teologia em Diálogo com as Tecnociências |
 | 3 | Bancos de Dados (Sql e Nosql) |
