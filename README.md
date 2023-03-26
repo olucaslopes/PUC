@@ -38,7 +38,7 @@ flowchart LR
     end
     subgraph one["1 ano"]
     direction LR
-    a1("Programação")
+    a1("<a href='https://github.com/olucaslopes/PUC/tree/main/Programa%C3%A7%C3%A3o' style='color: inherit;text-decoration: inherit;'>👨🏻‍💻 Programação</a>")
     a2("<a href='https://github.com/olucaslopes/PUC/tree/main/C%C3%A1lculo%20I' style='color: inherit;text-decoration: inherit;'>📐 Cálculo</a>")
     a3("<a href='https://github.com/olucaslopes/PUC/tree/main/Estat%C3%ADstica' style='color: inherit;text-decoration: inherit;'>📊 Estatística</a>")
     end
