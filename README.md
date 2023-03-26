@@ -39,7 +39,7 @@ flowchart LR
     subgraph one["1 ano"]
     direction LR
     a1("Programação")
-    a2("Cálculo")
+    a2("<a href='https://github.com/olucaslopes/PUC/tree/main/C%C3%A1lculo%20I' style='color: inherit;text-decoration: inherit;'>📐 Cálculo</a>")
     a3("<a href='https://github.com/olucaslopes/PUC/tree/main/Estat%C3%ADstica' style='color: inherit;text-decoration: inherit;'>📊 Estatística</a>")
     end
 ```
@@ -52,7 +52,7 @@ O arquivo [PPC-CDIA-v2020-02-07.pdf](./PPC-CDIA-v2020-02-07.pdf) contém o Proje
 
 | Sem. | Disciplina |
 | :-: | :-- |
-| 1 | Cálculo I |
+| 1 | [Cálculo I](./C%C3%A1lculo%20I/) |
 | 1 | Algorítmos e Programação |
 | 1 | Introdução ao Pensamento Teológico |
 | 1 | Projeto Integrado: Aquisição e Visualização de Dados (Storytelling) |
