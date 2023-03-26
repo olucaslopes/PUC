@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Programação
 
-Para essa área do conhecimento, agrego duas disciplinas: `Algoritmos e Programação` e `Estrutura	de	Dados	e	Programação`
+Para essa área do conhecimento, agrego duas disciplinas: `Algoritmos e Programação` e `Estrutura de Dados e Programação`
 
 Ambas as disciplinas são focadas em desenvolver as habilidades de programação e resolução de problemas utilizando a linguagem de programação `Python`.
 
