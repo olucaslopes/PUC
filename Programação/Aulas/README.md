@@ -1,3 +1,3 @@
 # 👨🏻‍💻 Programação: Aulas
 
-Materia das aulas disponibilizado pelo professor
+Materiais das aulas disponibilizados pelo professor

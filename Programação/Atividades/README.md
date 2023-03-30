@@ -14,3 +14,12 @@
 | 03/mai | [Exercícios - Algoritmos e Programação - 1o bimestre](./Algoritmos%20e%20Programa%C3%A7%C3%A3o/Exerc%C3%ADcios%20-%20Algoritmos%20e%20Programa%C3%A7%C3%A3o%20-%201o%20bimestre/) |
 | 27/mai | [Introdução às Expressões Regulares](./Algoritmos%20e%20Programa%C3%A7%C3%A3o/Introdu%C3%A7%C3%A3o%20%C3%A0s%20Express%C3%B5es%20Regulares/) |
 | 07/jun | [Covid por País (Regex)](./Algoritmos%20e%20Programa%C3%A7%C3%A3o/Covid%20por%20Pa%C3%ADs%20(Regex)/) |
+
+## 2️⃣ Estrutura de Dados e Programação
+
+| Data | Atividade |
+| :-: | :-- |
+| 16/ago | [Raspando as informações do BNMP pt.1](./Estrutura%20de%20Dados%20e%20Programa%C3%A7%C3%A3o/Raspando%20as%20informa%C3%A7%C3%B5es%20do%20BNMP%20pt.1/) |
+| 23/ago | [Raspando as informações do BNMP pt.2](./Estrutura%20de%20Dados%20e%20Programa%C3%A7%C3%A3o/Raspando%20as%20informa%C3%A7%C3%B5es%20do%20BNMP%20pt.2/) |
+| 30/ago | [Modelagem OO - Introdutória](./Estrutura%20de%20Dados%20e%20Programa%C3%A7%C3%A3o/Modelagem%20OO%20-%20Introdut%C3%B3ria/) |
+| 27/set | [Intro Herança e Polimorfismo](./Estrutura%20de%20Dados%20e%20Programa%C3%A7%C3%A3o/Intro%20Heran%C3%A7a%20e%20Polimorfismo/) |
