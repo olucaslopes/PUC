@@ -1,4 +1,4 @@
-# Engenharia de Sofware: Atividades
+# ⚙️ Engenharia de Software: Atividades
 
 | Data | Atividade | Resolução |
 | :-: | :-: | :-: |
