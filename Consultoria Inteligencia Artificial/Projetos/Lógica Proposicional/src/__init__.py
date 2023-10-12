@@ -1,1 +1,1 @@
-from src.main import is_wff, split_formula
+from src.main import is_wff
