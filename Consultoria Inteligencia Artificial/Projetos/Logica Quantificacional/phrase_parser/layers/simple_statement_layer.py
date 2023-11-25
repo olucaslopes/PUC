@@ -1,4 +1,4 @@
-from parser.layers.abstract_layer import Layer
+from phrase_parser.layers.abstract_layer import Layer
 
 
 class SimpleStatementLayer(Layer):

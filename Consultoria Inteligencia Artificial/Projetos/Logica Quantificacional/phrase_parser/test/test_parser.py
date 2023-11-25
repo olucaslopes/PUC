@@ -1,6 +1,6 @@
 import unittest
 
-from parser.sentence_parser import SentenceParser
+from phrase_parser.sentence_parser import SentenceParser
 
 
 class TestSentenceParser(unittest.TestCase):

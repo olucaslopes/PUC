@@ -1,10 +1,10 @@
 import spacy
 import unicodedata
 
-from parser.layers.existential_quantification_layer import ExistentialQuantificationLayer
-from parser.layers.simple_statement_layer import SimpleStatementLayer
-from parser.layers.universal_negation_layer import UniversalNegationLayer
-from parser.layers.universal_quantification_layer import UniversalQuantificationLayer
+from phrase_parser.layers.existential_quantification_layer import ExistentialQuantificationLayer
+from phrase_parser.layers.simple_statement_layer import SimpleStatementLayer
+from phrase_parser.layers.universal_negation_layer import UniversalNegationLayer
+from phrase_parser.layers.universal_quantification_layer import UniversalQuantificationLayer
 
 
 class SentenceParser:
