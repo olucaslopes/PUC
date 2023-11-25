@@ -41,20 +41,22 @@ Lembrem-se de que vocês também terão que fazer a apresentação no dia 24/11 
 - tautologia
 
 ## Como começar
-- dar uma olhada no c´doigo da lógica proposicional
-- ver função main
-- pensar em como implementar
-- fazer uma função de tradução
-- testa usando a nltk
-- pensar em como alterar o gabarito da lógica proposicional no teams para abarcar a lógica quantificacional
-- rodar lógica
+- Entender a referência de implementação da Lógica Proposicional disponibilizada pelo professor
+- Entender o objetivo do trabalho que se dará modelado numa função main
+- Entender o funcionamento da função TableauProver (biblioteca: Nltk)
+- Refletir sobre a estrutura de implementação
+- Criar uma função de tradução da linguagem lógica para a linguagem lógica do TableauProver
+- Testar usando o Nltk TableauProver
+- Criar a função main do programa
+- Desenvolver testes unitários utilizando pytest
 
+## Função main
 
-A cada fraase inserida verifica 4 coisas:
-- tautologia?
-- contradição?
-- segue das outras crenças (teste de redundancia: todo homem é mortal; socrátes é homem; sócrates é mortal)
-- contradiz as outras crenãs? (consistencia)
+A cada frase inserida verifica 4 coisas:
+- Tautologia?
+- Contradição?
+- A fase tem valor informacional baseado nas outras crenças já estabelecidas? (teste de redundancia: todo homem é mortal; socrátes é homem; sócrates é mortal)
+- Contradiz outras crenças já estabelecidas? (consistencia)
 
 Professor: "O tableau faz essas 4 verificações, mas você tem que montar 4 Tableaus":
 
@@ -62,3 +64,14 @@ Professor: "O tableau faz essas 4 verificações, mas você tem que montar 4 Tab
 2) pra contradição (~c, [])
 3) pra redundancia (c, [p1, p2,...])
 4) pra consistência (~c, [p1, p2, ...])
+
+    ### Desafio da Consistência
+    **(Este é um desafio que refinará o trabalho, não é o objetivo principal do programa, por isso deve ser considerado após todo o desenvolvimento)**
+
+    Para identificação das crenças que causam uma inconsistência, basta retirar as crenças existentes da base de crenças e verificar se ainda a inconsistência num laço. Como exemplo teremos:
+        Crenças = [p1, p2, p3, p4] -> TableauProver(~c, Crenças) -> Inconsistente
+                  [p1, p2, p4] -> TableauProver(~c, Crenças) -> Consistente
+                  [p1, p3, p4] -> TableauProver(~c, Crenças) -> Consistente
+                  [p2, p3, p4] -> TableauProver(~c, Crenças) -> Inconsistente
+
+    Ou seja, quando inserimos a nova crença *p4* em nossa Base de Crenças ela se torna Inconsistente devido a outras crenças já estabelecidas. Ao retirar a crença *p3*, a base volta a ser consistente, assim também como a crença *p2* quando retirada. Portanto, para adicionar a crença *p4* à Base de Crenças, o usuário deverá escolher uma das crenças, *p2* ou *p3*, à ser descartada. Caso não queira que uma das crenças estabelecidas sejam descartadas, o usuário deverá optar pelo descarte da nova crença *p4*.
