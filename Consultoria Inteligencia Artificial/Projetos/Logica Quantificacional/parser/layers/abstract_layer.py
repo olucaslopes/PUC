@@ -10,8 +10,8 @@ class Layer(ABC):
 
     def separate_subject_predicate_and_lemmatize(self):
         subject, predicate = self.parser.separate_subject_predicate(self.sentence)
-        lemma_suj = self.parser.lemmantize_word(subject)
-        lemma_pred = self.parser.lemmantize_word(predicate)
+        lemma_suj = self.parser.lemmatize_word(subject)
+        lemma_pred = self.parser.lemmatize_word(predicate)
         return lemma_suj, lemma_pred
 
     @property

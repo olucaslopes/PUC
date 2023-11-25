@@ -28,7 +28,7 @@ class SentenceParser:
             .decode('utf-8')
         )
 
-    def lemmantize_word(self, word):
+    def lemmatize_word(self, word):
         word = self.nlp(word)[0].lemma_
         word = word.lower()
         return self._remove_accents(word)
