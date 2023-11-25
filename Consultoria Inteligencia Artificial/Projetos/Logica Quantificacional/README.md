@@ -1,7 +1,5 @@
 # Lógica Quantificacional
 
-site: https://nltk.org/howto/inference.html
-
 ## Especificação
 
 O projeto consiste no desenvolvimento (em Python) de um prompt de comando em que se pode inserir frases, formuladas numa sintaxe próxima da linguagem natural (que definiremos abaixo), que irão compor uma ``base de crenças'' de uma pessoa. Para cada nova inserção p, deve-se verificar:
@@ -60,7 +58,7 @@ A cada fraase inserida verifica 4 coisas:
 
 Professor: "O tableau faz essas 4 verificações, mas você tem que montar 4 Tableaus":
 
-i) pra tautologia, argumentos (c, [])
-ii) pra contradição (~c, [])
-iii) pra redundancia (c, [p1, p2,...])
-iv) pra consistência (~c, [p1, p2, ...])
+1) pra tautologia, argumentos (c, [])
+2) pra contradição (~c, [])
+3) pra redundancia (c, [p1, p2,...])
+4) pra consistência (~c, [p1, p2, ...])
