@@ -1,4 +1,4 @@
-# Lógica
+# Lógica Quantificacional
 
 site: https://nltk.org/howto/inference.html
 
