@@ -31,3 +31,78 @@ class KnowledgeBase:
         consistant = tableau.prove(-c, [Expression.fromstring(logic) for logic in self.beliefs.values()])
 
         return tautology, contradition, redundant, consistant, logic_phrase
+
+    def is_tautology(self, logic_exp, verbose=False):
+        """
+        Returns True if the expression c is a tautology.
+
+        Args:
+            logic_exp: The propositional expression to be tested.
+            verbose: Whether show Tableau or not
+        Returns:
+            True if c is a tautology, False otherwise.
+        """
+
+        c = Expression.fromstring(logic_exp)
+        return TableauProver().prove(
+            goal=c,
+            assumptions=[],
+            verbose=verbose
+        )
+
+    def is_contradiction(self, logic_exp, verbose=False):
+        """
+        Returns True if the expression c is a contradiction.
+
+        Args:
+            logic_exp: The propositional expression to be tested.
+            verbose: Whether show Tableau or not
+
+        Returns:
+            True if c is a contradiction, False otherwise.
+        """
+
+        c = Expression.fromstring(logic_exp)
+        return TableauProver().prove(
+            goal=-c,
+            assumptions=[],
+            verbose=verbose
+        )
+
+    def is_redundant(self, logic_exp, verbose=False):
+        """
+        Returns True if the expression c is redundant.
+
+        Args:
+            logic_exp: The propositional expression to be tested.
+            verbose: Whether show Tableau or not
+
+        Returns:
+            True if c is redundant, False otherwise.
+        """
+
+        c = Expression.fromstring(logic_exp)
+        return TableauProver().prove(
+            goal=c,
+            assumptions=self.beliefs,
+            verbose=verbose
+        )
+
+    def is_consistent(self, logic_exp, verbose=False):
+        """
+        Returns True if the expression c is consistent.
+
+        Args:
+            logic_exp: The propositional expression to be tested.
+            verbose: Whether show Tableau or not
+
+        Returns:
+            True if c is consistent, False otherwise.
+        """
+
+        c = Expression.fromstring(logic_exp)
+        return TableauProver().prove(
+            goal=-c,
+            assumptions=self.beliefs,
+            verbose=verbose
+        )
