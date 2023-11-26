@@ -12,7 +12,7 @@ class KnowledgeBase:
         """
         Adds belief to KnowledgeBase if it is valid
         """
-        conditions = [self.is_tautology, self.is_contradiction, self.is_redundant, self.is_consistent]
+        conditions = [self.is_tautology, self.is_contradiction, self.is_redundant, self.is_inconsistent]
         tautology, contradition, redundant, consistant = [cond(logic_phrase) for cond in conditions]
         if tautology or contradition:
             print("'phrase' não possui conteúdo informacional. Nenhuma informação foi adicionada na base de crenças")
@@ -43,7 +43,7 @@ class KnowledgeBase:
         redundant = tableau.prove(c, [Expression.fromstring(logic) for logic in self.beliefs.values()])
         consistant = tableau.prove(-c, [Expression.fromstring(logic) for logic in self.beliefs.values()])
 
-        return tautology, contradition, redundant, consistant, logic_phrase
+        return any([tautology, contradition, redundant, consistant])
 
     def is_tautology(self, logic_exp, verbose=False):
         """
@@ -101,16 +101,16 @@ class KnowledgeBase:
             verbose=verbose
         )
 
-    def is_consistent(self, logic_exp, verbose=False):
+    def is_inconsistent(self, logic_exp, verbose=False):
         """
-        Returns True if the expression c is consistent.
+        Returns True if the expression c is inconsistent.
 
         Args:
             logic_exp: The propositional expression to be tested.
             verbose: Whether show Tableau or not
 
         Returns:
-            True if c is consistent, False otherwise.
+            True if c is inconsistent, False otherwise.
         """
 
         c = Expression.fromstring(logic_exp)
