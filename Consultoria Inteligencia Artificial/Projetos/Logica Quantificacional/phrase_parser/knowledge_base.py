@@ -1,5 +1,6 @@
 from phrase_parser.sentence_parser import SentenceParser
-from nltk.inference.tableau import *
+from nltk.inference.tableau import TableauProver, Expression
+
 
 class KnowledgeBase:
     def __init__(self):
