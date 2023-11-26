@@ -10,10 +10,23 @@ class KnowledgeBase:
 
     def add_belief(self, phrase, logic_phrase):
         """
-        TODO: Use Tableau inside this function to check if you are able to add a belief
+        Adds belief to KnowledgeBase if it is valid
         """
-        self.generated_logic_phrases = False
-        self.beliefs[phrase] = logic_phrase
+        conditions = [self.is_tautology, self.is_contradiction, self.is_redundant, self.is_consistent]
+        tautology, contradition, redundant, consistant = [cond(logic_phrase) for cond in conditions]
+        if tautology or contradition:
+            print("'phrase' não possui conteúdo informacional. Nenhuma informação foi adicionada na base de crenças")
+            return None
+        elif redundant:
+            print('Informação redundante. Nenhuma informação foi adicionada na base de crenças')
+        elif consistant:
+            print('Informação conflitante com a base de crenças. Nenhuma informação foi adicionada na base de crenças')
+            return None
+        else:
+            self.generated_logic_phrases = False
+            self.beliefs[phrase] = logic_phrase
+            print(f'Adicionado com sucesso na base de crenças: `{logic_phrase}` ({phrase})')
+            return None
 
     def get_logic_phrases(self):
         self.logic_phrases = [Expression.fromstring(logic) for logic in self.beliefs.values()]
