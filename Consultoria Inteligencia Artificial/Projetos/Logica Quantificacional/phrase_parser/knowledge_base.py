@@ -97,7 +97,7 @@ class KnowledgeBase:
         c = Expression.fromstring(logic_exp)
         return TableauProver().prove(
             goal=c,
-            assumptions=self.beliefs,
+            assumptions=self.get_logic_phrases(),
             verbose=verbose
         )
 
@@ -116,6 +116,6 @@ class KnowledgeBase:
         c = Expression.fromstring(logic_exp)
         return TableauProver().prove(
             goal=-c,
-            assumptions=self.beliefs,
+            assumptions=self.get_logic_phrases(),
             verbose=verbose
         )
