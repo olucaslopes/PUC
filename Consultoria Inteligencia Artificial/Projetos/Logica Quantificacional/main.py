@@ -35,10 +35,10 @@ def main():
             print("A frase é válida!")
             print("Adicionando à base de crenças...")
             knowledge_base.add_belief(phrase, logic_phrase)
-            print("Base de crenças atualizada: ", knowledge_base.base_crencas)
+            print("Base de crenças atualizada: ", knowledge_base.beliefs)
         else:
             print("A frase não é válida!")
-            print("Base de crenças atual: ", knowledge_base.base_crencas)
+            print("Base de crenças atual: ", knowledge_base.beliefs)
 
         continuar = input("Quer digitar uma nova frase? (S/N): ")
         if continuar.upper() != "S":

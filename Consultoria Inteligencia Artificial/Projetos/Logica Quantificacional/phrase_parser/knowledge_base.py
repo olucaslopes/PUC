@@ -1,13 +1,12 @@
 from phrase_parser.sentence_parser import SentenceParser
-from nltk.sem.logic import *
 from nltk.inference.tableau import *
 
 class KnowledgeBase:
     def __init__(self):
-        self.base_crencas = {}
+        self.beliefs = {}
 
     def add_belief(self, phrase, logic_phrase):
-        self.base_crencas[phrase] = logic_phrase
+        self.beliefs[phrase] = logic_phrase
 
     def check_belief(self, phrase):
         logic_phrase = str(SentenceParser(phrase).parse())
@@ -16,7 +15,7 @@ class KnowledgeBase:
 
         tautology = tableau.prove(c, [])
         contradition = tableau.prove(-c, [])
-        redundant = tableau.prove(c, [Expression.fromstring(logic) for logic in self.base_crencas.values()])
-        consistant = tableau.prove(-c, [Expression.fromstring(logic) for logic in self.base_crencas.values()])
+        redundant = tableau.prove(c, [Expression.fromstring(logic) for logic in self.beliefs.values()])
+        consistant = tableau.prove(-c, [Expression.fromstring(logic) for logic in self.beliefs.values()])
 
         return tautology, contradition, redundant, consistant, logic_phrase
