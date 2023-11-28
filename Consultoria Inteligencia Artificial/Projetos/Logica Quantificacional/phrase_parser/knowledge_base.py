@@ -1,5 +1,6 @@
 from phrase_parser.sentence_parser import SentenceParser
 from nltk.inference.tableau import TableauProver, Expression
+import warnings
 
 
 class KnowledgeBase:
@@ -15,12 +16,10 @@ class KnowledgeBase:
         conditions = [self.is_tautology, self.is_contradiction, self.is_redundant, self.is_inconsistent]
         tautology, contradition, redundant, inconsistent = [cond(logic_phrase) for cond in conditions]
         if tautology or contradition:
-            print("'phrase' não possui conteúdo informacional. Nenhuma informação foi adicionada na base de crenças")
             return None
         elif redundant:
-            print('Informação redundante. Nenhuma informação foi adicionada na base de crenças')
+            return None
         elif inconsistent:
-            print('Informação conflitante com a base de crenças. Nenhuma informação foi adicionada na base de crenças')
             return None
         else:
             self.generated_logic_phrases = False
@@ -57,11 +56,16 @@ class KnowledgeBase:
         """
 
         c = Expression.fromstring(logic_exp)
-        return TableauProver().prove(
+        response = TableauProver().prove(
             goal=c,
             assumptions=[],
             verbose=verbose
         )
+        if response:
+            warnings.warn(
+                f"\n`{logic_exp}` não possui conteúdo informacional. Nenhuma informação foi adicionada na base de crenças"
+            )
+        return response
 
     def is_contradiction(self, logic_exp, verbose=False):
         """
@@ -76,11 +80,16 @@ class KnowledgeBase:
         """
 
         c = Expression.fromstring(logic_exp)
-        return TableauProver().prove(
+        response = TableauProver().prove(
             goal=-c,
             assumptions=[],
             verbose=verbose
         )
+        if response:
+            warnings.warn(
+                f"\n`{logic_exp}` não possui conteúdo informacional. Nenhuma informação foi adicionada na base de crenças"
+            )
+        return response
 
     def is_redundant(self, logic_exp, verbose=False):
         """
@@ -95,11 +104,16 @@ class KnowledgeBase:
         """
 
         c = Expression.fromstring(logic_exp)
-        return TableauProver().prove(
+        response = TableauProver().prove(
             goal=c,
             assumptions=self.get_logic_phrases(),
             verbose=verbose
         )
+        if response:
+            warnings.warn(
+                "\nInformação redundante. Nenhuma informação foi adicionada na base de crenças"
+            )
+        return response
 
     def is_inconsistent(self, logic_exp, verbose=False):
         """
@@ -114,8 +128,13 @@ class KnowledgeBase:
         """
 
         c = Expression.fromstring(logic_exp)
-        return TableauProver().prove(
+        response = TableauProver().prove(
             goal=-c,
             assumptions=self.get_logic_phrases(),
             verbose=verbose
         )
+        if response:
+            warnings.warn(
+                "\nInformação conflitante com a base de crenças. Nenhuma informação foi adicionada na base de crenças"
+            )
+        return response
