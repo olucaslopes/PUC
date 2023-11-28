@@ -1,13 +1,16 @@
+import pytest
 from phrase_parser.knowledge_base import KnowledgeBase
 from phrase_parser.sentence_parser import SentenceParser
 
 
-def test_socrates_redundancy():
-    p1 = 'Sócrates é homem'
+@pytest.mark.parametrize("p1, p2, p3", [
+    ("Sócrates é homem", "Todos os homens são mortais", "Sócrates é mortal"),
+    ("Nenhum filósofo fala galês", "Jones é um filósofo", "Jones não fala galês"),
+    # ("Todos os lógicos são filósofos.", "Russell é um lógico que não é sábio", "Nem todos os filósofos são sábios.")
+])
+def test_redundancy(p1, p2, p3):
     p1_logic = SentenceParser(p1).parse()
-    p2 = 'Todos os homens são mortais'
     p2_logic = SentenceParser(p2).parse()
-    p3 = 'Sócrates é mortal'
     p3_logic = SentenceParser(p3).parse()
 
     belief_base = KnowledgeBase()
