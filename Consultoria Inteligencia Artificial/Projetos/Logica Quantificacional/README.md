@@ -21,6 +21,38 @@ Para realizar a tarefa, sugere-se iniciar com o projeto já implementado de lóg
 
 Lembrem-se de que vocês também terão que fazer a apresentação no dia 24/11 do projeto. As apresentações ocorrerão no Laboratório 10. A ordem das apresentações será decidida em sala de aula. Não hesitem em me enviar mensagem em caso de dúvida. Como combinado na aula anterior, no dia 17/11 eu ficarei disponível no Teams em horário de aula para dúvidas em relação à implementação do projeto.
 
+## Exemplos de erros ao adicionar premissas
+
+### Contradição
+
+```
+EM CONTRUÇÃO
+```
+
+### Redundância
+
+```
+$ Sócrates é homem
+$ Todo homem é mortal
+$ Sócrates é mortal
+Error: Sócrates é mortal é uma informação que pode ser inferida
+com base nas premisas anteriores
+```
+
+### Tautologia
+
+````
+EM CONTRUÇÃO
+````
+
+### Inconsistência
+
+```
+$ Sócrates é homem
+$ Todo homem é mortal
+$ Sócrates não é mortal
+Error: Informação conflitante com as premisas anteriores
+```
 
 ## Apresentação
 
