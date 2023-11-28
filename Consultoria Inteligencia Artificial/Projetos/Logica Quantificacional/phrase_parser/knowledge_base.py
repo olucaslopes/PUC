@@ -13,13 +13,13 @@ class KnowledgeBase:
         Adds belief to KnowledgeBase if it is valid
         """
         conditions = [self.is_tautology, self.is_contradiction, self.is_redundant, self.is_inconsistent]
-        tautology, contradition, redundant, consistant = [cond(logic_phrase) for cond in conditions]
+        tautology, contradition, redundant, inconsistent = [cond(logic_phrase) for cond in conditions]
         if tautology or contradition:
             print("'phrase' não possui conteúdo informacional. Nenhuma informação foi adicionada na base de crenças")
             return None
         elif redundant:
             print('Informação redundante. Nenhuma informação foi adicionada na base de crenças')
-        elif consistant:
+        elif inconsistent:
             print('Informação conflitante com a base de crenças. Nenhuma informação foi adicionada na base de crenças')
             return None
         else:
