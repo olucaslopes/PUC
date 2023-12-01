@@ -1,4 +1,6 @@
 from phrase_parser.sentence_parser import SentenceParser
+from phrase_parser.expections import (InconsistencyWarning, RedundancyWarning, TautologyWarning,
+                                      ContradictionWarning)
 from nltk.inference.tableau import TableauProver, Expression
 import warnings
 
@@ -63,7 +65,8 @@ class KnowledgeBase:
         )
         if response:
             warnings.warn(
-                f"\n`{logic_exp}` não possui conteúdo informacional. Nenhuma informação foi adicionada na base de crenças"
+                f"\n`{logic_exp}` não possui conteúdo informacional. Nenhuma informação foi adicionada na base de crenças",
+                TautologyWarning
             )
         return response
 
@@ -87,7 +90,8 @@ class KnowledgeBase:
         )
         if response:
             warnings.warn(
-                f"\n`{logic_exp}` não possui conteúdo informacional. Nenhuma informação foi adicionada na base de crenças"
+                f"\n`{logic_exp}` não possui conteúdo informacional. Nenhuma informação foi adicionada na base de crenças",
+                ContradictionWarning
             )
         return response
 
@@ -111,7 +115,8 @@ class KnowledgeBase:
         )
         if response:
             warnings.warn(
-                "\nInformação redundante. Nenhuma informação foi adicionada na base de crenças"
+                "\nInformação redundante. Nenhuma informação foi adicionada na base de crenças",
+                RedundancyWarning
             )
         return response
 
@@ -135,6 +140,7 @@ class KnowledgeBase:
         )
         if response:
             warnings.warn(
-                "\nInformação conflitante com a base de crenças. Nenhuma informação foi adicionada na base de crenças"
+                "\nInformação conflitante com a base de crenças. Nenhuma informação foi adicionada na base de crenças",
+                InconsistencyWarning
             )
         return response
