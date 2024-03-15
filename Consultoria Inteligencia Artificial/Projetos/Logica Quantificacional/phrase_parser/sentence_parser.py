@@ -5,6 +5,7 @@ from phrase_parser.layers.existential_quantification_layer import ExistentialQua
 from phrase_parser.layers.simple_statement_layer import SimpleStatementLayer
 from phrase_parser.layers.universal_negation_layer import UniversalNegationLayer
 from phrase_parser.layers.universal_quantification_layer import UniversalQuantificationLayer
+from phrase_parser.layers.gpt_fallback_layer import GptFallbackLayer
 
 
 class SentenceParser:
@@ -17,7 +18,8 @@ class SentenceParser:
             UniversalQuantificationLayer,
             ExistentialQuantificationLayer,
             UniversalNegationLayer,
-            SimpleStatementLayer
+            GptFallbackLayer
+            # SimpleStatementLayer
         ]
 
     @staticmethod

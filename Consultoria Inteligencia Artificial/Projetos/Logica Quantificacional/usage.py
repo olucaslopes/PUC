@@ -1,5 +1,8 @@
-from phrase_parser.sentence_parser import SentenceParser
+# from phrase_parser.sentence_parser import SentenceParser
+#
+# parser = SentenceParser("Russel é um lógico que náo é sábio")
+# result = str(parser.parse())
+# print(result)
 
-parser = SentenceParser("Nenhum homem não é humano.")
-result = str(parser.parse())
-print(result)
+x = 10
+print(1)
