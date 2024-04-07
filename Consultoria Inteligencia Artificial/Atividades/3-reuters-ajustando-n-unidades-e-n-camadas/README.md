@@ -17,7 +17,7 @@ Data de entrega: 07/04/2024
 
 **Análise**
 
-A arquitetura com 128 unidades obteve uma acurácia de 79,9% no conjunto de teste, um pouco melhor que a arquitetura com 32 unidades. A arquitetura com 32 unidades obteve uma acurácia de 77,8% no conjunto de testes, um pouco pior que a arquitetura com 128 unidades. A arquitetura com 128 unidades foi a que obteve o melhor resultado, o que indica que arquiteturas menores não tem complexidade suficiente para aprender todos os padrões presentes nos dados para separar as 46 classes.
+A arquitetura com 256 unidades foi a que obteve o melhor resultado, o que indica que arquiteturas menores não tem complexidade suficiente para aprender todos os padrões presentes nos dados para separar as 46 classes. Contudo, é notável que a diferença entre as arquiteturas de 256 e 512 unidades é muito pequena, o que indica que a arquitetura com 256 unidades já é suficiente para resolver o problema.
 
 
 ### 2. Usamos duas camadas ocultas `Dense`. Agora, use uma única camada oculta ou três camadas ocultas.
@@ -36,6 +36,6 @@ A arquitetura com 128 unidades obteve uma acurácia de 79,9% no conjunto de test
 
 O modelo com uma única camada oculta teve acurácia de 79,7%, enquanto o modelo de 3 camadas ocultas teve acurácia de 77,6%. Isso provavelmente ocorreu porque o modelo com uma única camada oculta tem complexidade suficiente para aprender os padrões presentes nos dados e separar as 46 classes, enquanto o modelo com 3 camadas ocultas pode ser mais complexo do que o necessário, teve mais overfitting - o que é uma tendência para o aumento do número de camadas.
 
-Uma solução para o overfitting seria adicionar regularização às camadas ocultas. Fizemos isso e o modelo com 3 camadas ocultas + regularização (L1 e L2) tivesse uma acurácia um pior que o modelo com 3 camadas ocultas sem regularização. Isso demonstra que regulaziação nem sempre é a solução para overfitting e que é necessário testar diferentes arquiteturas para encontrar a melhor solução.
+Uma solução para o overfitting seria adicionar regularização às camadas ocultas. Fizemos isso e os modelos com 3 camadas ocultas + regularização (L1 e L2) tiveram. Isso demonstra que regulaziação nem sempre é a solução para overfitting e que é necessário testar diferentes arquiteturas para encontrar a melhor solução.
 
 Um ponto importante também é que baseando-se na métrica `roc_auc_score`, o modelo com 1 camada oculta obteve o melhor resultado, o que indica que ele pode ser o mais adequado para esse problema.
