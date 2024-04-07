@@ -73,7 +73,7 @@ Ao aumentar o número de unidades ocultas, não foi possível observar uma melho
 
 #### 3. Use a função de perda `mse` em vez de `binary_crossentropy`.
 
-<img src="./imgs/loss_comparison.png" width="50%" align="right"/>
+<img src="./imgs/loss_comparison.png" width="45%" align="right"/>
 
 | Função de perda | Acurácia de validação | Acurácia de teste |
 |------------------|-----------------------|-------------------|
@@ -90,7 +90,7 @@ Por fim, a função `binary_crossentropy` foi capaz de convergir significativame
 
 #### 4. Use a ativação `tanh` (uma ativação que era popular nos primeiros dias das redes neurais) em vez de `relu`.
 
-<img src="./imgs/relu_tanh_comparison.png" width="50%" align="right"/>
+<img src="./imgs/relu_tanh_comparison.png" width="45%" align="right"/>
 
 | Função de ativação | Acurácia de validação | Acurácia de teste |
 |--------------------|-----------------------|-------------------|
