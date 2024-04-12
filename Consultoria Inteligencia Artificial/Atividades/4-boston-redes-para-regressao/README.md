@@ -14,6 +14,8 @@ Data de entrega: 14/04/2024
 
 #### Resposta:
 
+Foram treinados 10 modelos de redes neurais com diferentes números de camadas (de 1 a 10 camadas). Os modelos foram treinados por 500 épocas. Para cada modelo, foi calculado o erro médio absoluto (MAE) para os dados de validação e teste. Os resultados obtidos estão apresentados nos gráficos a seguir:
+
 Média Test MAE para cada modelo              |  Validação vs Test MAE para cada modelo
 :-------------------------:|:-------------------------:
 ![](./imgs/average_test_mae_by_layer.png)  |  ![](./imgs/validation_vs_test_mae_by_layer.png)
