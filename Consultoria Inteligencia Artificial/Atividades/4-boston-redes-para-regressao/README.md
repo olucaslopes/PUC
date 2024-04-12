@@ -8,7 +8,11 @@ Data de entrega: 14/04/2024
 - Normalização dos dados
 - Validação cruzada
 
-## Análise
+## Exercícios
+
+### 1. Aumente o número de camadas da rede. Qual é o efeito dessa mudança no *overfitting* da rede?
+
+#### Resposta:
 
 Média Test MAE para cada modelo              |  Validação vs Test MAE para cada modelo
 :-------------------------:|:-------------------------:
