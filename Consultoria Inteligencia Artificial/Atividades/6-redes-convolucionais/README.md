@@ -1,6 +1,6 @@
-# Reuters: Ajustando N unidades e N camadas
+# Começando com redes neurais convolucionais
 
-Data de entrega: 07/04/2024
+Data de entrega: 27/04/2024
 
 ## **Exercícios**
 
